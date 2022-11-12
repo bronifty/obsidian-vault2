@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/wasabi.md",
+                "file": "AWS/Data Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storage/wasabi.md",
+                "file": "AWS/Data Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storage/wasabi.md",
+                "file": "AWS/Data Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/wasabi.md"
+                "file": "AWS/Data Analytics.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "36b4d24aced44c97",
   "lastOpenFiles": [
+    "Ardan Labs/Bill Kennedy Ultimate Go.md",
     "AWS/Data Analytics.md",
-    "storage/wasabi.md",
-    "secrets/wasabi/wasabi storage.md",
-    "Python/venv and pip requirements.md",
-    "Python/Untitled 1.md",
     "scripts/python/boto3 multipart upload to aws s3.md",
-    "media/images/web3 (1).png",
-    "media/images/web3.md",
-    "media/images/web3.png",
-    "other/Node Streams.md"
+    "storage/wasabi.md",
+    "other/Python.md",
+    "Python/venv and pip requirements.md",
+    "other/Twitch Webhooks.md",
+    "other/Theo.md",
+    "media/images/Screen Shot 2022-10-08 at 9.33.18 PM.png",
+    "other/Remix Auth.md"
   ]
 }
