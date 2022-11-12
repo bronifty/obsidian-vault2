@@ -3,7 +3,7 @@
 ### Currently studying
 - AWS Data (ACG & OMG Adam is streaming)
 - Go and k8s infra (Bill)
-- Node Streams (Matteo)
+- Node Streams (Matteo & Erick)
 - Fullstack (KCD)
 
 ### Projects
