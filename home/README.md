@@ -8,7 +8,7 @@
 
 ### Projects
 - [Mern Stack on Vite hosted by Vercel](http://vite-vercel-opal.vercel.app/ "vite-vercel-opal.vercel.app")
-	- This is the only project i finished so far that I'm proud of. It is a refactor of [John Smilga's first project for Node](https://www.youtube.com/watch?v=rltfdjcXjmk) using HTML CSS and Javascript, which I converted to React on the frontend and ported to serverless functions from standard Express API routes to run on 3 backends: AWS Lambda via the 'serverless framework', Netlify and Vercel. It is a Mongo with Mongoose model based Node and React project. 
+	- This is the only project i finished so far that I'm proud of. It is a refactor of [John Smilga's first project for Node](https://www.youtube.com/watch?v=rltfdjcXjmk) using HTML CSS and Javascript, which I converted to React on the frontend and ported to serverless functions from standard Express API routes to run on 3 backends: AWS Lambda via the 'serverless framework', Netlify and Vercel. It is a Mongo with Mongoose model based Node and React project with Tanstack Query as the data mechanism. 
 	- [Github](https://github.com/bronifty/serverless-mern-stack-vite)
 ![[mernstack-ss.png]]
 
