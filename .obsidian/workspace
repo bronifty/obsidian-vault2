@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a29a7fc7e640c1ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "65de3f3a91ce1fb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitOps Fundamentals.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26bbe8dc2c05aebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "12dad44245f8603c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46860ead13aa0dac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91ef42d764e80b68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcae51eb9fbacb5d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 153.5068016052246
+  },
+  "right": {
+    "id": "ed96c2e39645ebb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6952a44b6b8984be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2961334b5b5a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitOps Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e80f85748351a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitOps Fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e23aab2b594c1325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b48abc3ca499135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitOps Fundamentals.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65de3f3a91ce1fb7",
+  "lastOpenFiles": [
+    "Twitch Webhooks.md",
+    "web3.md",
+    "web3.png",
+    "web3 (1).png",
+    "Bill Kennedy Ultimate Service.md",
+    "platformatic db.md",
+    "OAUTH 2.md",
+    "Remix Auth.md",
+    "Apache Spark.md",
+    "Redis.md"
+  ]
+}
