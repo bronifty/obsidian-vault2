@@ -1,5 +1,7 @@
 # Welcome to bro nifty's notes
 
+[return to main site](https://bronifty.xyz/)
+
 ![[library.jpg]]
 
 > [!INFO]- Currently Studying 
