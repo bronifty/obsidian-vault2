@@ -27,6 +27,7 @@
 
 
 > [!todo]- TODO
+> - Create frontend site for bronifty domain (use notes subdomain for obsidian publish)
 > - Cloud Certs (platform engineering to deploy like an SRE and enable self-serve for whole teams)
 > 	- AWS Data Specialty
 > 	- CKAD

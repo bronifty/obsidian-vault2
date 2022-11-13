@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f72470038f1dcdf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1c408dd9d581327",
+            "id": "fb7dd87d8e85d754",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1c408dd9d581327",
+  "active": "fb7dd87d8e85d754",
   "lastOpenFiles": [
     "home/README.md",
+    "tailwind/pro tailwind.md",
+    "other/Apache Spark.md",
+    "storage/google photos.md",
+    "storage/minio.md",
+    "oss/remix/contributions.md",
+    "other/Twitch Webhooks.md",
     "home/notes.bronifty.xyz.md",
     "AWS/Data Analytics.md",
-    "other/Superface.md",
-    "scripts/python/boto3-multipart-upload.md",
-    "media/images/library.jpg",
-    "media/images/bronifty_logo.png",
-    "Ardan Labs/Bill Kennedy Ultimate Go.md",
-    "storage/wasabi.md",
-    "other/Python.md"
+    "other/Superface.md"
   ]
 }
