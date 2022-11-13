@@ -34,7 +34,10 @@ aws s3 sync s3://das-demos .
 aws s3 rb s3://bronifty-testbucket-12345 --force
 aws s3 mb s3://bronifty
 ```
-- [boto3 multipart upload to s3](obsidian://open?vault=Obsidian%20Vault&file=scripts%2Fpython%2Fboto3%20multipart%20upload%20to%20aws%20s3)
+> [!INFO]- boto3 multipart upload
+>  ![[boto3-multipart-upload]]
+
+- obsidian://open?vault=Obsidian%20Vault&file=scripts%2Fpython%2Fboto3%20multipart%20upload%20to%20aws%20s3
 - [multer s3 multipart upload node and react](https://github.com/bronifty/s3-upload-v3)
 - Storage classes
 	- Standard

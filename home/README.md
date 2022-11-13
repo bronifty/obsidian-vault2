@@ -27,7 +27,7 @@
 > [!todo]- TODO
 > - Cloud Certs (platform engineering to deploy like an SRE and enable self-serve for whole teams)
 > 	- AWS Data Specialty
-> 	- KCAD
+> 	- CKAD
 > 	- GCP Data Engineer
 > - Node Streams (because streams are everything)
 > 	- Build a Music and Video Streaming App like Spotify and Netflix clones with special attention to the media server storage layer and APIs

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/README.md",
+                "file": "AWS/Data Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/README.md",
+                "file": "AWS/Data Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/README.md",
+                "file": "AWS/Data Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/README.md"
+                "file": "AWS/Data Analytics.md"
               }
             }
           }
@@ -139,12 +139,12 @@
   },
   "active": "f72470038f1dcdf6",
   "lastOpenFiles": [
-    "media/images/library.jpg",
     "home/README.md",
     "AWS/Data Analytics.md",
+    "scripts/python/boto3-multipart-upload.md",
+    "media/images/library.jpg",
     "media/images/bronifty_logo.png",
     "Ardan Labs/Bill Kennedy Ultimate Go.md",
-    "scripts/python/boto3 multipart upload to aws s3.md",
     "storage/wasabi.md",
     "other/Python.md",
     "Python/venv and pip requirements.md",
