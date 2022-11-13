@@ -34,11 +34,13 @@ aws s3 sync s3://das-demos .
 aws s3 rb s3://bronifty-testbucket-12345 --force
 aws s3 mb s3://bronifty
 ```
-> [!INFO]- boto3 multipart upload
->  [![[boto3-multipart-upload]]](<[boto3 multipart upload](https://gist.github.com/bronifty/b939c4c5ffe5f9c750e7f22592631736#file-multipartupload-py)>)
 
-- obsidian://open?vault=Obsidian%20Vault&file=scripts%2Fpython%2Fboto3%20multipart%20upload%20to%20aws%20s3
-- [multer s3 multipart upload node and react](https://github.com/bronifty/s3-upload-v3)
+> [!INFO]- boto3 multipart upload
+>  [boto3 multipart upload](https://gist.github.com/bronifty/b939c4c5ffe5f9c750e7f22592631736#file-multipartupload-py)
+
+> [!INFO]- multer-s3 multipart upload
+>  [multer s3 multipart upload node and react](https://github.com/bronifty/s3-upload-v3)
+- 
 - Storage classes
 	- Standard
 	- Intelligent Tiering (management engine)
