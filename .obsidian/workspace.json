@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/README.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/README.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/README.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/README.md"
+                "file": "tailwind/Tailwind With React From Scratch.md"
               }
             }
           }
@@ -139,11 +139,11 @@
   },
   "active": "70d8c86ae86a1832",
   "lastOpenFiles": [
-    "storage/google photos.md",
+    "tailwind/pro tailwind.md",
     "tailwind/setup.md",
     "tailwind/Tailwind With React From Scratch.md",
-    "tailwind/pro tailwind.md",
     "home/README.md",
+    "storage/google photos.md",
     "other/Apache Spark.md",
     "storage/minio.md",
     "oss/remix/contributions.md",
