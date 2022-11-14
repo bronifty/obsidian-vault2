@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb7dd87d8e85d754",
+            "id": "70d8c86ae86a1832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tailwind/pro tailwind.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.500732421875
+    "width": 208.500732421875,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tailwind/pro tailwind.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tailwind/pro tailwind.md",
+                "file": "tailwind/Tailwind With React From Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tailwind/pro tailwind.md"
+                "file": "tailwind/Tailwind With React From Scratch.md"
               }
             }
           }
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb7dd87d8e85d754",
+  "active": "70d8c86ae86a1832",
   "lastOpenFiles": [
-    "home/README.md",
     "tailwind/pro tailwind.md",
+    "tailwind/setup.md",
+    "tailwind/Tailwind With React From Scratch.md",
+    "home/README.md",
     "other/Apache Spark.md",
     "storage/google photos.md",
     "storage/minio.md",
     "oss/remix/contributions.md",
     "other/Twitch Webhooks.md",
-    "home/notes.bronifty.xyz.md",
-    "AWS/Data Analytics.md",
-    "other/Superface.md"
+    "home/notes.bronifty.xyz.md"
   ]
 }
