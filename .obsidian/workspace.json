@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46860ead13aa0dac",
+  "active": "70d8c86ae86a1832",
   "lastOpenFiles": [
+    "tailwind/test.md",
+    "tailwind/React From Scratch With Tailwind.md",
     "tailwind/pro tailwind.md",
     "tailwind/setup.md",
-    "tailwind/React From Scratch With Tailwind.md",
     "home/README.md",
     "storage/google photos.md",
     "other/Apache Spark.md",
     "storage/minio.md",
     "oss/remix/contributions.md",
-    "other/Twitch Webhooks.md",
-    "home/notes.bronifty.xyz.md"
+    "other/Twitch Webhooks.md"
   ]
 }
