@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tailwind/setup.md",
+                "file": "home/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tailwind/setup.md",
+                "file": "home/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tailwind/setup.md",
+                "file": "home/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tailwind/setup.md"
+                "file": "home/README.md"
               }
             }
           }
@@ -139,12 +139,12 @@
   },
   "active": "70d8c86ae86a1832",
   "lastOpenFiles": [
+    "storage/google photos.md",
+    "tailwind/setup.md",
     "tailwind/Tailwind With React From Scratch.md",
     "tailwind/pro tailwind.md",
-    "tailwind/setup.md",
     "home/README.md",
     "other/Apache Spark.md",
-    "storage/google photos.md",
     "storage/minio.md",
     "oss/remix/contributions.md",
     "other/Twitch Webhooks.md",
