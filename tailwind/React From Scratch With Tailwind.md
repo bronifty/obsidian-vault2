@@ -1,4 +1,4 @@
-
+- [YouTube Tutorial](https://www.youtube.com/watch?v=spW-DkoPG-4)
 - [pr.new (Stackblitz)](https://stackblitz.com/~/github.com/bronifty/react-from-scratch-with-tailwind-dark-mode)
 
 ##### Setup Project Dependencies + File System
