@@ -1,4 +1,5 @@
 - [YouTube tut](https://www.youtube.com/watch?v=DtuL1ALeD2c)
+- [Github repo](https://github.com/bronifty/uploadBufferToS3-js-node)
 
 ```shell
 # .env
