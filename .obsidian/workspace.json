@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3ec3fb82430937",
+        "id": "0fd074c76eb69f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "14a1a05c283df885",
+            "id": "480f7e39fc6e5fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/upload a photo url buffer to s3.md",
+                "file": "react/remix-react-router/react-router tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.500732421875,
-    "collapsed": true
+    "width": 208.500732421875
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storage/upload a photo url buffer to s3.md",
+                "file": "react/remix-react-router/react-router tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storage/upload a photo url buffer to s3.md",
+                "file": "react/remix-react-router/react-router tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/upload a photo url buffer to s3.md"
+                "file": "react/remix-react-router/react-router tutorial.md"
               }
             }
           }
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14a1a05c283df885",
+  "active": "480f7e39fc6e5fd8",
   "lastOpenFiles": [
-    "storage/google photos.md",
-    "storage/upload a photo url buffer to s3.md",
-    "storage/wasabi.md",
-    "tailwind/React From Scratch With Tailwind.md",
+    "headless/bi/headless-bi-cube.dev-bigquery.md",
+    "react/remix-react-router/react-router tutorial.md",
+    "sync/js global message bus.md",
+    "sync/swizec-eventbus-tweet.md",
+    "Ardan Labs/Bill Kennedy Ultimate Go.md",
+    "TkDodo - 1593314254949699587/swizec-eventbus-tweet.md",
+    "Swizec - 1593338666818019328/Swizec - 1593338666818019328.md",
+    "other/OAUTH 2.md",
     "other/Rive.app.md",
-    "tailwind/pro tailwind.md",
-    "tailwind/test.md",
-    "tailwind/setup.md",
-    "home/README.md",
-    "other/Apache Spark.md"
+    "other/platformatic db.md"
   ]
 }
