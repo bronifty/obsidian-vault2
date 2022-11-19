@@ -1,3 +1,5 @@
+- [YouTube tut](https://www.youtube.com/watch?v=DtuL1ALeD2c)
+
 ```shell
 # .env
 UPLOAD_URL=http://i3.ytimg.com/vi/J---aiyznGQ/mqdefault.jpg
