@@ -1,3 +1,6 @@
 - [frontegg](https://frontegg.com/pricing)
 - [fusionauth](https://fusionauth.io/)
+- [passport](https://www.passportjs.org/concepts/authentication/oauth/)
+- [fastly](https://developer.fastly.com/solutions/starters/compute-rust-auth/)
+- [authlete](https://www.authlete.com/)
 - 

@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frameworks/react/remix-react-router/remix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "917802f999224ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "auth/services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "906802ec48b0d574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "auth/microservices/JWT RBAC Header.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9ecf0bf3191e552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "auth/microservices/SPIFFE and SPIRE.md",
+                "file": "observability/Observability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auth/microservices/SPIFFE and SPIRE.md",
+                "file": "observability/Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auth/microservices/SPIFFE and SPIRE.md",
+                "file": "observability/Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "auth/microservices/SPIFFE and SPIRE.md"
+                "file": "observability/Observability.md"
               }
             }
           }
@@ -174,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9ecf0bf3191e552",
+  "active": "d6e9ef4953000139",
   "lastOpenFiles": [
+    "ui/sketch/Sketch.md",
+    "observability/Observability.md",
+    "auth/services.md",
+    "frameworks/react/remix-react-router/remix.md",
     "auth/microservices/JWT RBAC Header.md",
+    "auth/microservices/SPIFFE and SPIRE.md",
     "data/db/cockroachdb/cockroachdb notes.md",
     "backends/Go/gRPC & protobuf/connect.build.md",
-    "auth/services.md",
     "frameworks/elixir/Elixir Notes.md",
-    "frameworks/react/remix-react-router/remix.md",
-    "oss/remix/contributions.md",
-    "backends/MessageBus/NATS/Synadia RethinkConn 2022.md",
-    "backends/MessageBus/NATS/Synadia Whiteboard JS.md",
-    "headless/bi/headless-bi-cube.dev-bigquery.md"
+    "oss/remix/contributions.md"
   ]
 }
