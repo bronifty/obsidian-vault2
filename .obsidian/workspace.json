@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/bi/headless/cube dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b281a6a7378b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/bi/headless/cube dev.md",
+                "file": "courses/course links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/bi/headless/cube dev.md",
+                "file": "courses/course links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/bi/headless/cube dev.md",
+                "file": "courses/course links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/bi/headless/cube dev.md"
+                "file": "courses/course links.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7b281a6a7378b65",
+  "active": "3c5e0a8a99ecc725",
   "lastOpenFiles": [
-    "data/viz/viz notes.md",
+    "media/bookmarks/bookmarks_courses_v2.html",
+    "cache/cache busting.md",
+    "courses/course links.md",
     "data/bi/headless/cube dev.md",
+    "data/viz/viz notes.md",
     "bookmarks_headless_bi.md",
     "ui/ui notes.md",
     "platforms/GCP/Notes.md",
     "data/etl/T.md",
-    "data/analytical engine/analytical engines notes.md",
-    "data/db/redis/redis notes.md",
-    "data/db/duckdb/duckdb notes.md",
-    "frameworks/react/remix-react-router/remix.md"
+    "data/analytical engine/analytical engines notes.md"
   ]
 }
