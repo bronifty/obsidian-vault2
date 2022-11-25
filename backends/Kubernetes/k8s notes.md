@@ -1,0 +1,4 @@
+- [okteto dev envs](https://www.okteto.com/)
+- [acorn - deploy k8s with docker workflow](https://docs.acorn.io/reference/command-line/acorn_login)
+- [humanitec platform engineering](https://humanitec.com/learning-hub)
+- 
