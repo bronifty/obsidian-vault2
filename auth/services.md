@@ -1,2 +1,3 @@
 - [frontegg](https://frontegg.com/pricing)
+- [fusionauth](https://fusionauth.io/)
 - 

@@ -1,0 +1,2 @@
+- [rethinkconn2022 works with bronifty gmail account login](https://app.hopin.com/events/rethinkconn-2022/replay)
+- 
