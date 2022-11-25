@@ -1,0 +1,2 @@
+- [svelte and rust wasm](https://blog.logrocket.com/integrating-svelte-app-rust-webassembly)
+- 
