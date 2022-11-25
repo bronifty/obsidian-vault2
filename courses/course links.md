@@ -1,6 +1,3 @@
-# Bookmarks
-
-### Bookmarks Bar
 
 [Manning Dashboard](https://www.manning.com/dashboard/)
 
@@ -105,6 +102,8 @@
 [Ardan Labs Education](https://courses.ardanlabs.com/enrollments)
 
 [Quality Code with Go](https://thenjdevopsguy.gumroad.com/l/ASyXy)
+
+### Systems Design
 
 [ByteByteGo systems design](https://bytebytego.com/courses/system-design-interview/distributed-message-queue)
 
