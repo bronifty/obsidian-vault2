@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/etl/EL.md",
+                "file": "crypto/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/etl/EL.md",
+                "file": "crypto/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/etl/EL.md",
+                "file": "crypto/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/etl/EL.md"
+                "file": "crypto/Notes.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "c767874574f3b2f8",
   "lastOpenFiles": [
-    "data/etl/streaming/streaming EL.md",
-    "data/etl/EL.md",
     "payments/Payments Notes.md",
+    "data/etl/EL.md",
+    "data/etl/streaming/streaming EL.md",
     "frameworks/Angular/Security/Angular Security.md",
     "frameworks/Angular/DI/Angular DI IOC.md",
     "documentation/tools.md",
