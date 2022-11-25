@@ -1,3 +1,4 @@
 - [custom fmtv @startupslick](https://linktr.ee/startupslick)
 	- Note: I gotta learn how to make websites and make this guy a free one with an online store to sell his wares including a calendar to book appointments for services
-	- 
+- [van life academy](https://projectvanlife.com/courses/van-life-academy/?_=140)
+- 
