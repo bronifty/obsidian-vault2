@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a00747d381dbf755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backends/Backends Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto/Notes.md",
+                "file": "backends/Backends Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crypto/Notes.md",
+                "file": "backends/Backends Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto/Notes.md"
+                "file": "backends/Backends Notes.md"
               }
             }
           }
@@ -150,8 +162,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c767874574f3b2f8",
+  "active": "a00747d381dbf755",
   "lastOpenFiles": [
+    "crypto/Notes.md",
     "payments/Payments Notes.md",
     "data/etl/EL.md",
     "data/etl/streaming/streaming EL.md",
@@ -160,7 +173,6 @@
     "documentation/tools.md",
     "documentation/api docs/Auto-Documenting Swagger.md",
     "data/db/redis/redis notes.md",
-    "security/tls/TLS Notes.md",
-    "portfolio & product/examples.md"
+    "security/tls/TLS Notes.md"
   ]
 }
