@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "courses/course links.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "courses/course links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "courses/course links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automation/low code and step function integration tools.md"
+                "file": "courses/course links.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "923602dd690a4a54",
   "lastOpenFiles": [
+    "automation/low code and step function integration tools.md",
     "automation/internal dev tools.md",
     "platforms/level 2/Level 2 Platforms Notes.md",
     "platforms/level 1/IPFS/IPFS Notes.md",
@@ -147,7 +148,6 @@
     "backends/Serverless/serverless-functions.md",
     "media processing/notes.md",
     "libraries/Libraries Notes.md",
-    "payments/Payments Notes.md",
-    "realtime/messaging.md"
+    "payments/Payments Notes.md"
   ]
 }
