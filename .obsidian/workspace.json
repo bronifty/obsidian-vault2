@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0e1065b443fd0c",
+        "id": "8d671b5fd27d7a18",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a297320c2ddbac",
+            "id": "affaa906938165e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech bros/general.md",
+                "file": "security/identity/SPIFFE and SPIRE.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech bros/general.md",
+                "file": "security/identity/SPIFFE and SPIRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech bros/general.md",
+                "file": "security/identity/SPIFFE and SPIRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech bros/general.md"
+                "file": "security/identity/SPIFFE and SPIRE.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9a297320c2ddbac",
+  "active": "affaa906938165e5",
   "lastOpenFiles": [
     "security/identity/self.id.md",
-    "tech bros/general.md",
-    "realtime/Realtime Notes.md",
-    "security/auth/services.md",
-    "platforms/Fastly/Fastly.md",
-    "platforms/IPFS/IPFS Notes.md",
-    "headless/bi/headless-bi-cube.dev-bigquery.md",
-    "security/tls/TLS Notes.md",
     "backends/Go/CaddyServer.md",
-    "platforms/Firebase/Firebase.md"
+    "backends/Go/Go.dev tut.md",
+    "realtime/Realtime Notes.md",
+    "tech bros/general.md",
+    "security/auth/microservices/JWT RBAC Header.md",
+    "security/tls/TLS Notes.md",
+    "security/identity/SPIFFE and SPIRE.md",
+    "security/auth/services.md",
+    "platforms/Fastly/Fastly.md"
   ]
 }
