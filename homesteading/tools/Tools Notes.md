@@ -1,3 +1,6 @@
+##### Vanlife 
+- [van life academy](https://projectvanlife.com/courses/van-life-academy/?_=140)
+
 ##### 3D Modeling
 - [sketchup 3d modeling](https://www.sketchup.com/)
 
@@ -7,7 +10,6 @@
 
 ##### A/C
 - [DC-power roof-mounted trucker Air Conditioning](https://www.dometic.com/en-us/professional/special-vehicle-and-truck-solutions/parking-coolers/dometic-rtx-2000-262673)
-
 ##### Satellite
 - [starlink for RV](https://www.starlink.com/rv)
 
@@ -16,4 +18,7 @@
 
 ##### Tactical Gear
 - [molle pack](https://sourcetacticalgear.com/what-is-molle-why-all-quality-tactical-gear-has-it/)
+- [mobilemusthave](https://mobilemusthave.com/)
+
+
 
