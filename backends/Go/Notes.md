@@ -1,2 +1,0 @@
-- [usegolang.com](https://www.usegolang.com/)
-- 

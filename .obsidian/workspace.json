@@ -23,8 +23,12 @@
             "id": "4000d732ec3ff97f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "backends/Go/Golang Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backends/Go/Golang Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backends/Go/Golang Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "backends/Go/Golang Notes.md"
+              }
             }
           }
         ]
@@ -142,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46860ead13aa0dac",
+  "active": "4000d732ec3ff97f",
   "lastOpenFiles": [
-    "backends/GraphQL/GraphQL Notes.md",
+    "backends/Go/CaddyServer.md",
+    "backends/Go/Go.dev tut.md",
+    "backends/Go/Golang Notes.md",
     "backends/GraphQL/Jamie OneWeek GraphQL.md",
+    "backends/GraphQL/GraphQL Notes.md",
     "data/etl/T.md",
     "data/etl/EL.md",
     "data/viz/viz notes.md",
     "backends/Kubernetes/k8s notes.md",
-    "realtime/Realtime Notes.md",
-    "realtime/messaging.md",
-    "media processing/notes.md",
-    "courses/course links.md"
+    "realtime/Realtime Notes.md"
   ]
 }
