@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/course links.md",
+                "file": "automation/low code and step function integration tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/course links.md",
+                "file": "automation/low code and step function integration tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/course links.md",
+                "file": "automation/low code and step function integration tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/course links.md"
+                "file": "automation/low code and step function integration tools.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "923602dd690a4a54",
   "lastOpenFiles": [
-    "automation/low code and step function integration tools.md",
     "automation/internal dev tools.md",
+    "automation/low code and step function integration tools.md",
+    "courses/course links.md",
     "platforms/level 2/Level 2 Platforms Notes.md",
     "platforms/level 1/IPFS/IPFS Notes.md",
     "platforms/level 1/AWS/Solution Architect Pro.md",
     "platforms/level 1/AWS/Data Analytics.md",
     "backends/Serverless/serverless-functions.md",
     "media processing/notes.md",
-    "libraries/Libraries Notes.md",
-    "payments/Payments Notes.md"
+    "libraries/Libraries Notes.md"
   ]
 }
