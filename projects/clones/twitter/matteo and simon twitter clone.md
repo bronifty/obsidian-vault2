@@ -1,0 +1,2 @@
+- [video](https://www.youtube.com/watch?v=EfFRenV0YcY)
+- ![[matteo-simon-twitter-clone.md]]
