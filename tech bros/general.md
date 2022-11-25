@@ -6,4 +6,5 @@
 - [simonplend](https://simonplend.com/blog/)
 - [davideast](https://davidea.st/)
 - [alexkates][https://alexkates.dev/]
+- [alex sidorenko](https://alexsidorenko.com/)
 - 

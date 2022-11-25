@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "tech bros/general.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "tech bros/general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "tech bros/general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "realtime/Realtime Notes.md"
+                "file": "tech bros/general.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "b9a297320c2ddbac",
   "lastOpenFiles": [
+    "security/identity/self.id.md",
+    "tech bros/general.md",
+    "realtime/Realtime Notes.md",
     "security/auth/services.md",
     "platforms/Fastly/Fastly.md",
     "platforms/IPFS/IPFS Notes.md",
-    "realtime/Realtime Notes.md",
     "headless/bi/headless-bi-cube.dev-bigquery.md",
     "security/tls/TLS Notes.md",
     "backends/Go/CaddyServer.md",
-    "tech bros/general.md",
-    "platforms/Firebase/Firebase.md",
-    "security/auth/how to.md"
+    "platforms/Firebase/Firebase.md"
   ]
 }
