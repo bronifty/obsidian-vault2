@@ -1,0 +1,2 @@
+- [nearform owasp top 10](https://www.nearform.com/blog/owasp-top-ten-workshop/)
+- 
