@@ -2,4 +2,7 @@
 
 ##### Apis
 - [apilayer](https://apilayer.com/)
+
+##### Functional Programming
+- [rescript](https://rescript-lang.org/try)
 - 

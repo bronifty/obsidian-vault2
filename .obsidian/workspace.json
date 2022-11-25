@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c5e0a8a99ecc725",
+            "id": "923602dd690a4a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "realtime/Realtime Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4000d732ec3ff97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backends/Go/Golang Notes.md",
+                "file": "automation/low code and step function integration tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backends/Go/Golang Notes.md",
+                "file": "automation/low code and step function integration tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backends/Go/Golang Notes.md",
+                "file": "automation/low code and step function integration tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backends/Go/Golang Notes.md"
+                "file": "automation/low code and step function integration tools.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4000d732ec3ff97f",
+  "active": "923602dd690a4a54",
   "lastOpenFiles": [
-    "backends/Go/CaddyServer.md",
-    "backends/Go/Go.dev tut.md",
-    "backends/Go/Golang Notes.md",
-    "backends/GraphQL/Jamie OneWeek GraphQL.md",
-    "backends/GraphQL/GraphQL Notes.md",
-    "data/etl/T.md",
-    "data/etl/EL.md",
-    "data/viz/viz notes.md",
-    "backends/Kubernetes/k8s notes.md",
-    "realtime/Realtime Notes.md"
+    "automation/internal dev tools.md",
+    "platforms/level 2/Level 2 Platforms Notes.md",
+    "platforms/level 1/IPFS/IPFS Notes.md",
+    "platforms/level 1/AWS/Solution Architect Pro.md",
+    "platforms/level 1/AWS/Data Analytics.md",
+    "backends/Serverless/serverless-functions.md",
+    "media processing/notes.md",
+    "libraries/Libraries Notes.md",
+    "payments/Payments Notes.md",
+    "realtime/messaging.md"
   ]
 }
