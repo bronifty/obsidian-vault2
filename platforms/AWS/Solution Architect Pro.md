@@ -1,0 +1,4 @@
+- [loige.com awssap notes](https://loige.co/aws-solution-architect-professional-exam-notes-tips/)
+- [awsguess][https://awguess.com/]
+- [aws cert page](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- 
