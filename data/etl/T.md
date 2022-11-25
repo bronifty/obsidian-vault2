@@ -1,2 +1,3 @@
 - [dbt](https://courses.getdbt.com/collections)
+- [dagster](https://dagster.io/blog/dagster-crash-course-oct-2022)
 - 
