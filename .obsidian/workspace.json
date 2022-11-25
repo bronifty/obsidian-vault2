@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/course links.md",
+                "file": "media processing/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/course links.md",
+                "file": "media processing/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/course links.md",
+                "file": "media processing/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/course links.md"
+                "file": "media processing/notes.md"
               }
             }
           }
@@ -137,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c5e0a8a99ecc725",
+  "active": "46860ead13aa0dac",
   "lastOpenFiles": [
     "realtime/Realtime Notes.md",
-    "realtime/messaging.md",
     "courses/course links.md",
+    "realtime/messaging.md",
     "media/bookmarks/bookmarks_courses_v3.html",
     "media/bookmarks/bookmarks_courses_v2.html",
     "cache/cache busting.md",
