@@ -1,0 +1,6 @@
+- [web dev junkie does some neat stuff gotta check in on this later](https://www.youtube.com/@WebDevJunkie)
+- [sam meech]
+- [tomdoestech]
+- [josh morony angular and ionic]()
+- [jon meyers egghead.io and supabase]
+- 

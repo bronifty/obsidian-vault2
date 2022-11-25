@@ -1,0 +1,2 @@
+- [fastify plugin system](https://www.nearform.com/blog/complete-guide-fastify-plugin-system)
+- 

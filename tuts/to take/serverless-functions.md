@@ -1,0 +1,3 @@
+- [serverless and go](https://dev.to/hackmamba/supercharge-go-apis-with-serverless-functions-4o6d)
+- [serverless and rust](https://dev.to/hackmamba/supercharge-rust-apis-with-serverless-functions-bb2)
+- 

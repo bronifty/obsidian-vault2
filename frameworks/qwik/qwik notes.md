@@ -1,0 +1,2 @@
+- [7 movie apps which fastest qwik](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
+- 

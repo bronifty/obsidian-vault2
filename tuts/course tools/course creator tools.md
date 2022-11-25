@@ -1,0 +1,3 @@
+- [ryan chenkie courselift](https://courselift.com/)
+- [synthesia.io](https://synthesia.io)
+- 

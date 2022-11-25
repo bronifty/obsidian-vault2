@@ -1,0 +1,4 @@
+- [youtube clone](https://www.youtube.com/watch?v=hPck3Q13wdE)
+- [fastify api](https://www.youtube.com/watch?v=LMoMHP44-xM)
+- [password manager](https://www.youtube.com/watch?v=wHVzfjrD1Xg)
+- 

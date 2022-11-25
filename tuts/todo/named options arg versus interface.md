@@ -1,0 +1,2 @@
+- stimulus: https://www.youtube.com/shorts/GlN7rTtrehs
+- response: something that shows using objects versus using types/interfaces like with the platformatic db example for movies

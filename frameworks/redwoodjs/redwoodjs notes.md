@@ -1,0 +1,3 @@
+- [canonical tut - getting started](https://redwoodjs.com/)
+- [ryan chenkie queues with redwoodjs](https://ryanchenkie.com/blog/how-to-use-queues-with-redwoodjs)
+- 

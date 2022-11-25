@@ -1,0 +1,3 @@
+- coursework is in purchased folder of wasabi s3 bucket
+- [angularcasts.io](https://angularcasts.io/)
+- 
