@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "documentation/tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "documentation/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automation/low code and step function integration tools.md",
+                "file": "documentation/tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automation/low code and step function integration tools.md"
+                "file": "documentation/tools.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "923602dd690a4a54",
   "lastOpenFiles": [
-    "automation/internal dev tools.md",
+    "documentation/api docs/Auto-Documenting Swagger.md",
+    "payments/Payments Notes.md",
+    "data/db/redis/redis notes.md",
+    "security/tls/TLS Notes.md",
+    "portfolio & product/examples.md",
     "automation/low code and step function integration tools.md",
+    "automation/internal dev tools.md",
     "courses/course links.md",
     "platforms/level 2/Level 2 Platforms Notes.md",
-    "platforms/level 1/IPFS/IPFS Notes.md",
-    "platforms/level 1/AWS/Solution Architect Pro.md",
-    "platforms/level 1/AWS/Data Analytics.md",
-    "backends/Serverless/serverless-functions.md",
-    "media processing/notes.md",
-    "libraries/Libraries Notes.md"
+    "platforms/level 1/IPFS/IPFS Notes.md"
   ]
 }
