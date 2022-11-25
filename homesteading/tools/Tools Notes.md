@@ -11,3 +11,9 @@
 ##### Satellite
 - [starlink for RV](https://www.starlink.com/rv)
 
+##### Appliances
+- [LG](https://www.lg.com/us)
+
+##### Tactical Gear
+- [molle pack](https://sourcetacticalgear.com/what-is-molle-why-all-quality-tactical-gear-has-it/)
+
