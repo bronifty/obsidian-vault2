@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "923602dd690a4a54",
+            "id": "893bd803bae5e322",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "893bd803bae5e322",
+            "id": "4ba5b62e618a52b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "homesteading/land/Land Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e28bb43ddba9d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homesteading/trucking/Trucking Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee8c191bb4ccc036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homesteading/trucking/Trucking Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "homesteading/trucking/Trucking Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "homesteading/trucking/Trucking Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md"
+                "file": "homesteading/trucking/Trucking Notes.md"
               }
             }
           }
@@ -150,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "893bd803bae5e322",
+  "active": "ee8c191bb4ccc036",
   "lastOpenFiles": [
+    "homesteading/trucking/Trucking Bookmarks.md",
     "homesteading/trucking/Trucking Notes.md",
-    "homesteading/tools/Tools Notes.md",
-    "homesteading/Power/Power Notes.md",
-    "cms/Notes.md",
-    "homesteading/housing/housing notes.md",
+    "media/bookmarks/bookmarks_trucks.html",
+    "media/bookmarks/bookmarks_courses_v3.html",
+    "homesteading/campgrounds/Campgrounds Notes.md",
+    "homesteading/land/Land Notes.md",
     "homesteading/campers/Campers Notes.md",
-    "data/etl/EL.md",
-    "crypto/Crypto Notes.md",
-    "backends/Backends Notes.md",
-    "payments/Payments Notes.md"
+    "homesteading/tools/Tools Notes.md",
+    "homesteading/housing/housing notes.md",
+    "homesteading/Power/Power Notes.md"
   ]
 }

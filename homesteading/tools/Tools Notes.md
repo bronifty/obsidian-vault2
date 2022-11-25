@@ -19,6 +19,12 @@
 ##### Tactical Gear
 - [molle pack](https://sourcetacticalgear.com/what-is-molle-why-all-quality-tactical-gear-has-it/)
 - [mobilemusthave](https://mobilemusthave.com/)
+- [mediocremanor](https://www.mediocremanor.com/resources/)
+- [opensourcelowtech](https://opensourcelowtech.org/)
+
+
+
+
 
 
 
