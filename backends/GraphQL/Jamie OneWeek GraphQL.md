@@ -1,2 +1,0 @@
-- [oneweekgraphql](https://oneweekgraphql.com/)
-- 

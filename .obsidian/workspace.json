@@ -23,12 +23,8 @@
             "id": "4000d732ec3ff97f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/etl/T.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/etl/T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/etl/T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data/etl/T.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4000d732ec3ff97f",
+  "active": "46860ead13aa0dac",
   "lastOpenFiles": [
+    "backends/GraphQL/GraphQL Notes.md",
+    "backends/GraphQL/Jamie OneWeek GraphQL.md",
+    "data/etl/T.md",
     "data/etl/EL.md",
     "data/viz/viz notes.md",
     "backends/Kubernetes/k8s notes.md",
     "realtime/Realtime Notes.md",
     "realtime/messaging.md",
     "media processing/notes.md",
-    "courses/course links.md",
-    "media/bookmarks/bookmarks_courses_v3.html",
-    "media/bookmarks/bookmarks_courses_v2.html",
-    "cache/cache busting.md"
+    "courses/course links.md"
   ]
 }

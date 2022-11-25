@@ -1,2 +1,3 @@
+-  [jamie oneweekgraphql](https://oneweekgraphql.com/)
 - [stellate graph cdn](https://stellate.co/)
 - 
