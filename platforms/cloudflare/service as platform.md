@@ -1,0 +1,2 @@
+- [xata implementing cloudflare workers saap](https://blog.cloudflare.com/xata-customer-story/)
+- 

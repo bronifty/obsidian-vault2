@@ -1,2 +1,3 @@
 - [fastify plugin system](https://www.nearform.com/blog/complete-guide-fastify-plugin-system)
+- [fastify shapes](https://www.youtube.com/watch?v=g-6Ig8k6Nzc)
 - 
