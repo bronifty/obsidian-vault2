@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/tools.md",
+                "file": "data/etl/EL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c767874574f3b2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/etl/EL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/tools.md",
+                "file": "data/etl/EL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/tools.md",
+                "file": "data/etl/EL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentation/tools.md"
+                "file": "data/etl/EL.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "923602dd690a4a54",
+  "active": "c767874574f3b2f8",
   "lastOpenFiles": [
-    "documentation/api docs/Auto-Documenting Swagger.md",
+    "data/etl/streaming/streaming EL.md",
+    "data/etl/EL.md",
     "payments/Payments Notes.md",
+    "frameworks/Angular/Security/Angular Security.md",
+    "frameworks/Angular/DI/Angular DI IOC.md",
+    "documentation/tools.md",
+    "documentation/api docs/Auto-Documenting Swagger.md",
     "data/db/redis/redis notes.md",
     "security/tls/TLS Notes.md",
-    "portfolio & product/examples.md",
-    "automation/low code and step function integration tools.md",
-    "automation/internal dev tools.md",
-    "courses/course links.md",
-    "platforms/level 2/Level 2 Platforms Notes.md",
-    "platforms/level 1/IPFS/IPFS Notes.md"
+    "portfolio & product/examples.md"
   ]
 }
