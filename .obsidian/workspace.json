@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d671b5fd27d7a18",
+        "id": "147672445a89a681",
         "type": "tabs",
         "children": [
           {
-            "id": "affaa906938165e5",
+            "id": "2291a06097d2b81c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/identity/SPIFFE and SPIRE.md",
+                "file": "headless/bi/cube dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fastly",
+                "query": "wasm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/identity/SPIFFE and SPIRE.md",
+                "file": "headless/bi/cube dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/identity/SPIFFE and SPIRE.md",
+                "file": "headless/bi/cube dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/identity/SPIFFE and SPIRE.md"
+                "file": "headless/bi/cube dev.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "affaa906938165e5",
+  "active": "2291a06097d2b81c",
   "lastOpenFiles": [
-    "security/identity/self.id.md",
-    "backends/Go/CaddyServer.md",
-    "backends/Go/Go.dev tut.md",
-    "realtime/Realtime Notes.md",
-    "tech bros/general.md",
-    "security/auth/microservices/JWT RBAC Header.md",
-    "security/tls/TLS Notes.md",
+    "data/etl/T.md",
+    "data/etl/EL.md",
+    "automation/low code and step function integration tools.md",
+    "media/bookmarks/bookmarks_headless_bi.html",
+    "headless/bi/cube dev.md",
+    "2022-11-25.md",
+    "bookmarks_headless_bi.md",
     "security/identity/SPIFFE and SPIRE.md",
-    "security/auth/services.md",
-    "platforms/Fastly/Fastly.md"
+    "media/bookmarks/bookmarks_headless_bi.md",
+    "courses/systems design/ByteByteGo.md"
   ]
 }
