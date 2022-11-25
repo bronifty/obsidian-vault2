@@ -1,3 +1,4 @@
 - [remix with material data grid tut](https://dev.to/chrisbenjamin/tutorial-remix-material-datagrid-bl9)
 - [remix vite](https://www.producthunt.com/products/remix-vite)
+- [kcd full stack components - canonical tut for separation of render from fetch with a resource route aka 'api route'](https://www.epicweb.dev/full-stack-components?ck_subscriber_id=1868043728#)
 - 

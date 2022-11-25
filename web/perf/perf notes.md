@@ -1,0 +1,2 @@
+- [filip rakowski web perf in 5 mins](https://dev.to/vue-storefront/everything-you-need-to-know-about-web-performance-as-a-dev-in-5-minutes-450l)
+- 
