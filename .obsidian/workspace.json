@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed29e94262dbec0",
+        "id": "8a0e1065b443fd0c",
         "type": "tabs",
         "children": [
           {
-            "id": "b810aaa52acb2248",
+            "id": "b9a297320c2ddbac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "realtime/Realtime Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nats",
+                "query": "fastly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "realtime/Realtime Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "realtime/Realtime Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "realtime/Realtime Notes.md"
+              }
             }
           }
         ]
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b810aaa52acb2248",
+  "active": "b9a297320c2ddbac",
   "lastOpenFiles": [
-    "observability/Observability.md",
-    "platforms/AWS/Data Analytics.md",
-    "backends/gRPC/connect.build.md",
-    "backends/GraphQL/Jamie OneWeek GraphQL.md",
-    "backends/WASM/WASM Notes.md",
-    "platforms/AWS/Solution Architect Pro.md",
-    "backends/Go/Untitled.md",
-    "ui/sketch/Sketch.md",
-    "auth/services.md",
-    "frameworks/react/remix-react-router/remix.md"
+    "security/auth/services.md",
+    "platforms/Fastly/Fastly.md",
+    "platforms/IPFS/IPFS Notes.md",
+    "realtime/Realtime Notes.md",
+    "headless/bi/headless-bi-cube.dev-bigquery.md",
+    "security/tls/TLS Notes.md",
+    "backends/Go/CaddyServer.md",
+    "tech bros/general.md",
+    "platforms/Firebase/Firebase.md",
+    "security/auth/how to.md"
   ]
 }
