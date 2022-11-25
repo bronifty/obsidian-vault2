@@ -1,4 +1,5 @@
-[discord](https://discord.gg/eNwByT7p)
+- [github remix-run/examples](https://github.com/remix-run/examples/blob/main/CONTRIBUTING.md)
+- [discord](https://discord.gg/eNwByT7p)
 
 2.  What are the steps to add an example to remix run examples? I did this: npx create-remix@latest --template examples/_template Added the code to `root.tsx` Added the code to App/routes/index.tsx I created the codesandbox example I modified README.md Why If I need some dependencies I don't need to add it to package.json?
     

@@ -1,0 +1,2 @@
+- [graphacademy link from gcp integration with bigquery](https://graphacademy.neo4j.com/courses/neo4j-fundamentals/?ref=redirect)
+- 
