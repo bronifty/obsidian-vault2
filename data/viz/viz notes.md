@@ -1,2 +1,3 @@
 - [apache superset](https://learn.acloud.guru/course/gcp-101/dashboard)
+- [superdeck](https://www.superdeck.io/blog)
 - 
