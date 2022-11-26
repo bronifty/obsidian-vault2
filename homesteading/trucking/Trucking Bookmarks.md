@@ -29,9 +29,11 @@
 
 [Holley EFI - Holley Performance Products](https://www.holley.com/brands/holley_efi/)
 
-### fuel injection
+### fuel injection supercharger
 
 [Sniper EFI - Holley Performance Products](https://www.holley.com/products/fuel_systems/fuel_injection/sniper_efi/)
+[whipple supercharger](https://whipplesuperchargers.com/)
+
 
 ### suspension tires wheels
 
