@@ -4,7 +4,7 @@
 ##### Apis
 - [apilayer](https://apilayer.com/)
 - [kysely npm](https://www.npmjs.com/package/kysely)
-- 
+- [dapr](https://dapr.io/)
 
 ##### Functional Programming
 - [rescript](https://rescript-lang.org/try)
