@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "data/etl/ETL Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "data/etl/ETL Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "data/etl/ETL Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md"
+                "file": "data/etl/ETL Notes.md"
               }
             }
           }
@@ -152,13 +152,13 @@
   },
   "active": "72da6d7ffae6f867",
   "lastOpenFiles": [
-    "platforms/Platforms bookmarks.md",
+    "data/etl/T.md",
     "platforms/platform-services/Platform Services Notes.md",
+    "platforms/Platforms bookmarks.md",
     "libraries/Libraries Notes.md",
     "realtime/messaging.md",
     "realtime/Realtime Notes.md",
     "data/etl/ETL Notes.md",
-    "data/etl/T.md",
     "data/etl/EL.md",
     "oss/node/Node Contributions.md",
     "data/db/cockroachdb/cockroachdb notes.md"

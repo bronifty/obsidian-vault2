@@ -12,5 +12,7 @@
 - [dagster](https://dagster.io/blog/dagster-crash-course-oct-2022)
 
 ##### EL 
-- []
+- [Airbyte]
+- [Fivetran]
+- [Meltano]
 
