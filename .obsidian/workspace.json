@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71bd52a3f8b9b71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Opinions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/projects ideas notes.md",
+                "file": "other/Opinions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/projects ideas notes.md",
+                "file": "other/Opinions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/projects ideas notes.md"
+                "file": "other/Opinions.md"
               }
             }
           }
@@ -150,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "601b0ea7626b9125",
+  "active": "71bd52a3f8b9b71b",
   "lastOpenFiles": [
+    "platforms/platform-services/Platform Services Notes.md",
+    "projects/projects ideas notes.md",
+    "other/Opinions.md",
     "platforms/Platforms bookmarks.md",
     "web/forms/Web Forms Notes.md",
     "web/Capabilities.md",
-    "projects/projects ideas notes.md",
     "data/db/Database Bookmarks.md",
     "observability/Observability.md",
     "cms/Notes.md",
-    "platforms/platform-services/Platform Services Notes.md",
-    "tuts/to take/tuts notes.md",
-    "documentation/api docs/Documentation of APIs.md"
+    "tuts/to take/tuts notes.md"
   ]
 }
