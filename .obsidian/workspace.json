@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/etl/ETL Notes.md",
+                "file": "security/Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/etl/ETL Notes.md",
+                "file": "security/Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/etl/ETL Notes.md",
+                "file": "security/Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/etl/ETL Notes.md"
+                "file": "security/Services.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "72da6d7ffae6f867",
   "lastOpenFiles": [
+    "frameworks/react/remix-react-router/react-router tutorial.md",
+    "courses/course links.md",
+    "libraries/Libraries Notes.md",
+    "media processing/notes.md",
+    "realtime/Realtime Notes.md",
+    "data/etl/ETL Notes.md",
     "data/etl/T.md",
     "platforms/platform-services/Platform Services Notes.md",
     "platforms/Platforms bookmarks.md",
-    "libraries/Libraries Notes.md",
-    "realtime/messaging.md",
-    "realtime/Realtime Notes.md",
-    "data/etl/ETL Notes.md",
-    "data/etl/EL.md",
-    "oss/node/Node Contributions.md",
-    "data/db/cockroachdb/cockroachdb notes.md"
+    "realtime/messaging.md"
   ]
 }

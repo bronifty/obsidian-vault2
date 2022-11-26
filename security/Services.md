@@ -1,3 +1,4 @@
+- [staticshield](https://staticshield.vercel.app/docs)
 - [frontegg](https://frontegg.com/pricing)
 - [fusionauth](https://fusionauth.io/)
 - [passport](https://www.passportjs.org/concepts/authentication/oauth/)
