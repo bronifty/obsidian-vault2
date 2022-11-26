@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e941f21a2551f0b8",
+        "id": "848f7ff03667e3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "8620f8702e72fabc",
+            "id": "1e42b8cff8b909cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuts/to take/tomdoestech.md",
+                "file": "automation/internal dev tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d92fe4351de608b",
+            "id": "1fa087e28f0b3322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/viz/viz notes.md",
+                "file": "frameworks/Frameworks Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c2005b141aa3177f",
+            "id": "b300628ad814871f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commerce/Commerce Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2556a906ac4726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/db/Database Bookmarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72da6d7ffae6f867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security/Services.md",
+                "file": "frameworks/Frameworks Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "freelance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/db/Database Bookmarks.md",
+                "file": "frameworks/Frameworks Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/db/Database Bookmarks.md",
+                "file": "frameworks/Frameworks Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/db/Database Bookmarks.md"
+                "file": "frameworks/Frameworks Notes.md"
               }
             }
           }
@@ -186,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b2556a906ac4726",
+  "active": "b300628ad814871f",
   "lastOpenFiles": [
-    "data/aiml/AI and ML Notes.md",
-    "commerce/Commerce Notes.md",
-    "data/viz/viz notes.md",
-    "platforms/Platforms bookmarks.md",
-    "payments/Payments Notes.md",
     "tuts/to take/tuts notes.md",
-    "tuts/to take/tomdoestech.md",
-    "tuts/to take/redwoodjs.md",
-    "tuts/to take/react-streaming-hydration.md",
-    "oss/node/Node Contributions.md"
+    "frameworks/Frameworks Notes.md",
+    "automation/internal dev tools.md",
+    "courses/course links.md",
+    "portfolio & product/examples.md",
+    "portfolio & product/Notes.md",
+    "other/Business.md",
+    "realtime/Realtime Notes.md",
+    "realtime/messaging.md",
+    "backends/GraphQL/GraphQL Notes.md"
   ]
 }

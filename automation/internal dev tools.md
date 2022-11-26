@@ -1,4 +1,8 @@
 -  [interval](https://interval.com)
+- [appsmith](https://www.appsmith.com/)
 - [embed workflow](https://embedworkflow.com/)
 - [posthog](https://app.posthog.com/ingestion)
+- [wayscript]
+- [daisi python]
+- [pipedream]
 - 

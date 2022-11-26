@@ -17,6 +17,7 @@
 
 ##### CI/CD
 - [buildjet for github actions](https://buildjet.com/for-github-actions)
+- [earthly.dev](https://earthly.dev/)
 - [kubevela control plane](https://kubevela.io/docs)
 - [northflank](https://northflank.com/)
 
