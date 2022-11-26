@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automation/automation notes.md",
+                "file": "tuts/to take/tuts notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automation/automation notes.md",
+                "file": "tuts/to take/tuts notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automation/automation notes.md",
+                "file": "tuts/to take/tuts notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automation/automation notes.md"
+                "file": "tuts/to take/tuts notes.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "71bd52a3f8b9b71b",
   "lastOpenFiles": [
+    "automation/automation notes.md",
     "web/Capabilities.md",
     "payments/Payments Notes.md",
-    "automation/automation notes.md",
     "automation/low code and step function integration tools.md",
     "projects/projects ideas notes.md",
     "automation/internal dev tools.md",
