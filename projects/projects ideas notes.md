@@ -6,4 +6,6 @@
 
 - convert Google Photos API Jquery app that showcases an individual's photo albums to React; if you can get that to work, try to make it shareable publicly
 
+- put together a workflow that uses - [paystring](https://paystring.org/sandbox/bronifty) as an intermediate value kind of like the envelope in a gRPC call which takes a payment in crypto and converts it to USD on the blockchain, enabling it to cash out to a bank account
+
 
