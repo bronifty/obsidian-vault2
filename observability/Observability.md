@@ -13,3 +13,15 @@
 
 ##### Module Federation
 - [medusa](https://www.medusa.codes/)
+
+
+[DeepSource | The Modern Static Analysis Platform](https://deepsource.io/)
+
+[CodeSee](https://app.codesee.io/)
+
+[axiom | observability](https://www.axiom.co/)
+
+[Sentry Demo Sandbox | Sentry](https://sentry.io/demo/sandbox/)
+
+[Projects | Snyk](https://app.snyk.io/org/nathanjmorton/projects)
+

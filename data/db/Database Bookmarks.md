@@ -1,8 +1,6 @@
 ### db
 
 [Dashboard demo - PocketBase](https://pocketbase.io/demo/)
-[gundb](https://gun.eco/docs/Todo-Dapp)
-[crate.io](https://crate.io/)
 
 [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
@@ -36,6 +34,24 @@
 
 [Snaplet | db | data](https://docs.snaplet.dev/quickstart/)
 
+[Firebase](https://firebase.google.com/)
+
+[MongoDB Atlas](https://www.mongodb.com/cloud)
+
+[ArangoDB Graph Course For Beginners](https://www.arangodb.com/learn/graphs/graph-course/)
+
+[Pantry - Free JSON Storage API](https://getpantry.cloud/)
+
+[GraphQL ArangoDB: Auto-Generate GraphQL for ArangoDB](https://www.arangodb.com/2017/10/auto-generate-graphql-arangodb/)
+
+[Airtable Developers](https://airtable.com/developers)
+
+[Machine Learning In Your Database Using SQL](https://mindsdb.com/)
+
+[pscale serverless](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript?utm_source=pocket_mylist)
+
+[Snaplet](https://docs.snaplet.dev/quickstart)
+
 ### db services
 
 [LiveViewJS | LiveViewJS](https://www.liveviewjs.com/)
@@ -64,20 +80,30 @@
 
 [Scalable WebSocket and WebRTC - PieSocket Realtime](https://www.piesocket.com/?utm_source=pocket_mylist)
 
-[Firebase](https://firebase.google.com/)
+### FakeData
 
-[MongoDB Atlas](https://www.mongodb.com/cloud)
+[Qovery/Replibyte: Seed your development database with real data ⚡️](https://github.com/Qovery/Replibyte)
 
-[ArangoDB Graph Course For Beginners](https://www.arangodb.com/learn/graphs/graph-course/)
+[Mockbin by Kong](https://mockbin.org/)
 
-[Pantry - Free JSON Storage API](https://getpantry.cloud/)
+[httpbin.org](https://httpbin.org/)
 
-[GraphQL ArangoDB: Auto-Generate GraphQL for ArangoDB](https://www.arangodb.com/2017/10/auto-generate-graphql-arangodb/)
+[JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 
-[Airtable Developers](https://airtable.com/developers)
+[Public APIs](https://github.com/public-apis/public-apis?utm_source=pocket_mylist)
 
-[Machine Learning In Your Database Using SQL](https://mindsdb.com/)
+[https://randomuser.me/api/?exc=login](https://randomuser.me/api/?exc=login)
 
-[pscale serverless](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript?utm_source=pocket_mylist)
+[Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/)
 
-[Snaplet](https://docs.snaplet.dev/quickstart)
+[placekitten](https://placekitten.com/200/200)
+
+[8 Free to Use GraphQL APIs for Your Projects and Demos - Apollo Blog](https://www.apollographql.com/blog/community/backend/8-free-to-use-graphql-apis-for-your-projects-and-demos/?utm_campaign=2021-06-23_8-graphql-apis-blog&utm_medium=social&utm_source=linkedin&utm_campaign=2021-06-23_8-graphql-apis-blog&utm_medium=social&utm_source=twitter)
+
+[httpbin.org](https://httpbin.org/#/Auth)
+
+[A Curated List of Free APIs For Your Next Project](https://devdojo.com/myogeshchavan97/a-curated-list-of-free-apis-for-your-next-project)
+
+[Mockend - Mock your REST or GraphQL API](https://mockend.com/)
+
+[Unsplash Stock Photos Free Images](https://unsplash.com/images/stock)

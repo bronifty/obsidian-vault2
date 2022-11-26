@@ -8,4 +8,11 @@
 - [Arweave](https://www.arweave.org/)
 - [pinata.cloud](https://www.pinata.cloud/)
 - [skynet](https://web3portal.com/)
-- 
+
+##### General
+- [vup](https://vup.app/)
+- [backblaze]
+- [mega]
+- [minio]
+- [wasabi]
+
