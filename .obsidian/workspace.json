@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "composability/Composability.md",
+                "file": "module federation/mf notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "composability/Composability.md",
+                "file": "module federation/mf notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "composability/Composability.md",
+                "file": "module federation/mf notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "composability/Composability.md"
+                "file": "module federation/mf notes.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "fd6182518791a605",
   "lastOpenFiles": [
-    "module federation/mf notes.md",
     "data/aiml/AI and ML Notes.md",
     "Python/Python Bookmarks.md",
+    "Python/venv and pip requirements.md",
+    "composability/Composability.md",
+    "module federation/mf notes.md",
     "web/Capabilities.md",
     "platforms/Platforms bookmarks.md",
     "platforms/platform-services/Platform Services Notes.md",
     "other/Other Notes.md",
-    "data/etl/ETL Notes.md",
-    "observability/Observability.md",
-    "data/db/Database Bookmarks.md"
+    "data/etl/ETL Notes.md"
   ]
 }
