@@ -1,4 +1,5 @@
 ##### Queues
+- [upstash](https://console.upstash.com/)
 - [serverlessq queues & cron](https://www.serverlessq.com/)
 - [zeplo queues & cron](https://console.zeplo.io/login)
 
