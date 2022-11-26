@@ -141,13 +141,13 @@
   "lastOpenFiles": [
     "observability/Observability.md",
     "data/db/Database Bookmarks.md",
+    "other/Other Notes.md",
+    "other/Opinions.md",
+    "data/etl/ETL Notes.md",
     "media processing/notes.md",
     "storage/media/Notes.md",
     "storage/minio.md",
     "storage/google photos.md",
-    "storage/wasabi.md",
-    "storage/S3.md",
-    "platforms/platform-services/Platform Services Notes.md",
-    "libraries/Libraries Notes.md"
+    "storage/wasabi.md"
   ]
 }
