@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/Services.md",
+                "file": "libraries/Libraries Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/Services.md",
+                "file": "libraries/Libraries Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/Services.md",
+                "file": "libraries/Libraries Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/Services.md"
+                "file": "libraries/Libraries Notes.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "79b8e90ddeb204bc",
   "lastOpenFiles": [
-    "libraries/Libraries Notes.md",
-    "media processing/notes.md",
-    "platforms/Untitled.md",
-    "homesteading/trucking/Trucking Bookmarks.md",
-    "homesteading/trucking/Trucking Notes.md",
-    "cms/Notes.md",
-    "backends/Kubernetes/k8s notes.md",
-    "patterns/Patterns Notes.md",
     "platforms/platform-services/Platform Services Notes.md",
-    "security/Services.md"
+    "data/bi/headless/cube dev.md",
+    "data/etl/T.md",
+    "data/etl/EL.md",
+    "data/viz/viz notes.md",
+    "data/analytical engine/analytical engines notes.md",
+    "homesteading/trucking/Trucking Bookmarks.md",
+    "security/Services.md",
+    "libraries/Libraries Notes.md",
+    "media processing/notes.md"
   ]
 }

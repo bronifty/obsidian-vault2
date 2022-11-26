@@ -20,3 +20,6 @@
 - 
 
 
+##### AI/ML
+- [msft recommender engine](https://www.youtube.com/watch?v=Th5IHCbRyUk)
+- 
