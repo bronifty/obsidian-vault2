@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platforms/platform-services/Level 2 Platforms Notes.md",
+                "file": "platforms/platform-services/Platform Services Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platforms/platform-services/Level 2 Platforms Notes.md",
+                "file": "platforms/platform-services/Platform Services Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "platforms/platform-services/Level 2 Platforms Notes.md",
+                "file": "platforms/platform-services/Platform Services Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "platforms/platform-services/Level 2 Platforms Notes.md"
+                "file": "platforms/platform-services/Platform Services Notes.md"
               }
             }
           }
@@ -143,7 +143,7 @@
     "media processing/notes.md",
     "math/Notes.md",
     "libraries/Libraries Notes.md",
-    "platforms/platform-services/Level 2 Platforms Notes.md",
+    "platforms/platform-services/Platform Services Notes.md",
     "backends/Kubernetes/k8s notes.md",
     "backends/Backends Notes.md",
     "platforms/level 1/Cloudflare/Cloudflare.md",
