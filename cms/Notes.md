@@ -1,7 +1,8 @@
 - [tinacms](https://tina.io/docs/setup-overview/)
 - [uniform.dev](https://uniform.dev/)
 - [contentlayer](https://www.contentlayer.dev/)
-- 
+- [sanity]
+- [contentful]
 
 
 ##### Editor

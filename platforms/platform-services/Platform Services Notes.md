@@ -5,6 +5,7 @@
 
 ##### Scraping
 - [browsercloud](https://www.browsercloud.io/)
+- [browserless debugger](https://chrome.browserless.io/)
 
 ##### Dev Env
 - [bunnyshell](https://environments.bunnyshell.com/560/projects/773/environments/5253)

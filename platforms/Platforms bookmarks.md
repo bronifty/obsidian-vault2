@@ -79,6 +79,8 @@
 
 ### platform-services
 
+- [stackbit](https://www.stackbit.com/)
+- 
 [SST | serverless tools](https://sst.dev/)
 
 [bunnyshell](https://environments.bunnyshell.com/349/projects/479/environments)
