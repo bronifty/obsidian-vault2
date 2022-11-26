@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ui/tailwind/React From Scratch With Tailwind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f04df75236f2a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "platforms/level 2/Level 2 Platforms Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c25252e4055b3a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "platforms/level 2/Level 2 Platforms Notes.md",
+                "file": "realtime/Realtime Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platforms/level 2/Level 2 Platforms Notes.md",
+                "file": "realtime/Realtime Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "platforms/level 2/Level 2 Platforms Notes.md",
+                "file": "realtime/Realtime Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "platforms/level 2/Level 2 Platforms Notes.md"
+                "file": "realtime/Realtime Notes.md"
               }
             }
           }
@@ -162,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c25252e4055b3a8",
+  "active": "9e28bb43ddba9d9b",
   "lastOpenFiles": [
+    "realtime/messaging.md",
+    "ui/tailwind/React From Scratch With Tailwind.md",
+    "platforms/level 2/Level 2 Platforms Notes.md",
     "projects/scraping/upload a photo url buffer to s3.md",
     "tech bros/general.md",
     "patterns/Patterns Notes.md",
-    "platforms/level 2/Level 2 Platforms Notes.md",
     "backends/NATS/Synadia Whiteboard JS.md",
     "platforms/level 1/AWS/Data Analytics.md",
     "courses/course links.md",
-    "frameworks/react/remix-react-router/remix.md",
-    "frameworks/react/React Frameworks Notes.md",
-    "realtime/Realtime Notes.md"
+    "frameworks/react/remix-react-router/remix.md"
   ]
 }
