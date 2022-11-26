@@ -1,2 +1,0 @@
-- [spiffe id mgmt for distibuted systems](https://spiffe.io/)
-- 

@@ -1,2 +1,0 @@
-- [self.id dabit github](https://github.com/dabit3/decentralized-identity-example)
-- 

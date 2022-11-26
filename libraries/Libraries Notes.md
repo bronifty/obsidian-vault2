@@ -5,4 +5,8 @@
 
 ##### Functional Programming
 - [rescript](https://rescript-lang.org/try)
-- 
+
+##### State Management
+- [state adapt](https://state-adapt.github.io/demos)
+
+
