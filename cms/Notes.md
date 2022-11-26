@@ -6,4 +6,5 @@
 
 ##### Editor
 - [tinymce](https://www.tiny.cloud/)
+- [yousefED notion-style blocknote](https://github.com/YousefED/BlockNote)
 - 
