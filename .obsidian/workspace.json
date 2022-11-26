@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "observability/Observability.md",
+                "file": "web/Capabilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "601b0ea7626b9125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/projects ideas notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "observability/Observability.md",
+                "file": "projects/projects ideas notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "observability/Observability.md",
+                "file": "projects/projects ideas notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "observability/Observability.md"
+                "file": "projects/projects ideas notes.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e4e2b9da67be1e1",
+  "active": "601b0ea7626b9125",
   "lastOpenFiles": [
     "platforms/Platforms bookmarks.md",
-    "platforms/platform-services/Platform Services Notes.md",
-    "cms/Notes.md",
+    "web/forms/Web Forms Notes.md",
+    "web/Capabilities.md",
     "projects/projects ideas notes.md",
+    "data/db/Database Bookmarks.md",
+    "observability/Observability.md",
+    "cms/Notes.md",
+    "platforms/platform-services/Platform Services Notes.md",
     "tuts/to take/tuts notes.md",
-    "documentation/api docs/Documentation of APIs.md",
-    "documentation/api docs/Auto-Documenting Swagger.md",
-    "documentation/tools.md",
-    "documentation/Docs Notes.md",
-    "platforms/Self-hosting/Self-hosting Notes.md"
+    "documentation/api docs/Documentation of APIs.md"
   ]
 }
