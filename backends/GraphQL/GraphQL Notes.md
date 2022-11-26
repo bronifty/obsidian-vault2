@@ -2,4 +2,5 @@
 - [stellate graph cdn](https://stellate.co/)
 - [pothos](https://pothos-graphql.dev/)
 - [thegraph](https://thegraph.com/en/)
+- [typegraphql](https://typegraphql.com/docs/examples.html)
 - 
