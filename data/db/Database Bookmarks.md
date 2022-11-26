@@ -2,6 +2,8 @@
 
 [Dashboard demo - PocketBase](https://pocketbase.io/demo/)
 
+[crate.io](https://crate.io/)
+
 [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 [SurrealDB | The ultimate serverless cloud database](https://surrealdb.com/)
