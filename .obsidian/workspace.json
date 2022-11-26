@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53724993b5e5daab",
+        "id": "e941f21a2551f0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9e28bb43ddba9d9b",
+            "id": "3e812ee1308fd81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homesteading/trucking/Trucking Bookmarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79b8e90ddeb204bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "platforms/Platforms bookmarks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "platforms/Platforms bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "platforms/Platforms bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libraries/Libraries Notes.md"
+                "file": "platforms/Platforms bookmarks.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79b8e90ddeb204bc",
+  "active": "3e812ee1308fd81e",
   "lastOpenFiles": [
     "platforms/platform-services/Platform Services Notes.md",
+    "platforms/Platforms bookmarks.md",
+    "data/db/cockroachdb/cockroachdb notes.md",
+    "scratch paper/scratch.md",
+    "libraries/Libraries Notes.md",
     "data/bi/headless/cube dev.md",
     "data/etl/T.md",
     "data/etl/EL.md",
     "data/viz/viz notes.md",
-    "data/analytical engine/analytical engines notes.md",
-    "homesteading/trucking/Trucking Bookmarks.md",
-    "security/Services.md",
-    "libraries/Libraries Notes.md",
-    "media processing/notes.md"
+    "data/analytical engine/analytical engines notes.md"
   ]
 }
