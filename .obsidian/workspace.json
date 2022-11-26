@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/How To.md",
+                "file": "libraries/Libraries Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/How To.md",
+                "file": "libraries/Libraries Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/How To.md",
+                "file": "libraries/Libraries Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/How To.md"
+                "file": "libraries/Libraries Notes.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "7996bf64a20fdace",
   "lastOpenFiles": [
+    "cms/Notes.md",
+    "backends/WASM/WASM Notes.md",
+    "libraries/Libraries Notes.md",
+    "security/How To.md",
     "security/Services.md",
     "security/Best Practices.md",
     "security/JWT.md",
     "security/TLS.md",
     "security/Auth-N.md",
-    "security/identity/self.id.md",
-    "security/identity/SPIFFE and SPIRE.md",
-    "security/How To.md",
-    "libraries/Libraries Notes.md",
-    "realtime/Realtime Notes.md"
+    "security/identity/self.id.md"
   ]
 }
