@@ -11,11 +11,28 @@
             "id": "ae10feacdb45a50d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "documentation/api docs/Auto-Documenting Swagger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3e9afe7b62ef89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documentation/api docs/Documentation of APIs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -45,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freelance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentation/api docs/Documentation of APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentation/api docs/Documentation of APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentation/api docs/Documentation of APIs.md"
+              }
             }
           }
         ]
@@ -129,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae10feacdb45a50d",
+  "active": "f3e9afe7b62ef89b",
   "lastOpenFiles": [
-    "data/db/Database Bookmarks.md",
-    "frameworks/Frameworks Notes.md",
-    "other/Other Notes.md",
-    "frameworks/react/remix-react-router/remix.md",
-    "frameworks/react/remix-react-router/react-router tutorial.md",
-    "frameworks/react/React Frameworks Notes.md",
-    "automation/internal dev tools.md",
-    "platforms/platform-services/Platform Services Notes.md",
+    "documentation/api docs/Auto-Documenting Swagger.md",
+    "documentation/tools.md",
+    "documentation/Docs Notes.md",
     "platforms/Platforms bookmarks.md",
-    "documentation/api docs/Auto-Documenting Swagger.md"
+    "platforms/platform-services/Platform Services Notes.md",
+    "platforms/Self-hosting/Self-hosting Notes.md",
+    "storage/media/Notes.md",
+    "data/db/Database Bookmarks.md",
+    "courses/course links.md",
+    "tuts/to take/tuts notes.md"
   ]
 }

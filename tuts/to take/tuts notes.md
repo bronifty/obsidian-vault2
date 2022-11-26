@@ -1,3 +1,5 @@
 - [dcode vanilla spa](https://dcode.domenade.com/tutorials/build-a-single-page-app-with-javascript-no-frameworks)
 - [tauri app - rust](https://tauri.app/v1/guides/getting-started/setup/vite)
-- 
+- [boot.dev](https://boot.dev/)
+- [exercism](https://exercism.org/)
+-
