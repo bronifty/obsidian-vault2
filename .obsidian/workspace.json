@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "platforms/level 2/Level 2 Platforms Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c25252e4055b3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "platforms/level 2/Level 2 Platforms Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "platforms/level 2/Level 2 Platforms Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "realtime/Realtime Notes.md",
+                "file": "platforms/level 2/Level 2 Platforms Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "realtime/Realtime Notes.md"
+                "file": "platforms/level 2/Level 2 Platforms Notes.md"
               }
             }
           }
@@ -150,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f04df75236f2a55",
+  "active": "5c25252e4055b3a8",
   "lastOpenFiles": [
-    "realtime/messaging.md",
-    "realtime/Realtime Notes.md",
-    "media processing/notes.md",
-    "media/tweets/matteo-simon-twitter-clone.md.md",
-    "media/images/Screen Shot 2022-10-08 at 9.33.18 PM.png",
-    "media/images/preview.png",
-    "media/images/mernstack-ss.png",
-    "media/images/login.png",
-    "media/images/library.jpg",
-    "media/images/hong kong harbor at sunset 1870.jpeg"
+    "projects/scraping/upload a photo url buffer to s3.md",
+    "tech bros/general.md",
+    "patterns/Patterns Notes.md",
+    "platforms/level 2/Level 2 Platforms Notes.md",
+    "backends/NATS/Synadia Whiteboard JS.md",
+    "platforms/level 1/AWS/Data Analytics.md",
+    "courses/course links.md",
+    "frameworks/react/remix-react-router/remix.md",
+    "frameworks/react/React Frameworks Notes.md",
+    "realtime/Realtime Notes.md"
   ]
 }
