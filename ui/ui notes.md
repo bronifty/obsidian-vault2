@@ -1,3 +1,6 @@
 - [dyte.io](https://docs.dyte.io/react-ui-kit)
 - [landingfolio](https://www.landingfolio.com/)
+- [useflowkit.com](https://useflowkit.com/pricing)
+- [usecontrast.com](https://usecontrast.com/)
+- [backlight.dev](https://backlight.dev/)
 - 

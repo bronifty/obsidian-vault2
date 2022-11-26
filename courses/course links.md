@@ -3,6 +3,9 @@
 
 ### css
 
+[mds shift nudge](https://www.youtube.com/mattdsmith)
+- [notion site free chapter](https://www.notion.so/Organizing-Design-Projects-f09f5cd328c74d89a6df492ef58c037c)
+
 [Layouts: Every Layout](https://every-layout.dev/layouts/)
 
 [CSS for JavaScript Developers • Josh W Comeau's Course Platform](https://courses.joshwcomeau.com/css-for-js)
@@ -53,6 +56,8 @@
 [JS Mastery Pro](https://javascript-mastery.teachable.com/courses)
 
 [Kent C. Dodds](https://kentcdodds.com/)
+
+[ultimate courses](https://app.ultimatecourses.com/my-account)
 
 [Serverless Handbook for Frontend Engineers](https://serverlesshandbook.dev/)
 
