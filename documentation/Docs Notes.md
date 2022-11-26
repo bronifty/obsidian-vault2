@@ -1,0 +1,2 @@
+- [culture of docs](https://blog.doctave.com/2021/09/07/how-google-twitter-and-spotify-build-culture-of-documentation.html?utm_source=pocket_mylist)
+- 

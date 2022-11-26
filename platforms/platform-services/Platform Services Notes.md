@@ -16,12 +16,18 @@
 - [cloudzero](https://www.cloudzero.com/)
 
 ##### CI/CD
+- [buildkite](https://buildkite.com/home)
 - [buildjet for github actions](https://buildjet.com/for-github-actions)
 - [earthly.dev](https://earthly.dev/)
 - [kubevela control plane](https://kubevela.io/docs)
 - [northflank](https://northflank.com/)
+- [radicle sovereign p2p github](https://radicle.xyz/)
 
 
 ##### AI/ML
 - [msft recommender engine](https://www.youtube.com/watch?v=Th5IHCbRyUk)
+
+
+##### Orchestration 
+- [prefect.io](https://www.prefect.io/cloud/)
 - 

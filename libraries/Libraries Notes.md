@@ -5,6 +5,8 @@
 - [apilayer](https://apilayer.com/)
 - [kysely npm](https://www.npmjs.com/package/kysely)
 - [dapr](https://dapr.io/)
+- [apitracker](https://apitracker.io/)
+- [apidoc - autodocument swagger](https://github.com/apidoc/apidoc)
 
 ##### Functional Programming
 - [rescript](https://rescript-lang.org/try)
@@ -17,6 +19,7 @@
 
 ##### React
 - [tremor.so dashboard](https://www.tremor.so/)
+- [react admin](https://github.com/marmelab/react-admin)
 
 ##### Node
 - [Node TODO](https://www.nodetodo.org/)
@@ -25,4 +28,6 @@
 ##### Database
 - [atdatabases](https://www.atdatabases.org/)
 - [database-js](https://www.npmjs.com/package/database-js)
+- [prql](https://github.com/prql/prql/blob/main/README.md)
+- 
 
