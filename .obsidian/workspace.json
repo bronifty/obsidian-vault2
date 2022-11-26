@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "backends/Kubernetes/k8s notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "backends/Kubernetes/k8s notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md",
+                "file": "backends/Kubernetes/k8s notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "platforms/platform-services/Platform Services Notes.md"
+                "file": "backends/Kubernetes/k8s notes.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "9e28bb43ddba9d9b",
   "lastOpenFiles": [
+    "patterns/Patterns Notes.md",
+    "platforms/platform-services/Platform Services Notes.md",
     "security/Services.md",
     "media processing/notes.md",
     "math/Notes.md",
     "libraries/Libraries Notes.md",
-    "platforms/platform-services/Platform Services Notes.md",
     "backends/Kubernetes/k8s notes.md",
     "backends/Backends Notes.md",
     "platforms/level 1/Cloudflare/Cloudflare.md",
-    "cms/Notes.md",
-    "backends/WASM/WASM Notes.md"
+    "cms/Notes.md"
   ]
 }
