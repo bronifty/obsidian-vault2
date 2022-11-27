@@ -1,7 +1,7 @@
 ##### Stock
 
 - [ford van](https://www.fordupfits.com/recreational/vehicles/transit-trail/)
-
+	- [upfitter - aev in nc](https://www.fordupfits.com/findanupfitter)
 
 - [acela](https://www.acelatruck.com/)
 

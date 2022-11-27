@@ -14,4 +14,7 @@
 ##### WAGI
 - exposes HTTP request info to a WebAssembly (WA) module as env vars via reading from stdin and writing to stdout
 - [deis labs github wagi repo](https://github.com/deislabs)
+
+##### Hippo WASM PAAS
+- [hippo docs](https://docs.hippofactory.dev/)
 - 
