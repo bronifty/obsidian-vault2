@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jokes/Jokes.md",
+                "file": "scratch paper/scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jokes/Jokes.md",
+                "file": "scratch paper/scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jokes/Jokes.md",
+                "file": "scratch paper/scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jokes/Jokes.md"
+                "file": "scratch paper/scratch.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "b1878b03c25abf7a",
   "lastOpenFiles": [
+    "wasm/WASM Notes v2.md",
+    "jokes/Jokes.md",
     "scratch paper/scratch.md",
     "projects/clones/dropbox/s3-compatible dropbox.md",
     "portfolio & product/Notes.md",
@@ -159,8 +161,6 @@
     "portfolio & product/examples.md",
     "media processing/notes.md",
     "wasm/Hippo.md",
-    "wasm/rust/Rust Notes.md",
-    "wasm/Fermyon Cloud.md",
-    "wasm/WASM Notes v2.md"
+    "wasm/rust/Rust Notes.md"
   ]
 }
