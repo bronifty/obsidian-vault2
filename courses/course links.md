@@ -63,6 +63,8 @@
 
 [Just JavaScript by Dan Abramov](https://justjavascript.com/learn)
 
+[fireship supabase react reddit clone](https://fireship.io/courses/supabase/)
+
 [Service Workies](https://serviceworkies.com/)
 
 [Rapid Fullstack Development](https://codecapers.gumroad.com/)
@@ -132,6 +134,8 @@
 [solidbook](https://wiki.solidbook.io/Introduction-872fd41c47f54a61a318c6729ed7c0bd/?hash=5dc3ea70-b922-11ec-8145-1d56e31b02d6)
 
 ### subscription-based
+
+[fireship pro](https://fireship.io/pro)
 
 [Advanced JavaScript Concepts | Zero To Mastery](https://zerotomastery.io/courses/advanced-javascript-concepts/)
 
