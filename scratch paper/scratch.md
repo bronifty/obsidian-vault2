@@ -13,7 +13,10 @@
 - [fermyon youtube](https://www.youtube.com/channel/UCGgsMYwLxmIgv1lXaActZqw)
 	- [fermyon cloud](https://developer.fermyon.com/)
 - [wasmtime bytecode alliance](https://docs.wasmtime.dev/introduction.html)
+	- the runtime used by hippo and wasm3
 - [hippo - *taps mic* is this on?](https://docs.hippofactory.dev/topics/webassembly/)
+	- WAGI runs WASI binaries as HTTP handlers (eg PHP JSP ASP.net, CGI)
+	- CGI is a standard for HTTP request handlers in any language, precursor to FAAS aka Serverless and WAGI allows sls fns in WASM
 ###### Rust
 - [tokio](https://tokio.rs/)
 	- you can only use this lib if you scream it's name and say daddy like theprimeagen

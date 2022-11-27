@@ -1,0 +1,3 @@
+- jokes getting promoted to their own folder
+- [job evals](https://www.ling.upenn.edu/~beatrice/humor/job-evaluations.html)
+	- "works well when under constant supervision and cornered like a rat in a trap."

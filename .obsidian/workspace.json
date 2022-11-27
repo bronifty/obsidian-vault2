@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "media processing/notes.md",
+                "file": "scratch paper/scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1878b03c25abf7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jokes/Jokes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media processing/notes.md",
+                "file": "jokes/Jokes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media processing/notes.md",
+                "file": "jokes/Jokes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media processing/notes.md"
+                "file": "jokes/Jokes.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06b6a3a5fb3d04c3",
+  "active": "b1878b03c25abf7a",
   "lastOpenFiles": [
     "scratch paper/scratch.md",
+    "projects/clones/dropbox/s3-compatible dropbox.md",
+    "portfolio & product/Notes.md",
+    "portfolio & product/Freelance Notes.md",
+    "portfolio & product/examples.md",
+    "media processing/notes.md",
     "wasm/Hippo.md",
     "wasm/rust/Rust Notes.md",
     "wasm/Fermyon Cloud.md",
-    "wasm/WASM Notes v2.md",
-    "wasm/WASM Notes.md",
-    "wasm/ByteCode Alliance.md",
-    "portfolio & product/examples.md",
-    "courses/Subscriptions.md",
-    "courses/course links.md"
+    "wasm/WASM Notes v2.md"
   ]
 }
