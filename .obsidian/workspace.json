@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch paper/scratch.md",
+                "file": "media processing/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch paper/scratch.md",
+                "file": "media processing/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch paper/scratch.md",
+                "file": "media processing/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch paper/scratch.md"
+                "file": "media processing/notes.md"
               }
             }
           }
@@ -139,13 +139,13 @@
   },
   "active": "06b6a3a5fb3d04c3",
   "lastOpenFiles": [
+    "scratch paper/scratch.md",
     "wasm/Hippo.md",
     "wasm/rust/Rust Notes.md",
     "wasm/Fermyon Cloud.md",
     "wasm/WASM Notes v2.md",
     "wasm/WASM Notes.md",
     "wasm/ByteCode Alliance.md",
-    "scratch paper/scratch.md",
     "portfolio & product/examples.md",
     "courses/Subscriptions.md",
     "courses/course links.md"

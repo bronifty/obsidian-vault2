@@ -12,6 +12,8 @@
 - [wasm3 - JIT for wasm](https://github.com/bronifty/wasm3)
 - [fermyon youtube](https://www.youtube.com/channel/UCGgsMYwLxmIgv1lXaActZqw)
 	- [fermyon cloud](https://developer.fermyon.com/)
+- [wasmtime bytecode alliance](https://docs.wasmtime.dev/introduction.html)
+- [hippo - *taps mic* is this on?](https://docs.hippofactory.dev/topics/webassembly/)
 ###### Rust
 - [tokio](https://tokio.rs/)
 	- you can only use this lib if you scream it's name and say daddy like theprimeagen
