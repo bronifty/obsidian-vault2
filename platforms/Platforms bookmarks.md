@@ -1,5 +1,6 @@
 
 [GitHub - bronifty/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/bronifty/free-for-dev)
+[deno deploy](https://deno.com/deploy)
 
 [deta.sh](https://www.deta.sh/)
 

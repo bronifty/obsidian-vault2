@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module federation/mf notes.md",
+                "file": "platforms/Platforms bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36fd49663def6cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tuts/to finish/finish tuts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -62,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kaggle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module federation/mf notes.md",
+                "file": "tuts/to finish/finish tuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "module federation/mf notes.md",
+                "file": "tuts/to finish/finish tuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "module federation/mf notes.md"
+                "file": "tuts/to finish/finish tuts.md"
               }
             }
           }
@@ -150,15 +163,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd6182518791a605",
+  "active": "91ef42d764e80b68",
   "lastOpenFiles": [
+    "platforms/Platforms bookmarks.md",
+    "module federation/mf notes.md",
     "data/aiml/AI and ML Notes.md",
     "Python/Python Bookmarks.md",
     "Python/venv and pip requirements.md",
     "composability/Composability.md",
-    "module federation/mf notes.md",
     "web/Capabilities.md",
-    "platforms/Platforms bookmarks.md",
     "platforms/platform-services/Platform Services Notes.md",
     "other/Other Notes.md",
     "data/etl/ETL Notes.md"

@@ -1,0 +1,3 @@
+- [john smilga react](https://github.com/john-smilga/react-projects)
+- [react beta docs](https://beta.reactjs.org/learn)
+	- i can't decide if i want to tackle all john smilga then all dan abramov at once or take these things piecemeal
