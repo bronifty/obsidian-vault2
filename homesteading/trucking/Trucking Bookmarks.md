@@ -49,6 +49,8 @@
 
 ### truck
 
+- [nimbl](https://www.nimblvehicles.com/?utm_source=expediton%20portal)
+
 [Acela Truck](https://www.acelatruck.com/)
 
 [Grigsby Truck Company | Surplus Military Trucks | Off-Road Vehicles – Rediscover Durability](https://www.grigsbytrucks.com/)

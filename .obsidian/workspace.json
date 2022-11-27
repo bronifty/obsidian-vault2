@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba29ffe0b706d27",
+        "id": "0cb4af0f38e48212",
         "type": "tabs",
         "children": [
           {
-            "id": "2905a7d5e39721d6",
+            "id": "ab7a5ef1801d61c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platforms/Supabase/supabase notes.md",
+                "file": "backends/WASM/WASM Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db448c50f9f1617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backends/WASM/Fermyon Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dapr",
+                "query": "wasm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platforms/Supabase/supabase notes.md",
+                "file": "backends/WASM/WASM Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "platforms/Supabase/supabase notes.md",
+                "file": "backends/WASM/WASM Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "platforms/Supabase/supabase notes.md"
+                "file": "backends/WASM/WASM Notes.md"
               }
             }
           }
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2905a7d5e39721d6",
+  "active": "ab7a5ef1801d61c6",
   "lastOpenFiles": [
+    "backends/WASM/Fermyon Cloud.md",
+    "backends/WASM/WASM Notes.md",
+    "platforms/Platforms bookmarks.md",
+    "homesteading/trucking/Trucking Bookmarks.md",
+    "platforms/Supabase/supabase notes.md",
     "platforms/Fastly/Fastly.md",
     "platforms/Cloudflare/service as platform.md",
     "platforms/Cloudflare/Cloudflare.md",
     "payments/Payments Notes.md",
-    "frameworks/react/remix-react-router/remix.md",
-    "frameworks/react/remix-react-router/react-router tutorial.md",
-    "frameworks/tanstack/landing.md",
-    "frameworks/Frameworks Notes.md",
-    "backends/Backends Notes.md",
-    "platforms/Supabase/supabase notes.md"
+    "frameworks/react/remix-react-router/remix.md"
   ]
 }

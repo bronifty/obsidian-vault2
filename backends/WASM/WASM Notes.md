@@ -1,3 +1,6 @@
 - [cosmonic wasm](https://labs.cosmonic.com/)
 - [svelte and rust wasm](https://blog.logrocket.com/integrating-svelte-app-rust-webassembly)
+- [docker wasm](https://www.docker.com/blog/docker-wasm-technical-preview/)
+- [fermyon.com serverless wasm](https://www.fermyon.com/spin)
+- [bytecode alliance for wasm + wasi](https://bytecodealliance.org/)
 - 
