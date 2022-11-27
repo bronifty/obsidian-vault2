@@ -2,3 +2,5 @@
 	- [nifty digits](https://www.niftydigits.com/)
 - [daniel stenberg](https://daniel.haxx.se/)
 - [florentin](https://ecklf.com/)
+- [radu](https://radu-matei.com/)
+- 
