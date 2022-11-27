@@ -1,3 +1,7 @@
 - jokes getting promoted to their own folder
 - [job evals](https://www.ling.upenn.edu/~beatrice/humor/job-evaluations.html)
 	- "works well when under constant supervision and cornered like a rat in a trap."
+- [xkcd](https://xkcd.com/)
+	- not funny 99.999% of the time but here we are
+	- make me a sandwich sudo make me a sandwich
+- 
