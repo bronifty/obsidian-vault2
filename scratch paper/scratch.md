@@ -5,6 +5,8 @@
 - finish organizing personal bookmarks into obsidian
 ###### WASM
 - [bart](https://github.com/bronifty/bartholomew) personal page for bronifty.xyz
+	- [follow this tut for the markdown parser](https://docs.wasmtime.dev/tutorial-run-hello-world.html)
+- [hippo wagi](https://docs.hippofactory.dev/topics/webassembly/)
 - [deislabs wagi](https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/)
 	- [deislabs wagi update](https://deislabs.io/posts/wagi-updates/)
 - [rust starter cargo book](https://doc.rust-lang.org/cargo/getting-started/first-steps.html)
