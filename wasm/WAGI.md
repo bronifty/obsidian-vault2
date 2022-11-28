@@ -13,5 +13,5 @@
 	- WAGI (waggy) is for serverless HTTP, short run jobs (eg Lambda)
 	- [Krustlet](https://github.com/deislabs/krustlet), a Kubernetes Kubelet that executes WebAssembly payloads instead of Docker containers
 	- [WebAssembly Gateway Interface (WAGI)](https://github.com/deislabs/wagi). Pronounced “waggy” (and inspired by [some](https://deislabs.io/images/moar_puppy.jpg) of the [puppies](https://deislabs.io/images/puppy.jpg) on our team), WAGI is the easiest way to build WebAssembly microservices.
-	- 
+	- a
 
