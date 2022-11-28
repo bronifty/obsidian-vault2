@@ -1,0 +1,3 @@
+- [hippo docs](https://docs.hippofactory.dev/topics/webassembly/)
+- A Wagi-compliant server can be configured with mappings that define a WebAssembly binary that should handle a path, such as all requests for `/calculator` are routed to `calculator.wasm`
+- 

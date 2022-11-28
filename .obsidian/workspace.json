@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddfa083865d15b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wasm/WAGI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch paper/scratch.md",
+                "file": "wasm/WAGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch paper/scratch.md",
+                "file": "wasm/WAGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch paper/scratch.md"
+                "file": "wasm/WAGI.md"
               }
             }
           }
@@ -150,11 +162,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1878b03c25abf7a",
+  "active": "ddfa083865d15b82",
   "lastOpenFiles": [
+    "scratch paper/scratch.md",
     "wasm/WASM Notes v2.md",
     "jokes/Jokes.md",
-    "scratch paper/scratch.md",
     "projects/clones/dropbox/s3-compatible dropbox.md",
     "portfolio & product/Notes.md",
     "portfolio & product/Freelance Notes.md",
