@@ -28,5 +28,6 @@
 
 
 - [Supabase on Fireship course](https://fireship.io/courses/supabase/)
+- [minio storage uploads playlist](https://www.youtube.com/watch?v=kckykvbaZog&list=PLFOIsHSSYIK3Dd3Y_x7itJT1NUKT5SxDh&index=2)
 - 
 

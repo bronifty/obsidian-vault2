@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c39e4d832a4e507",
+        "id": "ff9846943302903b",
         "type": "tabs",
         "children": [
           {
-            "id": "50aadfd603ea8d55",
+            "id": "957431c0802b1c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5c872331ed398e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/course links.md",
+                "file": "wasm/WAGI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/course links.md",
+                "file": "wasm/WAGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/course links.md",
+                "file": "wasm/WAGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/course links.md"
+                "file": "wasm/WAGI.md"
               }
             }
           }
@@ -150,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e5c872331ed398e",
+  "active": "957431c0802b1c81",
   "lastOpenFiles": [
-    "courses/Subscriptions.md",
     "courses/course links.md",
+    "storage/S3.md",
+    "scratch paper/scratch.md",
+    "courses/Subscriptions.md",
     "libraries/Libraries Notes.md",
     "storage/IPFS.md",
-    "storage/S3.md",
     "storage/Storage Notes.md",
     "media processing/notes.md",
     "storage/media/Notes.md",
-    "data/db/Database Bookmarks.md",
-    "media processing/livepeer/LivePeer Notes.md"
+    "data/db/Database Bookmarks.md"
   ]
 }
