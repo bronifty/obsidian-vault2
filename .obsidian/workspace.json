@@ -8,27 +8,7 @@
         "type": "tabs",
         "children": [
           {
-              "state": {
-                "file": "scratch paper/scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1878b03c25abf7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch paper/scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddfa083865d15b82",
+            "id": "79457358a147ee39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
