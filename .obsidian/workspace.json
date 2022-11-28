@@ -4,14 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "710a95c422769a50",
+        "id": "4c39e4d832a4e507",
         "type": "tabs",
         "children": [
           {
-            "id": "06b6a3a5fb3d04c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
               "state": {
                 "file": "scratch paper/scratch.md",
                 "mode": "source",
@@ -162,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddfa083865d15b82",
+  "active": "79457358a147ee39",
   "lastOpenFiles": [
-    "scratch paper/scratch.md",
+    "wasm/WASM Notes.md",
     "wasm/WASM Notes v2.md",
+    "wasm/Hippo.md",
+    "wasm/rust/Rust Notes.md",
+    "backends/Kubernetes/k8s notes.md",
+    "wasm/WAGI.md",
+    "scratch paper/scratch.md",
     "jokes/Jokes.md",
     "projects/clones/dropbox/s3-compatible dropbox.md",
-    "portfolio & product/Notes.md",
-    "portfolio & product/Freelance Notes.md",
-    "portfolio & product/examples.md",
-    "media processing/notes.md",
-    "wasm/Hippo.md",
-    "wasm/rust/Rust Notes.md"
+    "portfolio & product/Notes.md"
   ]
 }
