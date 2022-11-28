@@ -53,9 +53,9 @@
 
 ### full-stack
 
-[JS Mastery Pro](https://javascript-mastery.teachable.com/courses)
+- [Kent C. Dodds](https://kentcdodds.com/)
 
-[Kent C. Dodds](https://kentcdodds.com/)
+- [JS Mastery Pro](https://javascript-mastery.teachable.com/courses)
 
 [ultimate courses](https://app.ultimatecourses.com/my-account)
 

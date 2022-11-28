@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "courses/course links.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "courses/course links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libraries/Libraries Notes.md",
+                "file": "courses/course links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libraries/Libraries Notes.md"
+                "file": "courses/course links.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "3e5c872331ed398e",
   "lastOpenFiles": [
+    "courses/Subscriptions.md",
+    "courses/course links.md",
+    "libraries/Libraries Notes.md",
     "storage/IPFS.md",
     "storage/S3.md",
     "storage/Storage Notes.md",
     "media processing/notes.md",
     "storage/media/Notes.md",
     "data/db/Database Bookmarks.md",
-    "media processing/livepeer/LivePeer Notes.md",
-    "wasm/WASM Notes v2.md",
-    "wasm/WASM Notes.md",
-    "wasm/Hippo.md"
+    "media processing/livepeer/LivePeer Notes.md"
   ]
 }
