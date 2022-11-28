@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/IPFS.md",
+                "file": "libraries/Libraries Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storage/IPFS.md",
+                "file": "libraries/Libraries Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storage/IPFS.md",
+                "file": "libraries/Libraries Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/IPFS.md"
+                "file": "libraries/Libraries Notes.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "3e5c872331ed398e",
   "lastOpenFiles": [
+    "storage/IPFS.md",
     "storage/S3.md",
     "storage/Storage Notes.md",
     "media processing/notes.md",
@@ -160,7 +161,6 @@
     "media processing/livepeer/LivePeer Notes.md",
     "wasm/WASM Notes v2.md",
     "wasm/WASM Notes.md",
-    "wasm/Hippo.md",
-    "wasm/WAGI.md"
+    "wasm/Hippo.md"
   ]
 }
