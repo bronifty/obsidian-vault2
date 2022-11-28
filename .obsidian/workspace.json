@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79457358a147ee39",
+            "id": "50aadfd603ea8d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "storage/S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5c872331ed398e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "storage/IPFS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wasm",
+                "query": "matteo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "storage/IPFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "storage/IPFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wasm/WAGI.md"
+                "file": "storage/IPFS.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79457358a147ee39",
+  "active": "3e5c872331ed398e",
   "lastOpenFiles": [
-    "wasm/WASM Notes.md",
+    "storage/S3.md",
+    "storage/Storage Notes.md",
+    "media processing/notes.md",
+    "storage/media/Notes.md",
+    "data/db/Database Bookmarks.md",
+    "media processing/livepeer/LivePeer Notes.md",
     "wasm/WASM Notes v2.md",
+    "wasm/WASM Notes.md",
     "wasm/Hippo.md",
-    "wasm/rust/Rust Notes.md",
-    "backends/Kubernetes/k8s notes.md",
-    "wasm/WAGI.md",
-    "scratch paper/scratch.md",
-    "jokes/Jokes.md",
-    "projects/clones/dropbox/s3-compatible dropbox.md",
-    "portfolio & product/Notes.md"
+    "wasm/WAGI.md"
   ]
 }

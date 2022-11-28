@@ -4,6 +4,8 @@
 - [runway](https://app.runwayml.com/login)
 - [frame.io](https://frame.io/)
 - [livepeer](https://livepeer.org/developers)
+	- livepeer js sdk playback media from decentralized storage
+- [lenstube](https://lenstube.xyz/)
 - [cloudflare stream](https://developers.cloudflare.com/stream/)
 
 ##### Audio
