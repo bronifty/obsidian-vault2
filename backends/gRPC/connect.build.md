@@ -1,3 +1,3 @@
 - [http-compatible connect.build gRPC and protobuf](https://connect.build/)
 - [akshay github grpc walkthrough](https://github.com/akshayjshah/grpc-demystified)
-- 
+
