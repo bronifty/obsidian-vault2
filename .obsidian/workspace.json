@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio & product/examples.md",
+                "file": "commerce/Commerce Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matteo",
+                "query": "solidbook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "portfolio & product/examples.md",
+                "file": "commerce/Commerce Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "portfolio & product/examples.md",
+                "file": "commerce/Commerce Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "portfolio & product/examples.md"
+                "file": "commerce/Commerce Notes.md"
               }
             }
           }
@@ -140,14 +140,14 @@
   "active": "957431c0802b1c81",
   "lastOpenFiles": [
     "wasm/WAGI.md",
+    "frameworks/Angular/DI/Angular DI IOC.md",
+    "portfolio & product/examples.md",
     "courses/course links.md",
     "storage/S3.md",
     "scratch paper/scratch.md",
     "courses/Subscriptions.md",
     "libraries/Libraries Notes.md",
     "storage/IPFS.md",
-    "storage/Storage Notes.md",
-    "media processing/notes.md",
-    "storage/media/Notes.md"
+    "storage/Storage Notes.md"
   ]
 }
