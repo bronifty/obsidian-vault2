@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "957431c0802b1c81",
+            "id": "4ba345bb6b84a022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backends/gRPC/connect.build.md",
+                "file": "wasm/WAGI/WAGI Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backends/gRPC/connect.build.md",
+                "file": "wasm/WAGI/WAGI Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backends/gRPC/connect.build.md",
+                "file": "wasm/WAGI/WAGI Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backends/gRPC/connect.build.md"
+                "file": "wasm/WAGI/WAGI Notes.md"
               }
             }
           }
@@ -137,17 +138,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46860ead13aa0dac",
+  "active": "4ba345bb6b84a022",
   "lastOpenFiles": [
-    "commerce/Commerce Notes.md",
+    "wasm/WAGI/WAGI Notes.md",
     "wasm/WAGI.md",
-    "frameworks/Angular/DI/Angular DI IOC.md",
-    "portfolio & product/examples.md",
-    "courses/course links.md",
-    "storage/S3.md",
-    "scratch paper/scratch.md",
-    "courses/Subscriptions.md",
-    "libraries/Libraries Notes.md",
-    "storage/IPFS.md"
+    "web/Capabilities.md",
+    "web/streams/web streams.md",
+    "web/perf/perf notes.md",
+    "web/forms/Web Forms Notes.md",
+    "backends/gRPC/connect.build.md",
+    "commerce/Commerce Notes.md",
+    "frameworks/Angular/DI/Angular DI IOC.md"
   ]
 }
