@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "portfolio & product/examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "portfolio & product/examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wasm/WAGI.md",
+                "file": "portfolio & product/examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wasm/WAGI.md"
+                "file": "portfolio & product/examples.md"
               }
             }
           }
@@ -140,6 +139,7 @@
   },
   "active": "957431c0802b1c81",
   "lastOpenFiles": [
+    "wasm/WAGI.md",
     "courses/course links.md",
     "storage/S3.md",
     "scratch paper/scratch.md",
@@ -148,7 +148,6 @@
     "storage/IPFS.md",
     "storage/Storage Notes.md",
     "media processing/notes.md",
-    "storage/media/Notes.md",
-    "data/db/Database Bookmarks.md"
+    "storage/media/Notes.md"
   ]
 }
