@@ -9,4 +9,6 @@
 - [alex sidorenko](https://alexsidorenko.com/)
 - [wes mckinney](https://wesmckinney.com/book/)
 	- [ibis](https://ibis-project.org/docs/3.2.0/)
+- [voracious dev](https://voracious.dev/)
+- 
 

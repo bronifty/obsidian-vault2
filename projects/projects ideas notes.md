@@ -8,4 +8,9 @@
 
 - put together a workflow that uses - [paystring](https://paystring.org/sandbox/bronifty) as an intermediate value kind of like the envelope in a gRPC call which takes a payment in crypto and converts it to USD on the blockchain, enabling it to cash out to a bank account
 
-
+- diy cms with editor based on
+	- tinacms github repo
+	- dnd [stackbit]
+	- md [codemirror]
+	- wysiwyg [prose mirror]
+	- multiplayer - [hocuspocus realtime multiplayer for tiptap](https://tiptap.dev/hocuspocus/provider/introduction)
