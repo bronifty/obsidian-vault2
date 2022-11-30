@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ba345bb6b84a022",
+            "id": "19976cde3662c4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wasm/WAGI/WAGI Notes.md",
+                "file": "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wasm/WAGI/WAGI Notes.md",
+                "file": "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wasm/WAGI/WAGI Notes.md",
+                "file": "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wasm/WAGI/WAGI Notes.md"
+                "file": "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md"
               }
             }
           }
@@ -138,16 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ba345bb6b84a022",
+  "active": "19976cde3662c4cb",
   "lastOpenFiles": [
-    "wasm/WAGI/WAGI Notes.md",
-    "wasm/WAGI.md",
+    "wasm/Deis Labs/Untitled.md",
+    "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
+    "wasm/General/WASM Notes v2.md",
+    "wasm/General/WASM Notes.md",
+    "wasm/ByteCode Alliance/ByteCode Alliance.md",
+    "wasm/WAGI/WAGI.md",
     "web/Capabilities.md",
     "web/streams/web streams.md",
     "web/perf/perf notes.md",
-    "web/forms/Web Forms Notes.md",
-    "backends/gRPC/connect.build.md",
-    "commerce/Commerce Notes.md",
-    "frameworks/Angular/DI/Angular DI IOC.md"
+    "web/forms/Web Forms Notes.md"
   ]
 }
