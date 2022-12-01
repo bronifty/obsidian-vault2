@@ -1,5 +1,7 @@
 ### db
 
+[polyscale.ai](https://www.polyscale.ai/)
+
 [cratedb](https://crate.io/)
 
 [Dashboard demo - PocketBase](https://pocketbase.io/demo/)
