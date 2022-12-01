@@ -22,7 +22,14 @@
 [Commerce Layer | Composable Commerce API for Developers](https://commercelayer.io/)
 
 ## Cloud
-- [aws app composer](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/)
+- [aws app composer](https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer)
+
+## Serverless
+- [isserverlessready](https://isserverlessready.com)
 
 ## Data
 - [Snaplet](https://www.snaplet.dev/)
+
+## Mobile
+- [ignite 2 for React Native](https://shift.infinite.red/unveiling-ignite-2-d27d772c4959)
+
