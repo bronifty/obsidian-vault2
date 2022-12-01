@@ -1,4 +1,5 @@
-### composability
+
+## Web
 
 [edgio](https://forum.layer0.co/t/is-layer0-a-netlify-or-vercel-alternative/132)
 
@@ -19,4 +20,9 @@
 [AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
 
 [Commerce Layer | Composable Commerce API for Developers](https://commercelayer.io/)
-[Snaplet](https://www.snaplet.dev/)
+
+## Cloud
+- [aws app composer](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/)
+
+## Data
+- [Snaplet](https://www.snaplet.dev/)
