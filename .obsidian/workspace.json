@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0666bae2cd5bbfed",
+            "id": "68053efdbfc1fbe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuts/todo/named options arg versus interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33866c07f690115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "composability/Composability.md",
+                "file": "wasm/General/WASM Notes 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "composability/Composability.md",
+                "file": "wasm/General/WASM Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "composability/Composability.md",
+                "file": "wasm/General/WASM Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "composability/Composability.md"
+                "file": "wasm/General/WASM Notes 3.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e33866c07f690115",
+  "active": "68053efdbfc1fbe9",
   "lastOpenFiles": [
+    "wasm/General/WASM Notes v2.md",
+    "wasm/Deis Labs/HIPPO/Hippo.md",
+    "composability/Composability.md",
     "tuts/todo/TODOs.md",
     "tuts/todo/named options arg versus interface.md",
     "backends/Kubernetes/k8s notes.md",
     "platforms/platform-services/Platform Services Notes.md",
     "projects/clones/dropbox/s3-compatible dropbox.md",
     "libraries/typescript/TS Notes.md",
-    "web/mobile/React Native/React Native Notes.md",
-    "web/mobile/PWA/PWA Notes.md",
-    "projects/bronifty.xyz/bronifty.xyz.md",
-    "security/Services.md"
+    "web/mobile/React Native/React Native Notes.md"
   ]
 }
