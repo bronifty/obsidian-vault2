@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/db/Database Bookmarks.md",
+                "file": "libraries/Libraries Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/db/Database Bookmarks.md",
+                "file": "libraries/Libraries Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/db/Database Bookmarks.md",
+                "file": "libraries/Libraries Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/db/Database Bookmarks.md"
+                "file": "libraries/Libraries Notes.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "19976cde3662c4cb",
   "lastOpenFiles": [
+    "data/db/Database Bookmarks.md",
     "web/mobile/React Native/React Native Notes.md",
     "libraries/Libraries Notes.md",
     "mac/cleanup path npm yarn - nick tweet.md",
@@ -147,7 +148,6 @@
     "security/Services.md",
     "security/JWT.md",
     "security/How To.md",
-    "security/Best Practices.md",
-    "security/Auth-N.md"
+    "security/Best Practices.md"
   ]
 }

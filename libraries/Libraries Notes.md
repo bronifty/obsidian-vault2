@@ -34,32 +34,32 @@
 ##### Editors - DIY CMS
 ###### DND
 - [stackbit dnd eg builder.io](https://www.stackbit.com/)
-	- dnd & visual editing (like stackbit mapping the origin files to the root html document elements' data attributes) for web sites - eg builder.io
 ###### WYSIWYG
-- sdf
+- [tip tap prose mirror for wysiwyg](https://tiptap.dev/api/introduction)
 ###### MD
-- sdf
+- [codemirror.net for md](https://codemirror.net/)
+- [docusaurus](https://docusaurus.io/)
 ###### Multiplayer
 - [hocuspocus realtime multiplayer for tiptap](https://tiptap.dev/hocuspocus/provider/introduction)
-###### Repo
+- [whimsical](https://whimsical.com/)
+###### Rich Text CMS
 - [tinacms](https://tina.io/docs/setup-overview/)
+- [tinymce](https://www.tiny.cloud/)
+- [yousefED notion-style blocknote built on prosemirror and hocus pocus](https://github.com/YousefED/BlockNote)
 ###### SaaS
+ - [gitbook](https://app.gitbook.com/s/8ezDvHCGb9he381XG13U/quick-start)
 - [uniform.dev](https://uniform.dev/)
 - [contentlayer](https://www.contentlayer.dev/)
-- [sanity]
-- [contentful]
+- [octo.app](https://octo.app/account)
 
 
 ##### Editor
-- [tinymce](https://www.tiny.cloud/)
-- [yousefED notion-style blocknote](https://github.com/YousefED/BlockNote)
 
 
-- [gitbook](https://app.gitbook.com/s/8ezDvHCGb9he381XG13U/quick-start)
+
+-
 	- [bronifty.gitbook.io](https://bronifty.gitbook.io/bronifty/)
-- [docusaurus](https://docusaurus.io/)
-- [whimsical](https://whimsical.com/)
-- [octo.app](https://octo.app/account)
-- [codemirror.net for md](https://codemirror.net/)
-- [tip tap prose mirror for wysiwyg](https://tiptap.dev/api/introduction)
 - 
+
+
+
