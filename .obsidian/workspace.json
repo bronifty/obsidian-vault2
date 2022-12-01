@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wasm/General/WASM Notes 3.md",
+                "file": "todos/TODOs.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "platform",
+                "query": "bronifty.xyz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wasm/General/WASM Notes 3.md",
+                "file": "todos/TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wasm/General/WASM Notes 3.md",
+                "file": "todos/TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wasm/General/WASM Notes 3.md"
+                "file": "todos/TODOs.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "68053efdbfc1fbe9",
   "lastOpenFiles": [
-    "wasm/General/WASM Notes v2.md",
-    "wasm/Deis Labs/HIPPO/Hippo.md",
-    "composability/Composability.md",
+    "todos/named options arg versus interface.md",
     "tuts/todo/TODOs.md",
-    "tuts/todo/named options arg versus interface.md",
-    "backends/Kubernetes/k8s notes.md",
-    "platforms/platform-services/Platform Services Notes.md",
-    "projects/clones/dropbox/s3-compatible dropbox.md",
-    "libraries/typescript/TS Notes.md",
-    "web/mobile/React Native/React Native Notes.md"
+    "documentation/tools.md",
+    "documentation/Docs Notes.md",
+    "portfolio & product/examples.md",
+    "portfolio & product/Freelance Notes.md",
+    "portfolio & product/Notes.md",
+    "wasm/General/WASM Notes 3.md",
+    "wasm/General/WASM Notes 2.md",
+    "wasm/Deis Labs/HIPPO/Hippo.md"
   ]
 }
