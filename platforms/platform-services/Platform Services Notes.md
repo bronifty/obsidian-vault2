@@ -42,9 +42,6 @@
 - [css tricks snippets](https://css-tricks.com/snippets/)
 - [1loc.dev](https://1loc.dev/)
 - [30secondsofcode.org](https://www.30secondsofcode.org/js/t/algorithm/p/1)
-- 
-
 
 ##### Business 
 - [merge.dev](https://merge.dev/)
-- 

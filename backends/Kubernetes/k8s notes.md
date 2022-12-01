@@ -5,5 +5,6 @@
 - [humanitec platform engineering](https://humanitec.com/learning-hub)
 - [bunnyshell env as svc](https://environments.bunnyshell.com/560/projects/773/environments/5253)
 - [kasten data backup](https://www.kasten.io/)
-- 
+- [bunnyshell](https://environments.bunnyshell.com/560/projects/773/environments/5253)
+
 

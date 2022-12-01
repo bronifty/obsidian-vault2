@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
+                "file": "tuts/todo/named options arg versus interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33866c07f690115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tuts/todo/TODOs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auth",
+                "query": "platform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
+                "file": "tuts/todo/TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
+                "file": "tuts/todo/TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/clones/dropbox/s3-compatible dropbox.md"
+                "file": "tuts/todo/TODOs.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0666bae2cd5bbfed",
+  "active": "e33866c07f690115",
   "lastOpenFiles": [
+    "tuts/todo/named options arg versus interface.md",
+    "backends/Kubernetes/k8s notes.md",
+    "platforms/platform-services/Platform Services Notes.md",
+    "projects/clones/dropbox/s3-compatible dropbox.md",
     "libraries/typescript/TS Notes.md",
     "web/mobile/React Native/React Native Notes.md",
     "web/mobile/PWA/PWA Notes.md",
     "projects/bronifty.xyz/bronifty.xyz.md",
     "security/Services.md",
-    "security/Auth-N.md",
-    "cms/Notes.md",
-    "cms/Untitled.md",
-    "data/db/Database Bookmarks.md",
-    "libraries/Libraries Notes.md"
+    "security/Auth-N.md"
   ]
 }
