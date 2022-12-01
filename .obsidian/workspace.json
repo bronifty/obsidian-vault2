@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libraries/typescript/TS Notes.md",
+                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libraries/typescript/TS Notes.md",
+                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libraries/typescript/TS Notes.md",
+                "file": "projects/clones/dropbox/s3-compatible dropbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libraries/typescript/TS Notes.md"
+                "file": "projects/clones/dropbox/s3-compatible dropbox.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "0666bae2cd5bbfed",
   "lastOpenFiles": [
+    "libraries/typescript/TS Notes.md",
     "web/mobile/React Native/React Native Notes.md",
     "web/mobile/PWA/PWA Notes.md",
     "projects/bronifty.xyz/bronifty.xyz.md",
@@ -147,7 +148,6 @@
     "cms/Notes.md",
     "cms/Untitled.md",
     "data/db/Database Bookmarks.md",
-    "libraries/Libraries Notes.md",
-    "mac/cleanup path npm yarn - nick tweet.md"
+    "libraries/Libraries Notes.md"
   ]
 }
