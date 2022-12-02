@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/fleek/Fleek Storage Notes.md",
+                "file": "libraries/Libraries Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c09b4d68a1b28c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/AI Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -62,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JIRA",
+                "query": "stackbit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storage/fleek/Fleek Storage Notes.md",
+                "file": "ai/AI Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storage/fleek/Fleek Storage Notes.md",
+                "file": "ai/AI Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/fleek/Fleek Storage Notes.md"
+                "file": "ai/AI Notes.md"
               }
             }
           }
@@ -150,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee99d676e143d82f",
+  "active": "a1c09b4d68a1b28c",
   "lastOpenFiles": [
+    "libraries/Libraries Notes.md",
+    "projects/bronifty.xyz/bronifty.xyz.md",
+    "storage/fleek/Fleek Storage Notes.md",
     "storage/google photos.md",
     "todos/TODOs.md",
-    "projects/bronifty.xyz/bronifty.xyz.md",
     "frameworks/react/remix-react-router/KCD/Epic React.md",
     "frameworks/react/remix-react-router/remix.md",
     "frameworks/react/remix-react-router/react-router tutorial.md",
     "todos/named options arg versus interface.md",
-    "wasm/General/WASM Notes 3.md",
-    "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
-    "wasm/Deis Labs/HIPPO/Hippo.md"
+    "wasm/General/WASM Notes 3.md"
   ]
 }
