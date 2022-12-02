@@ -164,15 +164,15 @@
   },
   "active": "a1c09b4d68a1b28c",
   "lastOpenFiles": [
+    "todos/TODOs.md",
+    "ai/AI Notes.md",
     "libraries/Libraries Notes.md",
     "projects/bronifty.xyz/bronifty.xyz.md",
     "storage/fleek/Fleek Storage Notes.md",
     "storage/google photos.md",
-    "todos/TODOs.md",
     "frameworks/react/remix-react-router/KCD/Epic React.md",
     "frameworks/react/remix-react-router/remix.md",
     "frameworks/react/remix-react-router/react-router tutorial.md",
-    "todos/named options arg versus interface.md",
-    "wasm/General/WASM Notes 3.md"
+    "todos/named options arg versus interface.md"
   ]
 }
