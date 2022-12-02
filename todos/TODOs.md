@@ -16,5 +16,8 @@
 - [wasm wagi youtube playlist](https://www.youtube.com/playlist?list=PLPYCwaK1DkkVq4Vb06m75NqU6PCJA8Pwh)
 - [deis labs hippofactory.dev](https://docs.hippofactory.dev/)
 
+## Data
+- [enso](https://www.youtube.com/c/Enso_org/featured)
+
 ## Other
 - [advent of code](https://adventofcode.com/2022)
