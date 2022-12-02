@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68053efdbfc1fbe9",
+            "id": "696669d9569c7e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bronifty.xyz",
+                "query": "JIRA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68053efdbfc1fbe9",
+  "active": "696669d9569c7e49",
   "lastOpenFiles": [
+    "projects/bronifty.xyz/bronifty.xyz.md",
+    "frameworks/react/remix-react-router/KCD/Epic React.md",
+    "frameworks/react/remix-react-router/remix.md",
+    "frameworks/react/remix-react-router/react-router tutorial.md",
+    "todos/TODOs.md",
     "todos/named options arg versus interface.md",
     "wasm/General/WASM Notes 3.md",
     "wasm/Deis Labs/Deis Labs (MSFT R&D for WASM).md",
     "wasm/Deis Labs/HIPPO/Hippo.md",
-    "wasm/Deis Labs/SpiderLightning/SpiderLightning Notes.md",
-    "composability/Composability.md",
-    "todos/TODOs.md",
-    "commerce/Commerce Notes.md",
-    "security/Services.md",
-    "web/forms/Web Forms Notes.md"
+    "wasm/Deis Labs/SpiderLightning/SpiderLightning Notes.md"
   ]
 }

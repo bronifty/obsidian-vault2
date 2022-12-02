@@ -21,3 +21,6 @@
 
 ## Other
 - [advent of code](https://adventofcode.com/2022)
+
+## Web3
+- fleek p2p CDN
