@@ -1,10 +1,11 @@
+- [stytch](https://stytch.com/start-now?redirect=%2Fdashboard%2Fhome)
+- [auth0]
 - [staticshield](https://staticshield.vercel.app/docs)
 - [frontegg](https://frontegg.com/pricing)
 - [fusionauth](https://fusionauth.io/)
 - [passport](https://www.passportjs.org/concepts/authentication/oauth/)
 - [fastly](https://developer.fastly.com/solutions/starters/compute-rust-auth/)
 - [authlete](https://www.authlete.com/)
-- [stytch](https://stytch.com/start-now?redirect=%2Fdashboard%2Fhome)
 - [clerk.dev](https://clerk.dev/)
 - [keycloak](https://www.keycloak.org/)
 - [skyflow](https://www.skyflow.com/)

@@ -26,6 +26,8 @@
 
 ## Serverless
 - [isserverlessready](https://isserverlessready.com)
+- [GCP Serverless YouTube](https://www.youtube.com/watch?v=ertbL2Rxbvk&t=6s)
+- - [aws serverless badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan?la=sec&sec=lp)
 
 ## Data
 - [Snaplet](https://www.snaplet.dev/)
