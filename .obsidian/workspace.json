@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/Rust/Rust-lang.org.md",
+                "file": "web/Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/Rust/Rust Notes General.md",
+                "file": "web/Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages/Rust/Rust Notes General.md",
+                "file": "web/Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages/Rust/Rust Notes General.md"
+                "file": "web/Capabilities.md"
               }
             }
           }
@@ -162,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91f0f2ac5f689f0c",
+  "active": "139e11033108b4fa",
   "lastOpenFiles": [
-    "languages/Rust/Rust-lang.org.md",
-    "languages/Rust/Rust by Example.md",
-    "wasm/rust/Rust Notes.md",
     "observability/Sentry/Sentry.md",
     "observability/Observability.md",
+    "languages/Rust/Rust-lang.org.md",
+    "languages/Rust/Rust Notes General.md",
+    "languages/Rust/Rust by Example.md",
+    "wasm/rust/Rust Notes.md",
     "ai/AI Notes.md",
     "wasm/General/WASM Notes 3.md",
     "serverless & jamstack/Serverless Notes.md",
-    "storage/google photos.md",
-    "libraries/Libraries Notes.md"
+    "storage/google photos.md"
   ]
 }
