@@ -12,7 +12,9 @@
 - [wagi file server grain from deis labs]
 	- [[Deis Labs (MSFT R&D for WASM)]]
 
-
+## Trunk
+- [trunk](https://trunkrs.dev/assets/)
+- 
 
 
 
