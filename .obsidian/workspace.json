@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "86ed2cd5462be39a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio & product/examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "91f0f2ac5f689f0c",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/Capabilities.md",
+                "file": "portfolio & product/examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/Capabilities.md",
+                "file": "portfolio & product/examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/Capabilities.md"
+                "file": "portfolio & product/examples.md"
               }
             }
           }
@@ -163,8 +174,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "139e11033108b4fa",
+  "active": "86ed2cd5462be39a",
   "lastOpenFiles": [
+    "certifications/Certifications Notes.md",
+    "web/Capabilities.md",
     "observability/Sentry/Sentry.md",
     "observability/Observability.md",
     "languages/Rust/Rust-lang.org.md",
@@ -172,8 +185,6 @@
     "languages/Rust/Rust by Example.md",
     "wasm/rust/Rust Notes.md",
     "ai/AI Notes.md",
-    "wasm/General/WASM Notes 3.md",
-    "serverless & jamstack/Serverless Notes.md",
-    "storage/google photos.md"
+    "wasm/General/WASM Notes 3.md"
   ]
 }

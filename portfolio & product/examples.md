@@ -3,7 +3,7 @@
 - [daniel stenberg](https://daniel.haxx.se/)
 - [florentin](https://ecklf.com/)
 - [radu](https://radu-matei.com/)
-- 
+- [nitin](https://snitin315.vercel.app/)
 
 
 ##### Over the Top Design
