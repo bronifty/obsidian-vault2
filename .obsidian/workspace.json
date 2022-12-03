@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f340e49f471472c8",
+        "id": "95d20d2421a54cee",
         "type": "tabs",
         "children": [
           {
-            "id": "9baec85c429f28d3",
+            "id": "7c9faf00c55d9e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "observability/Observability.md",
+                "file": "languages/Rust/Rust-lang.org.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f8ca9df8e8b5334",
+            "id": "139e11033108b4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "observability/Sentry/Sentry.md",
+                "file": "languages/Rust/Rust-lang.org.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91f0f2ac5f689f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/Rust/Rust Notes General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "observability/Sentry/Sentry.md",
+                "file": "languages/Rust/Rust Notes General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "observability/Sentry/Sentry.md",
+                "file": "languages/Rust/Rust Notes General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "observability/Sentry/Sentry.md"
+                "file": "languages/Rust/Rust Notes General.md"
               }
             }
           }
@@ -150,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f8ca9df8e8b5334",
+  "active": "91f0f2ac5f689f0c",
   "lastOpenFiles": [
+    "languages/Rust/Rust-lang.org.md",
+    "languages/Rust/Rust by Example.md",
+    "wasm/rust/Rust Notes.md",
+    "observability/Sentry/Sentry.md",
     "observability/Observability.md",
     "ai/AI Notes.md",
     "wasm/General/WASM Notes 3.md",
     "serverless & jamstack/Serverless Notes.md",
     "storage/google photos.md",
-    "libraries/Libraries Notes.md",
-    "frameworks/Frameworks Notes.md",
-    "todos/TODOs.md",
-    "projects/bronifty.xyz/bronifty.xyz.md",
-    "storage/fleek/Fleek Storage Notes.md"
+    "libraries/Libraries Notes.md"
   ]
 }
