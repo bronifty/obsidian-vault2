@@ -9,3 +9,6 @@ sentry-cli sourcemaps explain c6dc6641c84f495a86d0467c37366890 -o bronifty -p re
 
 sentry-cli releases -o bronifty -p react-sentry-github files react-sentry-github@1.0.0 upload-sourcemaps ./dist/assets --url-prefix '~/assets'
 ```
+
+
+
