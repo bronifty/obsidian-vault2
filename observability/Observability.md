@@ -1,5 +1,9 @@
 
+##### Serverless
+- Lumigo
+
 ##### Web
+- sentry
 - [checkly](https://www.checklyhq.com/)
 - [honeycomb](https://www.honeycomb.io/)
 - [snyk](https://snyk.io/)
