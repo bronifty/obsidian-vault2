@@ -25,31 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/Capabilities.md",
+                "file": "wasm/General/WASM Notes 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86ed2cd5462be39a",
+            "id": "a1049546a75e9710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio & product/examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91f0f2ac5f689f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages/Rust/Rust Notes General.md",
+                "file": "mac/cleanup path npm yarn - nick tweet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stackbit",
+                "query": "homebrew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "portfolio & product/examples.md",
+                "file": "mac/cleanup path npm yarn - nick tweet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "portfolio & product/examples.md",
+                "file": "mac/cleanup path npm yarn - nick tweet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "portfolio & product/examples.md"
+                "file": "mac/cleanup path npm yarn - nick tweet.md"
               }
             }
           }
@@ -174,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86ed2cd5462be39a",
+  "active": "46860ead13aa0dac",
   "lastOpenFiles": [
-    "certifications/Certifications Notes.md",
+    "low-code-no-code/Low Code No Code Notes.md",
+    "wasm/General/WASM Notes 3.md",
     "web/Capabilities.md",
-    "observability/Sentry/Sentry.md",
-    "observability/Observability.md",
-    "languages/Rust/Rust-lang.org.md",
-    "languages/Rust/Rust Notes General.md",
-    "languages/Rust/Rust by Example.md",
-    "wasm/rust/Rust Notes.md",
     "ai/AI Notes.md",
-    "wasm/General/WASM Notes 3.md"
+    "erp/ERP Notes.md",
+    "courses/course links.md",
+    "courses/Subscriptions.md",
+    "portfolio & product/examples.md",
+    "certifications/Certifications Notes.md",
+    "observability/Sentry/Sentry.md"
   ]
 }

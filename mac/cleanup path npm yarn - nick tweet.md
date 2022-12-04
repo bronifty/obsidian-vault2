@@ -41,3 +41,33 @@ Nick McCurdy ([@nickemccurdy](https://twitter.com/nickemccurdy)) - November 27, 
 [@bronifty](https://twitter.com/bronifty) I would clear out the npm and yarn directories, reinstall Node through Homebrew, and enable corepack (if you haven’t already) for Yarn
 
 [Tweet link](https://twitter.com/nickemccurdy/status/1596761563448627202)
+
+
+
+### Corepack Notes
+- [what is corepack fek.io](https://fek.io/blog/what-is-corepack-in-node-js)
+```shell
+corepack prepare yarn@stable --activate
+yarn set version stable
+yarn init -2
+```
+- corepack requires an activation statement like python venv 
+- yarn node is the interpreter
+	- for example, assuming index.js is the node.js server file: to run node index.js
+```shell
+yarn node index
+```
+- dependencies are installed in the .yarn folder of the user directory instead of locally in a node_modules folder and the packages are kept in .zip files like a java archive (jar file)
+- to add dependencies, refer to it with corepack prefix like so
+```shell
+corepack yarn add axios
+```
+
+- If you want the node_modules folder (so node will be the interpreter not yarn and you have a direct link to the modules for compatibility), add the following line to .yarnrc.yml:
+```yml
+nodeLinker: node-modules
+```
+
+### Yarn Docs
+- [yarnpkg.com](https://yarnpkg.com/getting-started/usage)
+- 
