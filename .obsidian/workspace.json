@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mac/cleanup path npm yarn - nick tweet.md",
+                "file": "libraries/Libraries Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ef1507376a0cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "libraries/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "serverless & jamstack/Serverless Notes.md",
+                "file": "libraries/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "serverless & jamstack/Serverless Notes.md",
+                "file": "libraries/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serverless & jamstack/Serverless Notes.md"
+                "file": "libraries/Books.md"
               }
             }
           }
@@ -174,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbc47965476c256d",
+  "active": "19ef1507376a0cbf",
   "lastOpenFiles": [
-    "mac/Corepack Yarn.md",
+    "libraries/Libraries Notes.md",
     "mac/cleanup path npm yarn - nick tweet.md",
+    "serverless & jamstack/Serverless Notes.md",
+    "mac/Corepack Yarn.md",
     "api management/API Management Notes.md",
     "frameworks/Angular/DI/Angular DI IOC.md",
     "observability/Observability.md",
     "low-code-no-code/Low Code No Code Notes.md",
     "wasm/General/WASM Notes 3.md",
-    "web/Capabilities.md",
-    "ai/AI Notes.md",
-    "erp/ERP Notes.md"
+    "web/Capabilities.md"
   ]
 }

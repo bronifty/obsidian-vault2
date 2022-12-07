@@ -1,0 +1,3 @@
+- [Amazon Kindle Web Reader](https://read.amazon.com/kindle-library)
+- [Manning Dashboard Books](https://www.manning.com/dashboard/index?filter=book&order=purchaseDate&sort=desc)
+- 
