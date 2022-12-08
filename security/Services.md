@@ -21,4 +21,8 @@
 
 ##### Build
 - [sonatype](https://www.sonatype.com/solutions/software-developers)
+
+##### Malware
+- [filescan.io/scan](https://www.filescan.io/scan)
+- [filescan.com](https://www.filescan.com/)
 - 

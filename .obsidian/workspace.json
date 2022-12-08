@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/Services.md",
+                "file": "low-code-no-code/Low Code No Code Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/Services.md",
+                "file": "low-code-no-code/Low Code No Code Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/Services.md",
+                "file": "low-code-no-code/Low Code No Code Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/Services.md"
+                "file": "low-code-no-code/Low Code No Code Notes.md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "19ef1507376a0cbf",
   "lastOpenFiles": [
+    "security/Services.md",
+    "observability/Observability.md",
     "libraries/Books.md",
     "libraries/Libraries Notes.md",
     "mac/cleanup path npm yarn - nick tweet.md",
@@ -195,8 +197,6 @@
     "mac/Corepack Yarn.md",
     "api management/API Management Notes.md",
     "frameworks/Angular/DI/Angular DI IOC.md",
-    "observability/Observability.md",
-    "low-code-no-code/Low Code No Code Notes.md",
-    "wasm/General/WASM Notes 3.md"
+    "low-code-no-code/Low Code No Code Notes.md"
   ]
 }

@@ -1,8 +1,10 @@
 
 ##### Serverless
+- [Axiom](https://www.axiom.co/?ref=theo)
 - Lumigo
 
 ##### Web
+- [logrocket](https://app.logrocket.com/quickstart)
 - sentry
 - [checkly](https://www.checklyhq.com/)
 - [honeycomb](https://www.honeycomb.io/)
