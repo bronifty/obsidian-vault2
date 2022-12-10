@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/Rust/Rust-lang.org.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce10db5ba0d44861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterns/Patterns Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1410dfed2f602481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "todos/202212/20221209.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -74,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bart",
+                "query": "vanilla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1410dfed2f602481",
+  "active": "7c9faf00c55d9e33",
   "lastOpenFiles": [
+    "languages/Rust/Rust-lang.org.md",
+    "patterns/Patterns Notes.md",
+    "projects/projects ideas notes.md",
+    "todos/202212/20221209.md",
     "todos/TODOs.md",
     "ui/ui notes.md",
     "courses/course links.md",
     "ui/sketch/Sketch.md",
-    "todos/202212/20221209.md",
     "patterns/Dependency Injection.md",
-    "patterns/Patterns Notes.md",
-    "frameworks/Angular/DI/Angular DI IOC.md",
-    "ai/AI Notes.md",
-    "module federation/mf notes.md"
+    "frameworks/Angular/DI/Angular DI IOC.md"
   ]
 }
