@@ -1,0 +1,2 @@
+- [AngelSix](https://www.youtube.com/watch?v=rZqUgD8Jvbc) makes a compelling case for the pattern as a modular, extensible way to replace blocks of code or modules which comprise a library for doing one thing such as acessing a database, with one line of code that refers to or 'injects' the module aka the dependency
+	- The example is unit testing the app without its database and instead injecting a mock dependency (I assume mock service worker does something similar to this)

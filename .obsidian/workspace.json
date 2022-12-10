@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "patterns/Patterns Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1410dfed2f602481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "todos/202212/20221209.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -150,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce10db5ba0d44861",
+  "active": "1410dfed2f602481",
   "lastOpenFiles": [
+    "patterns/Dependency Injection.md",
+    "patterns/Patterns Notes.md",
+    "frameworks/Angular/DI/Angular DI IOC.md",
+    "ai/AI Notes.md",
+    "module federation/mf notes.md",
+    "todos/202212/20221209.md",
     "languages/Rust/Rust-lang.org.md",
     "wasm/General/WASM Notes 3.md",
     "libraries/Libraries Notes.md",
-    "wasm/General/WASM Notes 2.md",
-    "wasm/WAGI/WAGI.md",
-    "todos/TODOs.md",
-    "ai/AI Notes.md",
-    "low-code-no-code/Low Code No Code Notes.md",
-    "security/Services.md",
-    "observability/Observability.md"
+    "wasm/General/WASM Notes 2.md"
   ]
 }
