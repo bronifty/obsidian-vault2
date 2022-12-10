@@ -164,15 +164,15 @@
   },
   "active": "1410dfed2f602481",
   "lastOpenFiles": [
+    "todos/TODOs.md",
+    "ui/ui notes.md",
+    "courses/course links.md",
+    "ui/sketch/Sketch.md",
+    "todos/202212/20221209.md",
     "patterns/Dependency Injection.md",
     "patterns/Patterns Notes.md",
     "frameworks/Angular/DI/Angular DI IOC.md",
     "ai/AI Notes.md",
-    "module federation/mf notes.md",
-    "todos/202212/20221209.md",
-    "languages/Rust/Rust-lang.org.md",
-    "wasm/General/WASM Notes 3.md",
-    "libraries/Libraries Notes.md",
-    "wasm/General/WASM Notes 2.md"
+    "module federation/mf notes.md"
   ]
 }
