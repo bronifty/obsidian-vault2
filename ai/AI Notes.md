@@ -6,4 +6,6 @@
 - [enso](https://www.youtube.com/c/Enso_org/featured)
 
 - stable diffusion
+
+- [github/transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
 - 

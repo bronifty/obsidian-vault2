@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "139e11033108b4fa",
+            "id": "ce10db5ba0d44861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wasm/General/WASM Notes 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1049546a75e9710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libraries/Libraries Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19ef1507376a0cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "low-code-no-code/Low Code No Code Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc47965476c256d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "serverless & jamstack/Serverless Notes.md",
+                "file": "todos/202212/20221209.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homebrew",
+                "query": "bart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "low-code-no-code/Low Code No Code Notes.md",
+                "file": "todos/202212/20221209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "low-code-no-code/Low Code No Code Notes.md",
+                "file": "todos/202212/20221209.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "low-code-no-code/Low Code No Code Notes.md"
+                "file": "todos/202212/20221209.md"
               }
             }
           }
@@ -186,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19ef1507376a0cbf",
+  "active": "ce10db5ba0d44861",
   "lastOpenFiles": [
-    "security/Services.md",
-    "observability/Observability.md",
-    "libraries/Books.md",
+    "languages/Rust/Rust-lang.org.md",
+    "wasm/General/WASM Notes 3.md",
     "libraries/Libraries Notes.md",
-    "mac/cleanup path npm yarn - nick tweet.md",
-    "serverless & jamstack/Serverless Notes.md",
-    "mac/Corepack Yarn.md",
-    "api management/API Management Notes.md",
-    "frameworks/Angular/DI/Angular DI IOC.md",
-    "low-code-no-code/Low Code No Code Notes.md"
+    "wasm/General/WASM Notes 2.md",
+    "wasm/WAGI/WAGI.md",
+    "todos/TODOs.md",
+    "ai/AI Notes.md",
+    "low-code-no-code/Low Code No Code Notes.md",
+    "security/Services.md",
+    "observability/Observability.md"
   ]
 }
