@@ -22,6 +22,9 @@
 - [mediocremanor](https://www.mediocremanor.com/resources/)
 - [opensourcelowtech](https://opensourcelowtech.org/)
 
+##### Other
+- [Alex the Trucking Guy](https://linktr.ee/alexthetruckingguy)
+
 
 
 
