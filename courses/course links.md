@@ -135,6 +135,7 @@
 [solidbook](https://wiki.solidbook.io/Introduction-872fd41c47f54a61a318c6729ed7c0bd/?hash=5dc3ea70-b922-11ec-8145-1d56e31b02d6)
 
 ### subscription-based
+[frontendmasters](https://frontendmasters.com/my-account/subscription/)
 
 [fireship pro](https://fireship.io/pro)
 
@@ -149,3 +150,8 @@
 [egghead.io](https://egghead.io/)
 
 [Net Ninja Pro](https://netninja.dev/courses/enrolled)
+
+
+##### Free
+- [marko denic list of free cs courses from good unis](https://markodenic.com/free-courses/)
+

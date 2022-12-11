@@ -1,1 +1,2 @@
+- [frontend masters](https://frontendmasters.com/my-account/subscription/)
 - [fireship pro](https://fireship.io/pro)

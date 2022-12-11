@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todos/202212/20221209.md",
+                "file": "courses/Subscriptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vanilla",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos/202212/20221209.md",
+                "file": "courses/Subscriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todos/202212/20221209.md",
+                "file": "courses/Subscriptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todos/202212/20221209.md"
+                "file": "courses/Subscriptions.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7c9faf00c55d9e33",
   "lastOpenFiles": [
+    "courses/course links.md",
+    "courses/Subscriptions.md",
+    "todos/202212/20221209.md",
     "languages/Rust/Rust-lang.org.md",
     "patterns/Patterns Notes.md",
     "projects/projects ideas notes.md",
-    "todos/202212/20221209.md",
     "todos/TODOs.md",
     "ui/ui notes.md",
-    "courses/course links.md",
     "ui/sketch/Sketch.md",
-    "patterns/Dependency Injection.md",
-    "frameworks/Angular/DI/Angular DI IOC.md"
+    "patterns/Dependency Injection.md"
   ]
 }
