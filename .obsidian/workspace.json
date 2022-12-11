@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "data/mocking/Mock Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "data/mocking/Mock Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md",
+                "file": "data/mocking/Mock Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homesteading/tools/Tools Notes.md"
+                "file": "data/mocking/Mock Data.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "e5e5fd46bd86ee2d",
   "lastOpenFiles": [
+    "homesteading/tools/Tools Notes.md",
     "homesteading/trucking/Trucking Bookmarks.md",
     "homesteading/trucking/Trucking Notes.md",
     "frameworks/Frameworks Notes.md",
@@ -160,7 +161,6 @@
     "frameworks/redwoodjs/redwoodjs notes.md",
     "cms/Notes.md",
     "todos/202212/20221209.md",
-    "courses/course links.md",
-    "courses/Subscriptions.md"
+    "courses/course links.md"
   ]
 }
