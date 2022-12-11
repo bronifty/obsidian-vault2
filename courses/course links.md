@@ -73,8 +73,6 @@
 
 [CodeHawke](https://codehawke.com/)
 
-[Pirple](https://www.pirple.com/enrollments?page=1)
-
 [Build Web Apps with React & Firebase | Udemy](https://www.udemy.com/course/build-web-apps-with-react-firebase/learn/lecture/28891658#overview)
 
 [Learn JavaScript and React Patterns | Code Architecture Design Patterns in JS and React](https://frontendmasters.com/courses/tour-js-patterns/)
@@ -151,6 +149,9 @@
 
 [Net Ninja Pro](https://netninja.dev/courses/enrolled)
 
+- [boot.dev](https://boot.dev/tracks/backend)
+
+- [Pirple](https://www.pirple.com/enrollments?page=1)
 
 ##### Free
 - [marko denic list of free cs courses from good unis](https://markodenic.com/free-courses/)
