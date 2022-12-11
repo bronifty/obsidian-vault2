@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c97488170c71f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/clones/edu/Tech Education and Bootcamps Sites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "investors & market intel/VCs & Market Intelligence Notes.md",
+                "file": "projects/clones/edu/Tech Education and Bootcamps Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "investors & market intel/VCs & Market Intelligence Notes.md",
+                "file": "projects/clones/edu/Tech Education and Bootcamps Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "investors & market intel/VCs & Market Intelligence Notes.md"
+                "file": "projects/clones/edu/Tech Education and Bootcamps Sites.md"
               }
             }
           }
@@ -198,8 +210,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1921411e6146c33b",
+  "active": "4c97488170c71f2b",
   "lastOpenFiles": [
+    "investors & market intel/VCs & Market Intelligence Notes.md",
     "languages/Rust/Rust Examples.md",
     "todos/202212/20221209.md",
     "languages/Rust/Rust Frameworks and Libs.md",
@@ -208,7 +221,6 @@
     "languages/Rust/Rust-lang.org.md",
     "data/mocking/Mock Data.md",
     "homesteading/tools/Tools Notes.md",
-    "homesteading/trucking/Trucking Bookmarks.md",
-    "homesteading/trucking/Trucking Notes.md"
+    "homesteading/trucking/Trucking Bookmarks.md"
   ]
 }
