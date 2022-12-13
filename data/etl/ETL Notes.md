@@ -34,3 +34,9 @@
 ### prophecy
 
 [Prophecy Marketing Site](https://www.prophecy.io/blog/spark-interims-part-1)
+
+
+
+##### Other
+- [ascend.io](https://www.ascend.io/trial/)
+- 
