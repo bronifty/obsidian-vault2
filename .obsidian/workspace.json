@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/chatGPT/AWS S3.md",
+                "file": "storage/wasabi.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "wasabi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/chatGPT/AWS S3.md",
+                "file": "storage/wasabi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/chatGPT/AWS S3.md",
+                "file": "storage/wasabi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/chatGPT/AWS S3.md"
+                "file": "storage/wasabi.md"
               }
             }
           }
@@ -176,15 +177,15 @@
   },
   "active": "f79f1c363c6adf6d",
   "lastOpenFiles": [
-    "ai/chatGPT/Shell Scripts.md",
+    "frameworks/Angular/Security/Angular Security.md",
     "ai/chatGPT/AWS S3.md",
+    "ai/chatGPT/Shell Scripts.md",
     "shell/Shell Scripts.md",
     "ai/AI Notes.md",
     "e-commerce/Shopify/Shopify Dev Store and Hydrogen.md",
     "e-commerce/e-commerce Notes.md",
     "projects/scraping/upload a photo url buffer to s3.md",
     "other/Node Streams.md",
-    "investors & market intel/VCs & Market Intelligence Notes.md",
-    "data/etl/ETL Notes.md"
+    "investors & market intel/VCs & Market Intelligence Notes.md"
   ]
 }
