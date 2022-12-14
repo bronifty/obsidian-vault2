@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95d20d2421a54cee",
+        "id": "a81f0b6f4ac5e8bb",
         "type": "tabs",
         "children": [
           {
-            "id": "1199a7d07e7d6482",
+            "id": "d627bb9a7121f803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/AI Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc1f26dec37ee9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai/AI Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede9b676a09a190a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell/Shell Scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79f1c363c6adf6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "storage/wasabi.md",
+                "file": "storage/minio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wasabi",
+                "query": "buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storage/wasabi.md",
+                "file": "storage/minio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storage/wasabi.md",
+                "file": "storage/minio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/wasabi.md"
+                "file": "storage/minio.md"
               }
             }
           }
@@ -175,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f79f1c363c6adf6d",
+  "active": "d627bb9a7121f803",
   "lastOpenFiles": [
+    "storage/minio.md",
+    "storage/S3.md",
+    "storage/Storage Notes.md",
+    "storage/wasabi.md",
+    "projects/scraping/upload a photo url buffer to s3.md",
     "frameworks/Angular/Security/Angular Security.md",
     "ai/chatGPT/AWS S3.md",
     "ai/chatGPT/Shell Scripts.md",
     "shell/Shell Scripts.md",
-    "ai/AI Notes.md",
-    "e-commerce/Shopify/Shopify Dev Store and Hydrogen.md",
-    "e-commerce/e-commerce Notes.md",
-    "projects/scraping/upload a photo url buffer to s3.md",
-    "other/Node Streams.md",
-    "investors & market intel/VCs & Market Intelligence Notes.md"
+    "ai/AI Notes.md"
   ]
 }
