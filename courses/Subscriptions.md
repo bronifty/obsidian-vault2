@@ -1,5 +1,6 @@
 - [frontend masters](https://frontendmasters.com/my-account/subscription/)
 - [fireship pro](https://fireship.io/pro)
 - [ByteByteGo systems design](https://bytebytego.com/courses/system-design-interview/distributed-message-queue)
-- [topenddevs](https://topenddevs.com/dashboard)
-- 
+- [topenddevs](https://topenddevs.com/dashboard) - cancel
+- KodeKloud
+- ACloudGuru
