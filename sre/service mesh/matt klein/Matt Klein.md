@@ -1,0 +1,4 @@
+- [mattklein123.dev](https://mattklein123.dev/)
+- [envoy proxy](https://www.envoyproxy.io/)
+- [lyft engineering envoy implementation blog post](https://eng.lyft.com/internet-egress-filtering-of-services-at-lyft-72e99e29a4d9)
+- 

@@ -1,0 +1,6 @@
+- [Inlets on digital ocean](https://inlets.dev/#)
+- [doctl cli for digital ocean](https://github.com/digitalocean/doctl)
+- [serverless for everyone else](https://www.youtube.com/watch?v=rtC3xZwL-no)
+- everyday go pdf (in lib)
+- [alex on kubernetes podcast google](https://kubernetespodcast.com/episode/116-independent-open-source/)
+- 

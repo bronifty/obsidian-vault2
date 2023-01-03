@@ -1,0 +1,5 @@
+- [bilgin twitter](https://twitter.com/bibryam)
+- [ofbizian.com](http://www.ofbizian.com/)
+- [kubernetes patterns](https://www.amazon.co.uk/gp/product/1492050288/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=ofbizian-21&linkId=209af4d4b36f0ba4e856543abe08a090&language=en_GB)
+- dapr and kubernetes
+- 
