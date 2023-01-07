@@ -30,7 +30,7 @@ int32 must fall on a 4Byte alignment
 ```Go
 type example struct {
 	flag bool
-	[3]byte padding
+	[3]Byte padding
 	counter int32
 	pi float32
 }
@@ -41,9 +41,10 @@ int64 must fall on an 8Byte alignment
 ```Go
 type example struct {
 	flag bool
-	[7]byte padding
+	[7]Byte padding
 	counter int64
 	pi float32
+	[4]Byte padding
 }
 ```
 
