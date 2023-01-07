@@ -50,4 +50,14 @@ type example struct {
 2. the entire struct has to fall on an alignment equivalent to the largest type (if there is an int64, which is 8Bytes, then a float32, which is 4Bytes, must be padded by 4 to make 8Bytes for each space)
 - the derivative rule is that each value's type must consume the same amount of space in the memory as the struct's largest type
 	- lesser types must be padded
+- in order to maximize efficiency and minimize padding, sort your type declarations by size desc (largest first) so only the last space will require padding
+```Go
+type example struct {
+	counter int64 // 8B
+	pi float32 // 4B
+	flag bool // 1B
+	// [3]B padding
+}
+```
+
 
