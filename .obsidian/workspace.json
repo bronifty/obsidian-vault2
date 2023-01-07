@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "375dca03b0e64a5a",
+        "id": "7577ab2804688041",
         "type": "tabs",
         "children": [
           {
-            "id": "b819f0bb067ce50e",
+            "id": "29b9100ae3f10489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
-                "mode": "source",
-                "source": false
+                "file": "Go/1.excalidraw.md"
               }
             }
           }
@@ -70,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "Go/1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "Go/1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md"
+                "file": "Go/1.excalidraw.md"
               }
             }
           },
@@ -165,17 +162,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46860ead13aa0dac",
+  "active": "29b9100ae3f10489",
   "lastOpenFiles": [
-    "SaaS/SaaS.md",
     "Go/Ardan Labs Bill Kennedy.md",
+    "Go/1.excalidraw.md",
+    "Untitled.canvas",
+    "archive/frameworks/react/remix-react-router/KCD/Epic React.md",
     "2023/Week-1/2023-Week-01.md",
+    "SaaS/SaaS.md",
     "SaaS/saas.md",
     "archive/ai/chatGPT/AWS S3.md",
     "ai/AI Notes.md",
-    "todos/named options arg versus interface.md",
-    "todos/TODOs.md",
-    "todos/202212/20221209.md",
-    "cms/Notes.md"
+    "todos/named options arg versus interface.md"
   ]
 }

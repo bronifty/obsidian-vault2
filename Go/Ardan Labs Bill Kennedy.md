@@ -155,3 +155,27 @@ fmt.Println(b,n)
 ```
 
 - functions are first class citizens
+
+### Pointers (Pass by Val)
+- 1 goroutine per hardward thread (1 hardware thread allows 1 kernel thread)
+	- Bill's machine is an i7 which has 4 cores, but each core can do 2 threads, so he can run 8 goroutines in parallel
+- process attached to machine hardware whose os will will schedule a thread for it to run
+- goroutine is an app thread which leverages machine to process instructions sequentially
+	- machine then leverages hardware to process the executions
+- process > goroutine > machine > os > thread execution
+- Every goroutine gets its own contiguous block of memory called a stack (2k default)
+	- os thread also gets its own stack, which differs depending on the os type
+- main() entrypoint
+- when a goroutine executes a function, we consider it crossing a program boundary
+	- goroutine executes in frame / sandbox with an allocation of memory; that memory can only be written by that goroutine when it is operating inside that functions program boundary
+	- every function is a data transformation; every transformation is input > manipulation > output
+
+- count refers the the value, &count refers to the address
+	- combined, it is referred to as the data
+```Go
+func main(){
+	count := 10
+	println("count:\tValue Of[", count, "]\tAddr Of[", &count "]")
+}
+```
+
