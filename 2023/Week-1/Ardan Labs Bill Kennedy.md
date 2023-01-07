@@ -61,4 +61,57 @@ type example struct {
 }
 ```
 
+- Bill just said he doesn't want to see you doing this manually, let a linter do it ... not sure what's the best path then but it's good info anyway
 
+```Go
+func main(){
+	// Declare a variable of type example
+	// set its value to zero (var)
+	var e1 example 
+	// Display the value
+	fmt.Printf("%+v\n", e1)
+	// Declare a variable of type example
+	// init using a struct literal
+	e2 := example {
+		flag: true,
+		counter: 10,
+		pi: 3.141592,
+	}
+	// Display the field values
+	fmt.Println("Flag", e2.flag)
+	fmt.Println("Counter", e2.counter)
+	fmt.Println("Pi", e2.pi)
+}
+```
+
+- now let's declare a struct inline
+```Go
+// Declare a variable of an anonymous type
+// set to its zero value
+var e1 struct {
+	flag bool
+	counter int16
+	pi float32
+}
+
+// Display the value
+fmt.Printf("%+v\n", e1)
+
+// Declare a variable of an anonymous type
+// and init using a struct literal
+e2 := struct {
+	flag bool
+	counter int16
+	pi float32
+} {
+	flag: true,
+	counter: 10,
+	pi: 3.14159,
+}
+
+// Display the values
+fmt.Printf("%+v\n", e2)
+fmt.Printf("Flag", e2.flag)
+fmt.Println("Counter", e2.counter)
+fmt.Println("Pi", e2.pi)
+```
