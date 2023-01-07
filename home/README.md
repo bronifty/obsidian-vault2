@@ -1,3 +1,6 @@
+---
+K8s: BunnyShell
+---
 # Welcome to bro nifty's notes
 
 back to main site [bronifty.xyz](https://bronifty.xyz)

@@ -115,3 +115,43 @@ fmt.Printf("Flag", e2.flag)
 fmt.Println("Counter", e2.counter)
 fmt.Println("Pi", e2.pi)
 ```
+
+- let's show how we cannot assign a variable of one type to the value of another type without an explicit cast
+```Go
+type bill struct {
+	flag bool
+	counter int16
+	pi float32
+}
+type nancy struct {
+	flag bool
+	counter int16
+	pi float32
+}
+var b bill
+var n nancy
+b = n
+fmt.Println(b,n) // can't use n (type nancy) as type bill in assignment 
+
+```
+
+- let's try again with a cast of type 
+```Go
+type bill struct {
+	flag bool
+	counter int16
+	pi float32
+}
+type nancy struct {
+	flag bool
+	counter int16
+	pi float32
+}
+var b bill
+var n nancy
+b = bill(n) // cast nancy into a bill type
+fmt.Println(b,n) 
+
+```
+
+- functions are first class citizens
