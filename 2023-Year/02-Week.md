@@ -1,0 +1,3 @@
+- [CIVO Dashboard](https://dashboard.civo.com/kubernetes)
+- [Directus Dashboard](https://0ufhe8pz.directus.app/admin/content)
+- [Solo.io academy](https://www.solo.io/solo-academy/)

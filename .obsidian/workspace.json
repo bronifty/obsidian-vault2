@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "2023-Year/02-Week.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345f2bdd4fa370f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-Year/01-Week.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -98,15 +110,15 @@
   },
   "active": "a09961f3b872fb1e",
   "lastOpenFiles": [
-    "React/React.md",
-    "Go/1.excalidraw.md",
-    "Go/Ardan Labs Bill Kennedy.md",
-    "Rust+WASM/Rust.md",
-    "Rust+WASM/WASM.md",
     "SaaS/SaaS.md",
-    "Tailwind/tw.md",
-    "archive/cms/Notes.md",
+    "2023-Year/02-Week.md",
+    "2023-Year/01-Week.md",
     "2023/Week-1/2023-Week-01.md",
-    "Untitled.canvas"
+    "archive/courses/course links.md",
+    "Subs/Purchased Courses TODO + In-Progress.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "Subs/Sub Tracker.md",
+    "archive/courses/Subscriptions.md",
+    "Git+GitOps/github.md"
   ]
 }
