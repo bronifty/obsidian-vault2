@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "051681c8d24a629c",
+            "id": "58a8ef80b04544a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,17 +96,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "051681c8d24a629c",
+  "active": "58a8ef80b04544a7",
   "lastOpenFiles": [
+    "Projects/Data/Fluvio.md",
+    "Projects/Data/Apache Arrow Project.md",
+    "Projects/Data/NFLX Data Engineering.md",
     "2023-Year/02-Week.md",
+    "Go/Ardan Labs Bill Kennedy.md",
     "2023-Year/01-Week.md",
-    "Projects/Fluvio.md",
     "Rust+WASM/WASM.md",
     "archive/data/etl/fluvio/Fluvio Notes.md",
     "Rust+WASM/Rust.md",
-    "Subs/Purchased Courses TODO + In-Progress.md",
-    "Tailwind/tw.md",
-    "Subs/Sub Tracker.md",
-    "SaaS/SaaS.md"
+    "Subs/Purchased Courses TODO + In-Progress.md"
   ]
 }
