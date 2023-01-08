@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subs/Purchased Courses, TODO + In-Progress.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -97,15 +98,15 @@
   },
   "active": "58a8ef80b04544a7",
   "lastOpenFiles": [
+    "2023-Year/02-Week.md",
     "2023-Year/01-Week.md",
-    "Subs/Purchased Courses, TODO + In-Progress.md",
+    "Tailwind/tw.md",
     "Subs/Sub Tracker.md",
-    "archive/courses/course links.md",
-    "archive/courses/Subscriptions.md",
-    "archive/golang/alex/Alex Ellis Golang and K8s.md",
-    "Go/Ardan Labs Bill Kennedy.md",
-    "Projects/Data/NFLX Data Engineering.md",
+    "Subs/Purchased Courses, TODO + In-Progress.md",
+    "Rust+WASM/WASM.md",
+    "Rust+WASM/Rust.md",
+    "React/React.md",
     "Projects/Ops/Terminal.md",
-    "Projects/Data/Apache Arrow Project.md"
+    "Projects/Data/NFLX Data Engineering.md"
   ]
 }

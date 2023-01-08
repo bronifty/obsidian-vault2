@@ -250,4 +250,8 @@ func createUserV2() *user {
 - values only get constructed once; if it gets shared up, it will be escaped from the stack and constructed on the heap
 - Garbage Collector manages heap; stack is self-cleaning
 - go build -gcflags -m=2
-	- gcflags 
+	- gcflags go compiler flags with m2 option
+		- compiler will produce escape analysis report (it will not build)
+		- we will use this when we are profiling (not when writing code)
+		- a profiler can show us what is allocating (on the heap aka 'escaping' the stack), not why; the escape analysis report will tell us why; hint: reason is data sharing up the stack from a main function to another function then back
+- we are optimizing for correctness - implying: integrity, readability and simplicity - over performance
