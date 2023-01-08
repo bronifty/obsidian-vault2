@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust+WASM/Rust.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb5f99729dee975f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind/tw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,15 +135,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a09961f3b872fb1e",
+  "active": "eb5f99729dee975f",
   "lastOpenFiles": [
+    "Go/Ardan Labs Bill Kennedy.md",
+    "Rust+WASM/Rust.md",
     "SaaS/SaaS.md",
     "archive/cms/Notes.md",
     "2023/Week-1/2023-Week-01.md",
     "React/React.md",
-    "Rust+WASM/Rust.md",
     "Rust+WASM/WASM.md",
-    "Go/Ardan Labs Bill Kennedy.md",
     "Go/1.excalidraw.md",
     "Untitled.canvas",
     "archive/frameworks/react/remix-react-router/KCD/Epic React.md"
