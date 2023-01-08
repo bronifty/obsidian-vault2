@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md"
+                "file": "React/React.md"
               }
             }
           },
@@ -167,8 +166,8 @@
   },
   "active": "29b9100ae3f10489",
   "lastOpenFiles": [
-    "Go/1.excalidraw.md",
     "Go/Ardan Labs Bill Kennedy.md",
+    "Go/1.excalidraw.md",
     "SaaS/SaaS.md",
     "React/React.md",
     "Untitled.canvas",

@@ -179,7 +179,7 @@ func main(){
 }
 ```
 
-- sharing data (a pointer to an address is basically a reference, but Bill doesn't call it that so idk)
+- sharing data (the value that the pointer points to not the pointer itself; essentially another pointer to the same value, or a copy of the value which overwrites the previous)
 ```Go
 func main() {
 	count := 10
@@ -194,4 +194,6 @@ func increment(int *inc) {
 	println("inc:\tValue Of[", inc, "]\tAddr Of[", &inc "]\tValue Points To[", *inc, "]")
 }
 ```
-- i don't think &inc (address value can be updated), so *inc is the value for the &inc that gets updated
+- i don't think &inc (address value can be updated), so * inc is the value for the &inc that gets updated
+	- * inc is the value that the pointer points to 
+- 
