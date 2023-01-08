@@ -194,6 +194,10 @@ func increment(int *inc) {
 	println("inc:\tValue Of[", inc, "]\tAddr Of[", &inc "]\tValue Points To[", *inc, "]")
 }
 ```
-- i don't think &inc (address value can be updated), so * inc is the value for the &inc that gets updated
-	- * inc is the value that the pointer points to 
-- 
+
+| var   | val | addr | pointer |
+| ----- | --- | ---- | ------- |
+| count | 10  | 7ac  |         |
+| inc   | 7ac | 7a0  | 11      |
+| count | 11  | 7ac  |         |
+
