@@ -156,7 +156,7 @@ fmt.Println(b,n)
 
 - functions are first class citizens
 
-### Pointers (Pass by Val)
+### Pointers 
 - 1 goroutine per hardward thread (1 hardware thread allows 1 kernel thread)
 	- Bill's machine is an i7 which has 4 cores, but each core can do 2 threads, so he can run 8 goroutines in parallel
 - process attached to machine hardware whose os will will schedule a thread for it to run
@@ -255,3 +255,7 @@ func createUserV2() *user {
 		- we will use this when we are profiling (not when writing code)
 		- a profiler can show us what is allocating (on the heap aka 'escaping' the stack), not why; the escape analysis report will tell us why; hint: reason is data sharing up the stack from a main function to another function then back
 - we are optimizing for correctness - implying: integrity, readability and simplicity - over performance
+
+### Stack Growth
+- Allocation means heap
+- 
