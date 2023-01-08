@@ -179,3 +179,18 @@ func main(){
 }
 ```
 
+- sharing data
+```Go
+func main() {
+	count := 10
+	println("count:\tValue Of[", count, "]\tAddr Of[", &count "]")
+	// Pass the "address of" count
+	increment(&count)
+	println("count:\tValue Of[", count, "]\tAddr Of[", &count "]")
+}
+// *inc refers to the address of the arg
+func increment(int *inc) {
+	*inc++
+	println("inc:\tValue Of[", inc, "]\tAddr Of[", &inc "]\tValue Points To[", *inc, "]")
+}
+```

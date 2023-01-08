@@ -11,9 +11,11 @@
             "id": "29b9100ae3f10489",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Go/1.excalidraw.md"
+                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/1.excalidraw.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/1.excalidraw.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/1.excalidraw.md"
+                "file": "Go/Ardan Labs Bill Kennedy.md"
               }
             }
           },
@@ -164,15 +167,15 @@
   },
   "active": "29b9100ae3f10489",
   "lastOpenFiles": [
-    "Go/Ardan Labs Bill Kennedy.md",
     "Go/1.excalidraw.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "SaaS/SaaS.md",
+    "React/React.md",
     "Untitled.canvas",
     "archive/frameworks/react/remix-react-router/KCD/Epic React.md",
     "2023/Week-1/2023-Week-01.md",
-    "SaaS/SaaS.md",
     "SaaS/saas.md",
     "archive/ai/chatGPT/AWS S3.md",
-    "ai/AI Notes.md",
-    "todos/named options arg versus interface.md"
+    "ai/AI Notes.md"
   ]
 }
