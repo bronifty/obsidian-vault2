@@ -1,0 +1,1 @@
+- [zellij via charm cli](https://www.youtube.com/watch?v=lmcrVRM9V4k)

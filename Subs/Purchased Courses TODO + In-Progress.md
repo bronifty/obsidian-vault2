@@ -1,2 +1,0 @@
-- [Ardan Labs](https://courses.ardanlabs.com/enrollments)
-- 

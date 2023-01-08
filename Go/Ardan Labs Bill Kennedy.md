@@ -249,4 +249,5 @@ func createUserV2() *user {
 - The compiler recognizes that if a value is being shared down, it will be on the stack; if it gets shared up, it will be on the heap as a global
 - values only get constructed once; if it gets shared up, it will be escaped from the stack and constructed on the heap
 - Garbage Collector manages heap; stack is self-cleaning
-
+- go build -gcflags -m=2
+	- gcflags 
