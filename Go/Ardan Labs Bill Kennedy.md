@@ -220,6 +220,14 @@ func createUserV1() user {
 	println("V1", &u)
 	return u
 }
+func createUserV2() *user {
+	u := user{
+		name: "Bill",
+		email: "bill@ardanlabs.com",
+	}
+	println("V2", &u)
+	return &u
+}
 ```
 - there are no constructors in Go, instead we have factory functions which construct and init a val then return it back to caller
 
@@ -227,3 +235,17 @@ func createUserV1() user {
 | -------- | ----- |
 | main     |       |
 | V1       | Bill      |
+- v1 uses value semantics
+- v2 uses pointer semantics
+	- caller gets shared access to the value this function will be constructing, not it's own copy
+
+| function | value |
+| -------- | ----- |
+| main     |       |
+| V2       | Bill  |
+|          |       |
+- go does static code analysis called escape analysis that determines where your values should go in memory either on stack or heap
+- the analysis is how the memory should be shared
+- The compiler recognizes that if a value is being shared down, it will be on the stack; if it gets shared up, it will be on the heap as a global
+- values only get constructed once; if it gets shared up, it will be escaped from the stack and constructed on the heap
+- 
