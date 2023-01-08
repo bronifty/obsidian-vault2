@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust+WASM/WASM.md",
+                "file": "Rust+WASM/Rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,15 +124,15 @@
   },
   "active": "a09961f3b872fb1e",
   "lastOpenFiles": [
+    "SaaS/SaaS.md",
+    "archive/cms/Notes.md",
+    "2023/Week-1/2023-Week-01.md",
+    "React/React.md",
     "Rust+WASM/Rust.md",
     "Rust+WASM/WASM.md",
     "Go/Ardan Labs Bill Kennedy.md",
     "Go/1.excalidraw.md",
-    "2023/Week-1/2023-Week-01.md",
-    "SaaS/SaaS.md",
-    "React/React.md",
     "Untitled.canvas",
-    "archive/frameworks/react/remix-react-router/KCD/Epic React.md",
-    "SaaS/saas.md"
+    "archive/frameworks/react/remix-react-router/KCD/Epic React.md"
   ]
 }
