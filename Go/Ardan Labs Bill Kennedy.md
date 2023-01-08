@@ -201,3 +201,29 @@ func increment(int *inc) {
 | inc   | 7ac | 7a0  | 11      |
 | count | 11  | 7ac  |         |
 
+### Escape Analysis
+```Go
+type user struct {
+	name string
+	email string
+}
+func main(){
+	u1 := createUserV1()
+	u2 := createUserV2()
+	println("u1", &u1, "u2", u2)
+}
+func createUserV1() user {
+	u := user{
+		name: "Bill",
+		email: "bill@ardanlabs.com",
+	}
+	println("V1", &u)
+	return u
+}
+```
+- there are no constructors in Go, instead we have factory functions which construct and init a val then return it back to caller
+
+| function | value |
+| -------- | ----- |
+| main     |       |
+| V1       | Bill      |
