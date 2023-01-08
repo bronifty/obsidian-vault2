@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "Projects/Data/Fluvio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -98,15 +97,15 @@
   },
   "active": "58a8ef80b04544a7",
   "lastOpenFiles": [
+    "Projects/Ops/Terminal.md",
+    "Projects/Data/Fluvio.md",
+    "Projects/Data/NFLX Data Engineering.md",
+    "Go/Ardan Labs Bill Kennedy.md",
     "2023-Year/02-Week.md",
     "2023-Year/01-Week.md",
     "Tailwind/tw.md",
     "Subs/Sub Tracker.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
-    "Rust+WASM/WASM.md",
-    "Rust+WASM/Rust.md",
-    "React/React.md",
-    "Projects/Ops/Terminal.md",
-    "Projects/Data/NFLX Data Engineering.md"
+    "Rust+WASM/WASM.md"
   ]
 }
