@@ -271,9 +271,78 @@ func main(){
 	stackCopy(&s, 0, [size]int{})
 }
 func stackCopy(s *string, c int, a [size]int){
-	println(c, s, *s)
+	println(c, *s, s)
+	c++
+	if c == 10 {
+		return
+	}
+	stackCopy(s, c, a)
 }
 ```
 - "& (ampersand)" and "* (asterisk)" mean heap variable (pointer / reference)
 	- & is how you pass in a variable by its address to a function and * is how you accept the variable as an argument in the function definition
 
+- chatGPT
+```bash
+Q: 
+explain this code: func stackCopy(s *string, c int, a [size]int){ println(c, s, *s) c++ if c == 10 { return } stackCopy(s, c, a) }
+
+A: 
+This code defines a function named `stackCopy` that takes in three parameters:
+
+-   a pointer to a string
+-   an integer value
+-   an array of integers with a fixed size
+
+Inside the function, it prints out the values of `c`, `s`, and the string pointed to by `s`. It then increments the value of `c` by 1.
+
+If `c` is equal to 10, the function returns without doing anything else.
+
+If `c` is not equal to 10, the function calls itself recursively, passing in the same values for the three parameters. This recursive call will continue until `c` becomes equal to 10, at which point the function will return and the recursion will end.
+----
+Q:
+what will be the output of this code? const size = 10 func main(){ s := "HELLO" stackCopy(&s, 0, [size]int{}) } func stackCopy(s *string, c int, a [size]int){ println(c, *s, s) c++ if c == 10 { return } stackCopy(s, c, a) }
+
+A:
+The code will print out the following 10 lines:
+
+0 HELLO 0x81729c 1 HELLO 0x81729c 2 HELLO 0x81729c 3 HELLO 0x81729c 4 HELLO 0x81729c 5 HELLO 0x81729c 6 HELLO 0x81729c 7 HELLO 0x81729c 8 HELLO 0x81729c 9 HELLO 0x81729c
+
+On each line, the first value is the current value of `c`, the second value is the string pointed to by `s`, and the third value is the memory address where the string is stored.
+
+The recursion will continue until `c` becomes equal to 10, at which point the function will return and the program will terminate.
+```
+
+- now let's increase the size of the array from 10 to 1024
+
+```Go
+const size = 1024
+func main(){
+	s := "HELLO"
+	stackCopy(&s, 0, [size]int{})
+}
+func stackCopy(s *string, c int, a [size]int){
+	println(c, *s, s)
+	c++
+	if c == 10 {
+		return
+	}
+	stackCopy(s, c, a)
+}
+```
+
+- the output will be:
+```Go
+0 HELLO 0x81729c 
+1 HELLO 0x81729c 
+2 HELLO 0x81739c 
+3 HELLO 0x81739c 
+4 HELLO 0x81739c 
+5 HELLO 0x81739c 
+6 HELLO 0x81749c 
+7 HELLO 0x81749c 
+8 HELLO 0x81749c 
+9 HELLO 0x81749c
+```
+- we can see the address changes twice (once from 1 to 2 then from 5 to 6) as the stack frame changes to expand to a greater contiguous memory block
+- 
