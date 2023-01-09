@@ -257,5 +257,23 @@ func createUserV2() *user {
 - we are optimizing for correctness - implying: integrity, readability and simplicity - over performance
 
 ### Stack Growth
-- Allocation means heap
-- 
+- when the stack grows, it creates a new stack frame of contiguous memory address blocks (rather than appending blocks to the current frame) & moves the values over (basically a copy operation or lift and shift to a bigger, more roomy and luxurious address space)
+- no goroutine can share a value with another goroutine on its own stack
+	- any pointers in a goroutine are internal
+	- if 2 goroutines need to share a value, then lift state up to the global aka heap (which will be checked by the garbage collector loop & removed once there are no more live pointers to it in any running programs)
+- Value semantics give us isolation & safe mutations with data locality, but it is inefficient (making copies of stuff), which requires some pointer semantics to keep the complexity down and efficiency up
+	- pointer semantics (a reference to a heap variable shared by 2 goroutines) keeps efficiency up and complexity down
+
+```Go
+const size = 10
+func main(){
+	s := "HELLO"
+	stackCopy(&s, 0, [size]int{})
+}
+func stackCopy(s *string, c int, a [size]int){
+	println(c, s, *s)
+}
+```
+- "& (ampersand)" and "* (asterisk)" mean heap variable (pointer / reference)
+	- & is how you pass in a variable by its address to a function and * is how you accept the variable as an argument in the function definition
+
