@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SaaS/SaaS.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,6 +98,7 @@
   },
   "active": "a947b2a16949b1ce",
   "lastOpenFiles": [
+    "SaaS/SaaS.md",
     "Go/Ardan Labs Bill Kennedy.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
     "Subs/Sub Tracker.md",
@@ -106,7 +107,6 @@
     "2023-Year/02-Week.md",
     "2023-Year/01-Week.md",
     "Git+GitOps/github.md",
-    "Rust+WASM/WASM.md",
-    "Rust+WASM/Rust.md"
+    "Rust+WASM/WASM.md"
   ]
 }

@@ -345,4 +345,7 @@ func stackCopy(s *string, c int, a [size]int){
 9 HELLO 0x81749c
 ```
 - we can see the address changes twice (once from 1 to 2 then from 5 to 6) as the stack frame changes to expand to a greater contiguous memory block
+
+### Garbage Collection
+- gc sweeps loose references concurrent to goroutine tasks
 - 
