@@ -1,1 +1,0 @@
-- [RUST crates for WASM Maintainers - wasmCloud](https://www.youtube.com/watch?v=-UCr0nGzY9Y)

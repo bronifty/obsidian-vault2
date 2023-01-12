@@ -1,0 +1,2 @@
+- [TinyGo in Wazero (zero-dependency Go runtime for wasm)](https://wazero.io/languages/tinygo/)
+- 
