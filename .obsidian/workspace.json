@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust+Go+WASM/Cosmonic.md",
+                "file": "Rust+Go+WASM/WASM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -98,8 +97,8 @@
   },
   "active": "647af01a3d0d35a4",
   "lastOpenFiles": [
-    "Rust+Go+WASM/Hashicorp.md",
     "Rust+Go+WASM/Cosmonic.md",
+    "Rust+Go+WASM/Hashicorp.md",
     "Rust+Go+WASM/Wazero.md",
     "Rust+Go+WASM/WASM.md",
     "Rust+Go+WASM/Rust.md",
