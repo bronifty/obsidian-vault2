@@ -28,7 +28,6 @@
 - [Kent C. Dodds](https://kentcdodds.com/)
 - [erik wendell node streams lms - hotmart](https://purchase.hotmart.com/purchase/detail/2105756?purchaseId=175204994)
 - [JS Mastery Pro](https://javascript-mastery.teachable.com/courses)
-- [ultimate courses](https://app.ultimatecourses.com/my-account)
 - [Serverless Handbook for Frontend Engineers](https://serverlesshandbook.dev/)
 - [Just JavaScript by Dan Abramov](https://justjavascript.com/learn)
 - [Service Workies](https://serviceworkies.com/)
@@ -42,3 +41,8 @@
 # Freelance
 - [Freelance Mastery](https://freelancemastery.dev/)
 - [Dapp University](https://dappuniversity.teachable.com/)
+
+# Dependency Injection
+- [Nest JS](https://learn.nestjs.com/courses/enrolled/591712)
+- [ultimate courses](https://app.ultimatecourses.com/my-account)
+- [logic room](https://www.logicroom.co/)
