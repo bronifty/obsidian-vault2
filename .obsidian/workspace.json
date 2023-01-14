@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tailwind/tw.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c08fde6da241f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/projects/bronifty.xyz/bronifty.xyz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7abde9ec7e1930b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docs/docs site.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apache",
+                "query": "docusau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,17 +122,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f157a3017e1803d6",
+  "active": "7abde9ec7e1930b8",
   "lastOpenFiles": [
+    "archive/projects/bronifty.xyz/bronifty.xyz.md",
+    "Go/Links.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "Tailwind/tw.md",
     "React/React.md",
     "Git+GitOps/github.md",
     "SaaS/SaaS.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
     "archive/data/aiml/AI and ML Notes.md",
-    "archive/data/analytical engine/analytical engines notes.md",
-    "archive/data/db/duckdb/duckdb notes.md",
-    "archive/other/Apache Spark.md",
-    "archive/mac/cleanup path npm yarn - nick tweet.md",
-    "Rust+Go+WASM/Cosmonic.md"
+    "archive/data/analytical engine/analytical engines notes.md"
   ]
 }
