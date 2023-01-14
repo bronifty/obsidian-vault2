@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9afc1853e55f9f45",
+        "id": "690ba86893a79229",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2d1f138170a6f4",
+            "id": "be3c8851b3e5eaad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca20bbd612ea6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Project Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,17 +90,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dca20bbd612ea6ac",
+  "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
+    "Web/Chrome/Capabilities - Project Fugu.md",
+    "archive/web/Capabilities.md",
+    "archive/web/streams/web streams.md",
+    "Web/Chrome/Untitled 1.md",
     "Go/Links.md",
-    "Go/Ardan Labs Bill Kennedy.md",
-    "Rust+Go+WASM/Hashicorp.md",
-    "Rust+Go+WASM/wasmcloud.md",
-    "Rust+Go+WASM/Cosmonic.md",
-    "Animation/Links.md",
-    "archive/wasm/Docker/WASM in Docker.md",
-    "Docs/docs site.md",
-    "archive/projects/bronifty.xyz/bronifty.xyz.md",
-    "Tailwind/tw.md"
+    "Web/Animation/Links.md",
+    "Web/React/React.md",
+    "Web/Design/Links.md",
+    "WASM/wasmcloud.md",
+    "Subs/Purchased Courses, TODO + In-Progress.md"
   ]
 }
