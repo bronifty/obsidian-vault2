@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c08fde6da241f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/projects/bronifty.xyz/bronifty.xyz.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7abde9ec7e1930b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docs/docs site.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,9 +95,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7abde9ec7e1930b8",
+  "active": "f157a3017e1803d6",
   "lastOpenFiles": [
     "archive/projects/bronifty.xyz/bronifty.xyz.md",
+    "Docs/docs site.md",
     "Go/Links.md",
     "Go/Ardan Labs Bill Kennedy.md",
     "Tailwind/tw.md",
@@ -132,7 +106,6 @@
     "Git+GitOps/github.md",
     "SaaS/SaaS.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
-    "archive/data/aiml/AI and ML Notes.md",
-    "archive/data/analytical engine/analytical engines notes.md"
+    "archive/data/aiml/AI and ML Notes.md"
   ]
 }
