@@ -11,8 +11,13 @@
             "id": "be3c8851b3e5eaad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Design/Links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,12 +95,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f01d92c40f62a",
+  "active": "be3c8851b3e5eaad",
   "lastOpenFiles": [
+    "Web/Chrome/Untitled 1.md",
     "Web/Chrome/Capabilities - Project Fugu.md",
     "archive/web/Capabilities.md",
     "archive/web/streams/web streams.md",
-    "Web/Chrome/Untitled 1.md",
     "Go/Links.md",
     "Web/Animation/Links.md",
     "Web/React/React.md",
