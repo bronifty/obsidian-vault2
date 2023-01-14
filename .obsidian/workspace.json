@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust+Go+WASM/Hashicorp.md",
+                "file": "Go/Links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dca20bbd612ea6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Project Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,17 +109,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f2d1f138170a6f4",
+  "active": "dca20bbd612ea6ac",
   "lastOpenFiles": [
+    "Go/Links.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "Rust+Go+WASM/Hashicorp.md",
     "Rust+Go+WASM/wasmcloud.md",
     "Rust+Go+WASM/Cosmonic.md",
-    "Go/Links.md",
     "Animation/Links.md",
     "archive/wasm/Docker/WASM in Docker.md",
     "Docs/docs site.md",
-    "Go/Ardan Labs Bill Kennedy.md",
     "archive/projects/bronifty.xyz/bronifty.xyz.md",
-    "Tailwind/tw.md",
-    "React/React.md"
+    "Tailwind/tw.md"
   ]
 }
