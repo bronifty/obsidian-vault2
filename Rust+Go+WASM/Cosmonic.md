@@ -1,4 +1,7 @@
-- https://www.youtube.com/watch?v=U1zn5OO8dHs&t=38s
+Portal Link: [app.cosmonic.com/dashboard](https://app.cosmonic.com/dashboard)
+
+### Architecture
+- Hashicorp Nomad Vault + Consul Control Plane for Firecracker VMs run by Cosmonic https://www.youtube.com/watch?v=U1zn5OO8dHs&t=38s
 - Hashicorp Consul, Vault and Nomad are the control plane for Cosmonic to host apps on Firecracker hosts
 - Task Driver is a customizable framework which provides a runtime to execute workloads
 	- Types of runtimes are: Docker, QEMU, Podman, etc
@@ -19,5 +22,15 @@
 	- [webassembly.org](https://webassembly.org/)
 	- [firecracker-microvm.github.io](https://firecracker-microvm.github.io/)
 	- [wasmcloud.dev](https://wasmcloud.dev/)
+
+
+### Cosmonic Docs
+- [getting started](https://cosmonic.com/docs/user_guide/developer_loop/#change)
+- cosmo launch provides the wasmCloud host for the actor to run
+	- actor is code
+	- host is the runtime
+	- provider is the http server
+	- wormhole is the port
+	- 
 
 
