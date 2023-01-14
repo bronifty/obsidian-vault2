@@ -2,3 +2,6 @@
 
 - [expo.dev](https://expo.dev/)
 
+### Next.js 
+- [precedent components](https://precedent.vercel.app/)
+- 
