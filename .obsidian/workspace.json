@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Design/Links.md",
+                "file": "WASM/WASM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b61182557bf1e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-Year/02-Week.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,17 +109,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be3c8851b3e5eaad",
+  "active": "b61182557bf1e4b8",
   "lastOpenFiles": [
-    "Web/Chrome/Untitled 1.md",
-    "Web/Chrome/Capabilities - Project Fugu.md",
-    "archive/web/Capabilities.md",
-    "archive/web/streams/web streams.md",
+    "2023-Year/01-Week.md",
+    "2023-Year/02-Week.md",
+    "Go/Project Ideas.md",
+    "Docs/docs site.md",
+    "Recipes/Commands.md",
+    "WASM/WASM.md",
+    "archive/wasm/ByteCode Alliance/ByteCode Alliance.md",
+    "WASM/Wazero.md",
     "Go/Links.md",
-    "Web/Animation/Links.md",
-    "Web/React/React.md",
-    "Web/Design/Links.md",
-    "WASM/wasmcloud.md",
-    "Subs/Purchased Courses, TODO + In-Progress.md"
+    "WASM/wasmcloud.md"
   ]
 }

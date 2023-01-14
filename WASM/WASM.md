@@ -16,6 +16,15 @@
 - [wasmcloud.com](https://wasmcloud.com/)
 - [wasmcloud.dev](https://wasmcloud.dev/)
 
+### Bytecode Alliance
+- [wasmtime.dev](https://wasmtime.dev/)
+- [wasmtime docs](https://docs.wasmtime.dev/contributing.html)
+- [zulip cloud chat](https://bytecodealliance.zulipchat.com/#narrow/is/private)
+
+
+
+
+
 
 ### Hashicorp
 - [Hashicorp Nomad Vault and Consul for Cosmonic WasmCloud](https://www.youtube.com/watch?v=U1zn5OO8dHs&t=38s)
