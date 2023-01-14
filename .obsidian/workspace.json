@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "Docs/docs site.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,10 +97,10 @@
   },
   "active": "f157a3017e1803d6",
   "lastOpenFiles": [
+    "Go/Ardan Labs Bill Kennedy.md",
     "archive/projects/bronifty.xyz/bronifty.xyz.md",
     "Docs/docs site.md",
     "Go/Links.md",
-    "Go/Ardan Labs Bill Kennedy.md",
     "Tailwind/tw.md",
     "React/React.md",
     "Git+GitOps/github.md",
