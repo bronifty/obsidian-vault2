@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d082a9134c97ef34",
+        "id": "6608353cd3767f27",
         "type": "tabs",
         "children": [
           {
-            "id": "692ed89ec502a95e",
+            "id": "584a55184a03cd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camping/RV and Camping Checklist.md",
+                "file": "Management/Clean Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Matt Pocock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -96,17 +95,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "692ed89ec502a95e",
+  "active": "584a55184a03cd58",
   "lastOpenFiles": [
-    "React/React Native.md",
-    "Web/Animation/Links.md",
-    "Web/Chrome/Capabilities - Project Fugu.md",
-    "Web/Design/Links.md",
-    "2023-Year/_trello.md",
-    "Camping/RV and Camping Checklist.md",
-    "archive/homesteading/Power/Power Notes.md",
-    "archive/homesteading/tools/Tools Notes.md",
-    "Subs/Sub Tracker.md",
-    "Subs/Purchased Courses, TODO + In-Progress.md"
+    "Management/Clean Agile.md",
+    "Management/Sara's book.md",
+    "Management/Clean Architecture.md",
+    "Management/Clean Code.md",
+    "Weeks-of-2023/01.md",
+    "archive/courses/course links.md",
+    "SaaS/SaaS.md",
+    "Rust/Links.md",
+    "Recipes/Commands.md",
+    "OSS/ChiselStrike/SQLite  - Turo ChiselStrike.md"
   ]
 }

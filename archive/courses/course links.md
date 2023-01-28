@@ -44,7 +44,7 @@
 
 [Materialize CSS From Scratch With 5 Projects | Udemy](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/learn/lecture/9380732#overview)
 
-### ts
+### TS
 
 [Matt Pocock | Total TypeScript](https://www.totaltypescript.com/tutorials)
 

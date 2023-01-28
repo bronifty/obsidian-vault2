@@ -11,3 +11,5 @@ npx expo install @expo/vector-icons
 npx expo start --tunnel
 ```
 
+[once done refactor useState](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
+

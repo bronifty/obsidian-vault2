@@ -5,7 +5,8 @@
 
 ### Power
 - [EcoFlow Delta Pro](https://us.ecoflow.com/products/delta-pro-portable-power-station)
-	- ecoflow has portal power stations as well as power kits with a power hub (ac inverter charger + dc:dc + solar charge controller + ac outlet) that connects to a distribution box (for ac and dc connections as is common with a standard home electrical setup with breaker box) and charge and is charged by some stackable lithium batteries
+	- [Upgrades and Acessories discount page](https://us.ecoflow.com/pages/giving-back)
+	- ecoflow has portable power stations as well as power kits with a power hub (ac inverter charger + dc:dc + solar charge controller + ac outlet) that connects to a distribution box (for ac and dc connections as is common with a standard home electrical setup with breaker box) and charge and is charged by some stackable lithium batteries
 - [Lithionics](https://lithionicsbattery.com/product/12v-125ah-g31-battery/)
 	- lithionics is basically industrial grade lithium power and it's got setups for commercial residential rv and so on; you can get a power trailer with everything setup in it, which could be quite handy
 
@@ -25,7 +26,8 @@
 - [rv education 101](https://rveducation101.com/)
 
 
-
+### Kit
+- [mission darkness faraday](https://www.amazon.com/stores/MissionDarkness/page/017966AA-0EC8-428A-834E-4041B8CFA3E4?ref_=ast_bln)
 
 ### Tools
 - [vhb tape](https://www.3m.com/3M/en_US/vhb-tapes-us/)

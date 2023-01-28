@@ -1,0 +1,13 @@
+- [lost art of software design simon brown](https://www.youtube.com/watch?v=36OTe7LNd6M)
+	- Context Containers Components Code
+		- Scope? all the building blocks on one diagram with connectors
+		- Users? rbac
+		- What? will they be doing with it
+		- SI systems integration requirements
+	- prove arch with concrete exs
+	- Arch decision record
+		- Title LDAP for multitenant integration
+		- Context value neutral language describing forces at play "It is..."
+		- Decision our response to these forces "We will..."
+		- Status proposed accepted rejected in progress complete deprecated etc
+		- Consequences resulting context after the decision past is prologue
