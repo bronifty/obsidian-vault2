@@ -11,3 +11,5 @@
 		- Decision our response to these forces "We will..."
 		- Status proposed accepted rejected in progress complete deprecated etc
 		- Consequences resulting context after the decision past is prologue
+	- Upfront design is complete when:
+		- You understand the arch drivers (requirements, quality attributes - non-functional-design aka implementation details, constraints)

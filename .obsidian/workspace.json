@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matt Pocock",
+                "query": "regex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,15 +97,15 @@
   },
   "active": "584a55184a03cd58",
   "lastOpenFiles": [
-    "Management/Clean Agile.md",
-    "Management/Sara's book.md",
+    "SaaS/SaaS.md",
     "Management/Clean Architecture.md",
     "Management/Clean Code.md",
+    "Management/Sara's book.md",
+    "Management/Clean Agile.md",
+    "OSS/ChiselStrike/SQLite  - Turo ChiselStrike.md",
     "Weeks-of-2023/01.md",
     "archive/courses/course links.md",
-    "SaaS/SaaS.md",
     "Rust/Links.md",
-    "Recipes/Commands.md",
-    "OSS/ChiselStrike/SQLite  - Turo ChiselStrike.md"
+    "Recipes/Commands.md"
   ]
 }

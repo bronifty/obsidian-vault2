@@ -5,6 +5,6 @@
 |                                       | Bunnyshell (dev env)                          | [AIQuery (SQL)](https://www.aiquery.co/dashboard)         |
 |                                       | Okteto (dev env)                              | [DALL-E (Stable Diffusion)](https://labs.openai.com/)     |
 |                                       | [Solo.io](https://www.solo.io/solo-academy/)  | [Codex](https://beta.openai.com/codex-javascript-sandbox) |
-|                                       |                                               |                                                           |
+|                                       |                                               | [autoregex.xyz](https://www.autoregex.xyz/)                            |
 
 
