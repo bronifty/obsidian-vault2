@@ -1,10 +1,13 @@
-| CMS                                   | K8s                                           | AI                                                        |
-| ------------------------------------- | --------------------------------------------- | --------------------------------------------------------- |
-| [Directus](https://docs.directus.io/) | [Civo](https://dashboard.civo.com/kubernetes) | [chatGPT (general)](https://chat.openai.com/chat)         |
-|                                       | Doctl (Digital Ocean)                         | [HTTPIE (REST)](https://httpie.io/app)                    |
-|                                       | Bunnyshell (dev env)                          | [AIQuery (SQL)](https://www.aiquery.co/dashboard)         |
-|                                       | Okteto (dev env)                              | [DALL-E (Stable Diffusion)](https://labs.openai.com/)     |
-|                                       | [Solo.io](https://www.solo.io/solo-academy/)  | [Codex](https://beta.openai.com/codex-javascript-sandbox) |
-|                                       |                                               | [autoregex.xyz](https://www.autoregex.xyz/)                            |
 
-
+| Type          | Name                                              |
+| ------------- | ------------------------------------------------- |
+|               |                                                   |
+| AI            | OpenAI                                            |
+| AI            | [autoregex.xyz](https://www.autoregex.xyz/)       |
+| AI            | [AIQuery (SQL)](https://www.aiquery.co/dashboard) |
+| AI            | [HTTPIE (REST)](https://httpie.io/app)            |
+| K8s           | [Civo](https://dashboard.civo.com/kubernetes)     |
+| Networking    | [Solo.io](https://www.solo.io/solo-academy/)      |
+| Visual Design | [icepanel.io](https://icepanel.io)                |
+| Database      | [Turso ChiselStrike](https://chiselstrike.com/)   |
+|               |                                                   |

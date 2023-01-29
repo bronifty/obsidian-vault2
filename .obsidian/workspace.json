@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/Clean Architecture.md",
+                "file": "React/React Native.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,9 +97,9 @@
   },
   "active": "584a55184a03cd58",
   "lastOpenFiles": [
-    "SaaS/SaaS.md",
     "Management/Clean Architecture.md",
     "Management/Clean Code.md",
+    "SaaS/SaaS.md",
     "Management/Sara's book.md",
     "Management/Clean Agile.md",
     "OSS/ChiselStrike/SQLite  - Turo ChiselStrike.md",
