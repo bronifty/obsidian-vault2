@@ -34,3 +34,8 @@ Portal Link: [app.cosmonic.com/dashboard](https://app.cosmonic.com/dashboard)
 	- 
 
 
+
+
+From Discord with Stephen:
+-  So I may say Actor is business logic, and provider is general processes that business logic can leverage
+- And an interface is the manner in which the actor communicates with the provider
