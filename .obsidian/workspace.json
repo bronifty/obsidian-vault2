@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6608353cd3767f27",
+        "id": "9a4349ee020ce6d2",
         "type": "tabs",
         "children": [
           {
-            "id": "bf034b3db3c565e9",
+            "id": "9e34907f3351aa50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/LolaDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,17 +90,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf034b3db3c565e9",
+  "active": "9e34907f3351aa50",
   "lastOpenFiles": [
-    "Database/Turso ChiselStrike.md",
-    "Styles/Links.md",
-    "Docs/docs site.md",
-    "Database/Database - Metadata.md",
+    "BIDW/UI.md",
+    "SaaS/SaaS.md",
+    "Observability/Observability.md",
+    "Management/Clean X Advocacy.md",
+    "idea-factories/Clean.md",
+    "Git+GitOps/github.md",
+    "CI/Continuous Integration.md",
     "Database/LolaDB.md",
-    "WASM/Cosmonic.md",
-    "Management/Clean Architecture.md",
-    "Styles/Tailwind.md",
-    "React/React Native.md",
-    "archive/ui/Build UI - Framer Motion Animations.md"
+    "Database/Turso ChiselStrike.md",
+    "Styles/Links.md"
   ]
 }

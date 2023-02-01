@@ -10,4 +10,6 @@
 | Networking    | [Solo.io](https://www.solo.io/solo-academy/)      |
 | Visual Design | [icepanel.io](https://icepanel.io)                |
 | Database      | [Turso ChiselStrike](https://chiselstrike.com/)   |
+| Networking    | webhookthing.com                                  |
+| Networking    | upstash                                           |
 |               |                                                   |
