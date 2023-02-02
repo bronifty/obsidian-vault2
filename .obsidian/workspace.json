@@ -8,85 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e34907f3351aa50",
+            "id": "fb8ec436d4fe2433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIDW/UI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1d1c332a942803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIDW/Headless BI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01b8ca99b2ceddef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIDW/Headless BI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b69669d6f701414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/LolaDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "650d1ce1900267d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/List.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfded50972604957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Links.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rive.app",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,17 +95,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfded50972604957",
+  "active": "fb8ec436d4fe2433",
   "lastOpenFiles": [
-    "SaaS/SaaS.md",
-    "Web/Sockets/Websockets and Realtime.md",
-    "Database/List.md",
-    "Database/LolaDB.md",
-    "Database/Turso ChiselStrike.md",
+    "Go/Ardan Labs - Notes from Archive.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md",
+    "home/README.md",
+    "Subs/Purchased Courses, TODO + In-Progress.md",
+    "archive/courses/course links.md",
+    "archive/backends/Backends Notes.md",
     "BIDW/UI.md",
     "BIDW/Headless BI.md",
-    "BIDW/ETL.md",
-    "BIDW/Analytics.md",
-    "Observability/Observability.md"
+    "Database/LolaDB.md"
   ]
 }
