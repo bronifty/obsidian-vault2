@@ -11,11 +11,82 @@
             "id": "9e34907f3351aa50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BIDW/UI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f1d1c332a942803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIDW/Headless BI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b8ca99b2ceddef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIDW/Headless BI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b69669d6f701414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/LolaDB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "650d1ce1900267d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfded50972604957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -90,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e34907f3351aa50",
+  "active": "cfded50972604957",
   "lastOpenFiles": [
-    "BIDW/UI.md",
     "SaaS/SaaS.md",
-    "Observability/Observability.md",
-    "Management/Clean X Advocacy.md",
-    "idea-factories/Clean.md",
-    "Git+GitOps/github.md",
-    "CI/Continuous Integration.md",
+    "Web/Sockets/Websockets and Realtime.md",
+    "Database/List.md",
     "Database/LolaDB.md",
     "Database/Turso ChiselStrike.md",
-    "Styles/Links.md"
+    "BIDW/UI.md",
+    "BIDW/Headless BI.md",
+    "BIDW/ETL.md",
+    "BIDW/Analytics.md",
+    "Observability/Observability.md"
   ]
 }

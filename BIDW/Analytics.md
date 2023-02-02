@@ -1,0 +1,2 @@
+- [firebolt.io](https://www.firebolt.io/)
+- [dremio](https://www.dremio.com/)
