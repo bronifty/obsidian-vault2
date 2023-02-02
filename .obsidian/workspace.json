@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIDW/UI.md",
+                "file": "SaaS/SaaS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea72b785a70eb74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Platform Engineering/Links.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,17 +109,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb8ec436d4fe2433",
+  "active": "ea72b785a70eb74f",
   "lastOpenFiles": [
+    "SaaS/SaaS.md",
+    "BIDW/UI.md",
     "React/React Native.md",
     "Web/Sockets/Websockets and Realtime.md",
-    "SaaS/SaaS.md",
     "Go/Ardan Labs Bill Kennedy.md",
     "Go/Ardan Labs - Notes from Archive.md",
     "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md",
     "home/README.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
-    "archive/courses/course links.md",
-    "archive/backends/Backends Notes.md"
+    "archive/courses/course links.md"
   ]
 }
