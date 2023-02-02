@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platform Engineering/Links.md",
+                "file": "CI/Continuous Integration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,15 +111,15 @@
   },
   "active": "ea72b785a70eb74f",
   "lastOpenFiles": [
+    "Web/Styles/Links.md",
+    "Web/Animation/Links.md",
+    "Platform Engineering/Links.md",
     "SaaS/SaaS.md",
     "BIDW/UI.md",
     "React/React Native.md",
     "Web/Sockets/Websockets and Realtime.md",
     "Go/Ardan Labs Bill Kennedy.md",
     "Go/Ardan Labs - Notes from Archive.md",
-    "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md",
-    "home/README.md",
-    "Subs/Purchased Courses, TODO + In-Progress.md",
-    "archive/courses/course links.md"
+    "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md"
   ]
 }
