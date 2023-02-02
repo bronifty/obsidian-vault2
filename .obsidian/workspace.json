@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Native.md",
+                "file": "BIDW/UI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,6 +97,7 @@
   },
   "active": "fb8ec436d4fe2433",
   "lastOpenFiles": [
+    "React/React Native.md",
     "Web/Sockets/Websockets and Realtime.md",
     "SaaS/SaaS.md",
     "Go/Ardan Labs Bill Kennedy.md",
@@ -105,7 +106,6 @@
     "home/README.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
     "archive/courses/course links.md",
-    "archive/backends/Backends Notes.md",
-    "BIDW/UI.md"
+    "archive/backends/Backends Notes.md"
   ]
 }
