@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Ardan Labs Bill Kennedy.md",
+                "file": "React/React Native.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,15 +97,15 @@
   },
   "active": "fb8ec436d4fe2433",
   "lastOpenFiles": [
-    "Go/Ardan Labs - Notes from Archive.md",
+    "Web/Sockets/Websockets and Realtime.md",
+    "SaaS/SaaS.md",
     "Go/Ardan Labs Bill Kennedy.md",
+    "Go/Ardan Labs - Notes from Archive.md",
     "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md",
     "home/README.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
     "archive/courses/course links.md",
     "archive/backends/Backends Notes.md",
-    "BIDW/UI.md",
-    "BIDW/Headless BI.md",
-    "Database/LolaDB.md"
+    "BIDW/UI.md"
   ]
 }

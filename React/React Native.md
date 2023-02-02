@@ -11,5 +11,6 @@ npx expo install @expo/vector-icons
 npx expo start --tunnel
 ```
 
-[once done refactor useState](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
-
+- [once done refactor useState](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)
+- [redux backend chatgpt](https://spindas.dreamwidth.org/4207.html)
+- 
