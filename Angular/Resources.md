@@ -1,0 +1,2 @@
+- [trello](https://trello.com/b/3LtCnh2m/angular-contrib)
+- [github](https://github.com/LogicRoom/AngularLogicRoom)

@@ -6,6 +6,7 @@
 - [lightningjs.io native video](https://lightningjs.io/)
 - [buildui.com - framer tuts](https://buildui.com)
 - [rive.app](https://rive.app)
+- [modelviewer.dev](https://modelviewer.dev/)
 
 ### Components
 - [tamagui](https://tamagui.dev/)

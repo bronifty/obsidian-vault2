@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI/Continuous Integration.md",
+                "file": "Management/Clean Architecture.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c950e58106ecbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Styles/Links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f72150125e3ce86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,17 +135,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea72b785a70eb74f",
+  "active": "9f72150125e3ce86",
   "lastOpenFiles": [
     "Web/Styles/Links.md",
-    "Web/Animation/Links.md",
-    "Platform Engineering/Links.md",
-    "SaaS/SaaS.md",
+    "Management/Etc.md",
+    "Management/Clean Architecture.md",
+    "Database/List.md",
+    "Database/Turso ChiselStrike.md",
+    "Database/Database - Metadata.md",
     "BIDW/UI.md",
-    "React/React Native.md",
-    "Web/Sockets/Websockets and Realtime.md",
-    "Go/Ardan Labs Bill Kennedy.md",
-    "Go/Ardan Labs - Notes from Archive.md",
-    "archive/languages/Go/Ardan Labs/Bill Kennedy Ultimate Go.md"
+    "BIDW/Headless BI.md",
+    "BIDW/Analytics.md",
+    "CI/Continuous Integration.md"
   ]
 }
