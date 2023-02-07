@@ -46,3 +46,12 @@
 - [Nest JS](https://learn.nestjs.com/courses/enrolled/591712)
 - [ultimate courses](https://app.ultimatecourses.com/my-account)
 - [logic room](https://www.logicroom.co/)
+
+
+### SRE
+- [kubecampus](https://kubecampus.io/kubernetes/courses/)
+
+### Clones
+- [CodeCrafters.io](https://CodeCrafters.io)
+	- [build-your-own.org](https://build-your-own.org)
+	  

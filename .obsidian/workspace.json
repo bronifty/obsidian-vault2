@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a4349ee020ce6d2",
+        "id": "3854ac36478574ca",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8ec436d4fe2433",
+            "id": "64d49e73871d546a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SaaS/SaaS.md",
+                "file": "Subs/Purchased Courses, TODO + In-Progress.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ea72b785a70eb74f",
+            "id": "bc753105dec2beb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/Clean Architecture.md",
+                "file": "Platform Engineering/AWS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,33 +34,19 @@
             }
           },
           {
-            "id": "6c950e58106ecbf8",
+            "id": "d40a5489f2193c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Styles/Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f72150125e3ce86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Resources.md",
+                "file": "Camping/RV and Camping Checklist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -89,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dependency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,17 +121,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f72150125e3ce86",
+  "active": "64d49e73871d546a",
   "lastOpenFiles": [
-    "Web/Styles/Links.md",
-    "Management/Etc.md",
-    "Management/Clean Architecture.md",
-    "Database/List.md",
-    "Database/Turso ChiselStrike.md",
-    "Database/Database - Metadata.md",
-    "BIDW/UI.md",
-    "BIDW/Headless BI.md",
-    "BIDW/Analytics.md",
-    "CI/Continuous Integration.md"
+    "Subs/Sub Tracker.md",
+    "Subs/Purchased Courses, TODO + In-Progress.md",
+    "BIDW/ETL.md",
+    "Platform Engineering/AWS.md",
+    "Camping/RV and Camping Checklist.md",
+    "idea-factories/Steve Sewell.md",
+    "CI/Continuous Integration.md",
+    "Docs/docs site.md",
+    "Networking/Links.md",
+    "Realtime/Links.md"
   ]
 }

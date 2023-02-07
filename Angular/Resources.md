@@ -1,2 +1,4 @@
 - [trello](https://trello.com/b/3LtCnh2m/angular-contrib)
 - [github](https://github.com/LogicRoom/AngularLogicRoom)
+- [angular.io/guide/testing](https://angular.io/guide/testing)
+- [from angular to remix](https://dev.to/hinnhabib/from-angular-to-remix-route-by-route-migration-50m0)

@@ -24,6 +24,8 @@
 ### VanLife
 - [vanlife academy](https://projectvanlife.com/courses/van-life-academy/?_=140)
 - [rv education 101](https://rveducation101.com/)
+- [nates van conversion guide](https://www.diyhero.me/products/ebook-mini-course/categories/2151822462)
+
 
 
 ### Kit

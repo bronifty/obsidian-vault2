@@ -1,0 +1,3 @@
+- [bash bunni oss contribution playlist](https://www.youtube.com/playlist?list=PLPYCwaK1DkkUb6ow2JHoxUwQ6IXLC8KcZ)
+- [trash dev oss](https://www.youtube.com/watch?v=OYd8YqQchgI)
+- 
