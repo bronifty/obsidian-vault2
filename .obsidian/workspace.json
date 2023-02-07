@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subs/Purchased Courses, TODO + In-Progress.md",
+                "file": "Verticals/Payments/Links.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,32 +21,20 @@
             }
           },
           {
-            "id": "bc753105dec2beb0",
+            "id": "4317e6e9bd34864f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platform Engineering/AWS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40a5489f2193c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camping/RV and Camping Checklist.md",
+                "file": "Clones/Redis-C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dependency",
+                "query": "react native",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,17 +109,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64d49e73871d546a",
+  "active": "4317e6e9bd34864f",
   "lastOpenFiles": [
-    "Subs/Sub Tracker.md",
+    "Weeks-of-2023/02.md",
+    "Git+GitOps/github.md",
+    "Git+GitOps/CI/Continuous Integration.md",
+    "Clones/Redis-C.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
-    "BIDW/ETL.md",
-    "Platform Engineering/AWS.md",
-    "Camping/RV and Camping Checklist.md",
-    "idea-factories/Steve Sewell.md",
-    "CI/Continuous Integration.md",
-    "Docs/docs site.md",
-    "Networking/Links.md",
-    "Realtime/Links.md"
+    "Subs/Sub Tracker.md",
+    "Verticals/Payments/Links.md",
+    "Verticals/e-Commerce/Links.md",
+    "Verticals/Data/Fluvio.md",
+    "CLI/Links.md"
   ]
 }
