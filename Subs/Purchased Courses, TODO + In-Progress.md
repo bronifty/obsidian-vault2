@@ -23,6 +23,7 @@
 - [Matt Pocock | Total TypeScript](https://www.totaltypescript.com/tutorials)
 - [Joe Previte TypeScript Course](https://www.typescriptcourse.com/)
 - [Josh Goldberg Learning TypeScript](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/)
+- [Theo TS lesson](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
 
 # Isomorphic Javascript
 - [Kent C. Dodds](https://kentcdodds.com/)

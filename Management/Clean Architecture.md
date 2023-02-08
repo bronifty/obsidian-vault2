@@ -19,4 +19,6 @@
 		- Identified risks (factors which could jeapordize delivery), POCs to de-risk, arch mods to de-risk
 		- Techniques: Workshops, Interviews, Event Storming, Impact Mapping, Domain Modeling, OOAD, CRC, DDD, Arch Reviews, ATAM, Arch Dry Runs, Risk Storming, Concrete Experiments, C4 Model, ADRs
 	- C4: System Container Component Code
-	- 
+
+### Clean Coders - Clean Code in the Browser
+- [clean coders - clean code in the browser](https://cleancoders.com/library/personal)

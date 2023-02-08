@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clones/Redis-C.md",
+                "file": "Angular/Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8746de86201656a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Ultimate Courses - Angular Fundamentals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -109,17 +123,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4317e6e9bd34864f",
+  "active": "d8746de86201656a",
   "lastOpenFiles": [
-    "Weeks-of-2023/02.md",
-    "Git+GitOps/github.md",
-    "Git+GitOps/CI/Continuous Integration.md",
-    "Clones/Redis-C.md",
+    "Angular/Resources.md",
+    "Management/Clean X Advocacy.md",
+    "Management/Clean Code.md",
+    "Management/Clean Agile.md",
+    "Networking/Links.md",
+    "Observability/Observability.md",
+    "SaaS/SaaS.md",
     "Subs/Purchased Courses, TODO + In-Progress.md",
     "Subs/Sub Tracker.md",
-    "Verticals/Payments/Links.md",
-    "Verticals/e-Commerce/Links.md",
-    "Verticals/Data/Fluvio.md",
-    "CLI/Links.md"
+    "Database/LolaDB.md"
   ]
 }
