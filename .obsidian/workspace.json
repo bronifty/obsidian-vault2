@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verticals/Payments/Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4317e6e9bd34864f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8746de86201656a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Angular/Ultimate Courses - Angular Fundamentals.md",
                 "mode": "source",
                 "backlinks": false,
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,17 +96,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8746de86201656a",
+  "active": "64d49e73871d546a",
   "lastOpenFiles": [
+    "Deno/Notes.md",
+    "Angular/Ultimate Courses - Angular Fundamentals.md",
+    "Verticals/Payments/Links.md",
     "Angular/Resources.md",
+    "Docs/docs site.md",
     "Management/Clean X Advocacy.md",
     "Management/Clean Code.md",
     "Management/Clean Agile.md",
     "Networking/Links.md",
-    "Observability/Observability.md",
-    "SaaS/SaaS.md",
-    "Subs/Purchased Courses, TODO + In-Progress.md",
-    "Subs/Sub Tracker.md",
-    "Database/LolaDB.md"
+    "Observability/Observability.md"
   ]
 }
