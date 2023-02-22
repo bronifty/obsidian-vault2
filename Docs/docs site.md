@@ -1,3 +1,4 @@
+- [snappify.com](https://snappify.com/editor)
 - [mintlify](https://mintlify.com/showcase)
 - [mdBook](https://rust-lang.github.io/mdBook/)
 - [docusaurus](https://docusaurus.io/)

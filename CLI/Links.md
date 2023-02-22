@@ -1,2 +1,5 @@
 - [rawkode 5 cli tools](https://youtu.be/TNlDSG1iDW8)
 - [ripgrep rust cli](https://github.com/BurntSushi/ripgrep)
+- [oclif](https://oclif.io/)
+- [doctl - digital ocean]
+- 
