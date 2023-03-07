@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f21035122cb809cf",
+        "id": "525db120a9fd7831",
         "type": "tabs",
         "children": [
           {
-            "id": "d93571907c70630a",
+            "id": "2de995a8db166eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/docs site.md",
+                "file": "Deno/Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "198e7cb84ab3bc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deno/Deno Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gcp",
+                "query": "runc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,17 +109,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d93571907c70630a",
+  "active": "198e7cb84ab3bc18",
   "lastOpenFiles": [
+    "Deno/Notes.md",
+    "Deno/Deno Notes.md",
+    "StateManagement/Josh Morony RxJs v Signals.md",
+    "StateManagement/Daishi Kato Jotai - Learn Zustand.md",
+    "StateManagement/Etc.md",
+    "LogicRoom/Module4.md",
+    "WASM/Cosmonic.md",
+    "LogicRoom/Vite/Vitest.md",
+    "archive/shell/Shell Scripts.md",
+    "Docs/docs site.md",
     "idea-factories/Rawkode/Portainer in Production Series.md",
     "idea-factories/Rawkode/Rawkode.md",
     "Security/Links.md",
     "Web/Routing/Web Routing.md",
     "CloudServices/AWS.md",
     "CLI/Links.md",
-    "idea-factories/Steve Sewell.md",
-    "Testing/Vite/Notes.md",
-    "Testing/Vite/Links.md",
-    "AIML/chatGPT/Prompts.md"
+    "idea-factories/Steve Sewell.md"
   ]
 }
