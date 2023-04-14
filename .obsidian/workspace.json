@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "199735c95a6a9730",
+        "id": "3e710608f76be2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "d1cf8d85f6e0ef0e",
+            "id": "146122db9db6a7eb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,12 +90,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f01d92c40f62a",
+  "active": "146122db9db6a7eb",
   "lastOpenFiles": [
-    "1 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
-    "1 Kubernetes/cdktf kubernetes.md",
+    "home/README.md",
+    "3 CDKTF/CDKTF.md",
+    "3 CDKTF",
+    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
+    "2 Kubernetes/cdktf kubernetes.md",
+    "1 AWS Data",
     "1 Kubernetes/Kubernetes 06054ff4f63d4c9b820aba45dd222869.md",
-    "1 Kubernetes",
+    "2 Kubernetes",
     "Deno/Notes.md",
     "Deno/Deno Notes.md",
     "StateManagement/Josh Morony RxJs v Signals.md",

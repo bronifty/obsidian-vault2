@@ -1,10 +1,8 @@
----
-K8s: BunnyShell
----
-# Welcome to bro nifty's notes
-
-back to main site [bronifty.xyz](https://bronifty.xyz)
-note: probably going to move this to a gitbook, like all the web3 people use for their documentation sites (or docusaurus not sure, still checking) because i pay $20/mo to put these notes up and nobody reads them anyway (whiny voice).
+### Current thinking:
+1) AWS Data Specialty
+2) CKA (along the lines of CDKTF & various IaC efforts)
+3) CDKTF
+4) Unicorn Utterances React Angular Vue course
 
 ![[library.jpg]]
 
