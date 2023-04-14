@@ -7,5 +7,5 @@
 4 near real time log analysis
 - logs => kinesis firehose => elastisearch
 5 data warehousing & visualization
-- logs => firehose => s3 => glue => athena
-					 | => redshift => quicksight |
+- logs => firehose => s3 => glue => athena && s3 => redshift => quicksight |
+
