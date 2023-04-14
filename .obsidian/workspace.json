@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "525db120a9fd7831",
+        "id": "199735c95a6a9730",
         "type": "tabs",
         "children": [
           {
-            "id": "2de995a8db166eef",
+            "id": "d1cf8d85f6e0ef0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deno/Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "198e7cb84ab3bc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deno/Deno Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +90,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "198e7cb84ab3bc18",
+  "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
+    "1 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
+    "1 Kubernetes/cdktf kubernetes.md",
+    "1 Kubernetes/Kubernetes 06054ff4f63d4c9b820aba45dd222869.md",
+    "1 Kubernetes",
     "Deno/Notes.md",
     "Deno/Deno Notes.md",
     "StateManagement/Josh Morony RxJs v Signals.md",
