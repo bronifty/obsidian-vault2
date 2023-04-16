@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e710608f76be2a5",
+        "id": "06bd6b7c620cfb71",
         "type": "tabs",
         "children": [
           {
-            "id": "146122db9db6a7eb",
+            "id": "7c29d2b8a0af9645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 AWS Data/AWS Data Specialty.md",
+                "file": "1 AWS Data/1 AWS Data Specialty.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c5957b213136942c",
+            "id": "365951b1b07c9b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 AWS Data/Cadabara.com.md",
+                "file": "1 AWS Data/2 Collection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,10 +109,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5957b213136942c",
+  "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
-    "1 AWS Data/AWS Data Specialty.md",
+    "1 AWS Data/1 AWS Data Specialty.md",
+    "1 AWS Data/2 Collection.md",
     "1 AWS Data/Cadabara.com.md",
+    "1 AWS Data/media/AWSCertifiedBigDataSlides.pdf",
+    "cadabara.com.png.md",
+    "1 AWS Data/images/cadabara.com.png",
+    "1 AWS Data/media",
     "home/README.md",
     "3 CDKTF/CDKTF.md",
     "3 CDKTF",
