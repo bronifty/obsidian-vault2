@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "06bd6b7c620cfb71",
+        "id": "915a69f1875be048",
         "type": "tabs",
         "children": [
           {
-            "id": "7c29d2b8a0af9645",
+            "id": "1c484d68d009d51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 AWS Data/1 AWS Data Specialty.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "365951b1b07c9b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 AWS Data/2 Collection.md",
+                "file": "Go/Ardan Labs Bill Kennedy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,6 +97,15 @@
   },
   "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
+    "2 Kubernetes/nats-leaf-node.png",
+    "2 Kubernetes/wasmcloud-platform-infra-products.png",
+    "2 Kubernetes/clean-code-wasm-kubernetes.png",
+    "Go/Ardan Labs - Notes from Archive.md",
+    "Go/Ardan Labs Bill Kennedy.md",
+    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
+    "2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
+    "2 Kubernetes/cdktf kubernetes.md",
+    "archive/ai/Media.md",
     "1 AWS Data/1 AWS Data Specialty.md",
     "1 AWS Data/2 Collection.md",
     "1 AWS Data/Cadabara.com.md",
@@ -121,8 +116,6 @@
     "home/README.md",
     "3 CDKTF/CDKTF.md",
     "3 CDKTF",
-    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
-    "2 Kubernetes/cdktf kubernetes.md",
     "1 AWS Data",
     "1 Kubernetes/Kubernetes 06054ff4f63d4c9b820aba45dd222869.md",
     "2 Kubernetes",
@@ -138,10 +131,6 @@
     "Docs/docs site.md",
     "idea-factories/Rawkode/Portainer in Production Series.md",
     "idea-factories/Rawkode/Rawkode.md",
-    "Security/Links.md",
-    "Web/Routing/Web Routing.md",
-    "CloudServices/AWS.md",
-    "CLI/Links.md",
-    "idea-factories/Steve Sewell.md"
+    "Security/Links.md"
   ]
 }

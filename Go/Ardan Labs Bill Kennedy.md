@@ -1,7 +1,7 @@
 
-### Ultimate Go: Web Services 3.0
+### Ultimate Go
 
-- [ardanlabs/service github repo](https://github.com/ardanlabs/service.git)
+- https://github.com/nathanjmorton/gotraining
 
 There are 2 Rules for types and their memory assignments in terms of the mechanical sympathy: 
 
