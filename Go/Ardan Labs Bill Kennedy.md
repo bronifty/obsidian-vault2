@@ -201,6 +201,12 @@ func increment(int *inc) {
 | inc   | 7ac | 7a0  | 11      |
 | count | 11  | 7ac  |         |
 
+
+goroutines (more efficient thread call stacks) pass references between functions not as a singular global value, but as temporary addresses which sandbox the transformation before the data is returned to the caller. When functions pass the reference down, a temp address is used and the variable data remains on the goroutine's memory address space. However, if a function needs to pass the reference back up to an earlier function, the variable data 'escapes' the goroutine stack memory & is placed on the heap as a global reference.
+
+
+
+
 ### Escape Analysis
 ```Go
 type user struct {
@@ -255,6 +261,18 @@ func createUserV2() *user {
 		- we will use this when we are profiling (not when writing code)
 		- a profiler can show us what is allocating (on the heap aka 'escaping' the stack), not why; the escape analysis report will tell us why; hint: reason is data sharing up the stack from a main function to another function then back
 - we are optimizing for correctness - implying: integrity, readability and simplicity - over performance
+
+escape analysis in golang is slick and it can get confusing, but i think it boils down to: if a function returns a pointer address - aka reference - instead of a copy - aka value - to another calling function, the variable escapes the call stack onto the heap (global scope). cf pass by ref v pass by val; also referred to as 'pointer' v 'value' semantics...
+
+For example: main tells createDog to make a Dog and createDog returns a reference to a pointer's address instead of a copy of the Dog value, which main subsequently utilizes in its calculations, then that Dog variable will escape the goroutine stack (like a thread or thread call stack of function calls and their collective calculations, except virtual with less memory and not directly tied to threads)
+
+- escape command:
+```go
+go build -gcflags -m=2
+```
+
+- OPENAI chatGPT analysis:
+	- the command `go build -gcflags -m=2` compiles the Go package in the current directory, and during the compilation process, it generates detailed diagnostic information about inlining and escape analysis at level 2. This information is printed to the terminal.
 
 ### Stack Growth
 - when the stack grows, it creates a new stack frame of contiguous memory address blocks (rather than appending blocks to the current frame) & moves the values over (basically a copy operation or lift and shift to a bigger, more roomy and luxurious address space)

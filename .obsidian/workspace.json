@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "runc",
+                "query": "install",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -97,14 +98,17 @@
   },
   "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
+    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
+    "2 Kubernetes/cdktf kubernetes.md",
+    "2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
+    "2 Kubernetes/clean-code-wasm-kubernetes.png",
     "2 Kubernetes/nats-leaf-node.png",
     "2 Kubernetes/wasmcloud-platform-infra-products.png",
-    "2 Kubernetes/clean-code-wasm-kubernetes.png",
+    "Go/Project Ideas.md",
+    "Go/1.excalidraw.md",
+    "Go/Links.md",
     "Go/Ardan Labs - Notes from Archive.md",
     "Go/Ardan Labs Bill Kennedy.md",
-    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
-    "2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
-    "2 Kubernetes/cdktf kubernetes.md",
     "archive/ai/Media.md",
     "1 AWS Data/1 AWS Data Specialty.md",
     "1 AWS Data/2 Collection.md",
@@ -128,9 +132,6 @@
     "WASM/Cosmonic.md",
     "LogicRoom/Vite/Vitest.md",
     "archive/shell/Shell Scripts.md",
-    "Docs/docs site.md",
-    "idea-factories/Rawkode/Portainer in Production Series.md",
-    "idea-factories/Rawkode/Rawkode.md",
-    "Security/Links.md"
+    "Docs/docs site.md"
   ]
 }
