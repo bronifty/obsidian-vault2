@@ -366,4 +366,13 @@ func stackCopy(s *string, c int, a [size]int){
 
 ### Garbage Collection
 - gc sweeps loose references concurrent to goroutine tasks
-- 
+- pacer figures out when to start collecting and how long it will take 
+	- pressure means how quickly we fill the heap up before collecting garbage loose refs
+- 4 processors - P - (4 operating system threads - M -) 
+	- goroutines run on the processor and thread - G -
+- 10-30 µs stop the world time for write locks on (blocked) function calls while gc is running
+- 25% of resources are dedicated to gc
+- in order to run goroutines concurrently to gc sweeps of loose refs on the heap, one of processors will have to be dedicated to gc and only 3/4 can run goroutines for about 10-300 microseconds (µs) 
+- the amount per allocation and total will affect latency of gc which we will look at in the profiling section of the course
+	- which lines of code are causing the most allocations on the heap and are there any unproductive lines that are causing unnecessary allocations
+
