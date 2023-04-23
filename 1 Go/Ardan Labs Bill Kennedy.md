@@ -376,3 +376,7 @@ func stackCopy(s *string, c int, a [size]int){
 - the amount per allocation and total will affect latency of gc which we will look at in the profiling section of the course
 	- which lines of code are causing the most allocations on the heap and are there any unproductive lines that are causing unnecessary allocations
 
+### Constants
+- like v type (like has higher precision and is promoted to type after the calculation)
+- kind only exists at compile time
+- 

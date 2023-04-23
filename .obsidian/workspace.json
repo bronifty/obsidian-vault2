@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "915a69f1875be048",
+        "id": "5c638b288e96e56b",
         "type": "tabs",
         "children": [
           {
-            "id": "1c484d68d009d51c",
+            "id": "3ed59a848cb37744",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Go/Ardan Labs Bill Kennedy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "install",
+                "query": "graphql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,15 +92,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f01d92c40f62a",
+  "active": "3ed59a848cb37744",
   "lastOpenFiles": [
+    "archive/backends/GraphQL/GraphQL Notes.md",
+    "GraphX/GraphQL.md",
+    "1 Go/Ardan Labs Bill Kennedy.md",
+    "2 Kubernetes/cdktf kubernetes.md",
+    "1 HashiCorp/Nomad/Nomad.md",
+    "1 HashiCorp/Nomad",
+    "1 HashiCorp",
+    "Realtime/Links.md",
+    "archive/other/Theo.md",
     "1 Go/1.excalidraw.md",
     "1 Go/Project Ideas.md",
     "1 Go/Links.md",
     "1 Go/Ardan Labs - Notes from Archive.md",
-    "1 Go/Ardan Labs Bill Kennedy.md",
     "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
-    "2 Kubernetes/cdktf kubernetes.md",
     "2 Kubernetes/CKA/Nigel Poulton Handy Kubernetes k8s commands.md",
     "2 Kubernetes/trucking.md",
     "cadabara.com.png.md",
@@ -129,11 +132,6 @@
     "2 Kubernetes",
     "Deno/Notes.md",
     "Deno/Deno Notes.md",
-    "StateManagement/Josh Morony RxJs v Signals.md",
-    "StateManagement/Daishi Kato Jotai - Learn Zustand.md",
-    "StateManagement/Etc.md",
-    "LogicRoom/Module4.md",
-    "WASM/Cosmonic.md",
-    "LogicRoom/Vite/Vitest.md"
+    "StateManagement/Josh Morony RxJs v Signals.md"
   ]
 }
