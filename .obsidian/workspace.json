@@ -11,8 +11,13 @@
             "id": "3ed59a848cb37744",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 JS/Utils.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graphql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,6 +98,8 @@
   },
   "active": "3ed59a848cb37744",
   "lastOpenFiles": [
+    "1 JS/Utils.md",
+    "1 JS",
     "archive/backends/GraphQL/GraphQL Notes.md",
     "GraphX/GraphQL.md",
     "1 Go/Ardan Labs Bill Kennedy.md",
@@ -131,7 +137,6 @@
     "1 Kubernetes/Kubernetes 06054ff4f63d4c9b820aba45dd222869.md",
     "2 Kubernetes",
     "Deno/Notes.md",
-    "Deno/Deno Notes.md",
-    "StateManagement/Josh Morony RxJs v Signals.md"
+    "Deno/Deno Notes.md"
   ]
 }
