@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c638b288e96e56b",
+        "id": "37c9a78745508c34",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed59a848cb37744",
+            "id": "0f3b2d4ddc5ef181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 JS/Utils.md",
+                "file": "4 Supabase/Supabase Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kubeconfig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,13 +57,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c59b1c5f6dc53282",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -90,20 +97,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "omnisearch:Omnisearch": false,
-      "publish:Publish changes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ed59a848cb37744",
+  "active": "0f3b2d4ddc5ef181",
   "lastOpenFiles": [
+    "3 AWS Data/2 Collection.md",
+    "4 Supabase/Supabase Functions.md",
+    "4 Supabase",
+    "3 AWS Data/Cadabara.com.md",
+    "3 AWS Data/1 AWS Data Specialty.md",
+    "3 AWS Data/media/AWSCertifiedBigDataSlides.pdf",
+    "WASM/wasmcloud.md",
+    "WASM/Cosmonic.md",
+    "1 cms/sanity.md",
+    "2 Kubernetes/cdktf kubernetes.md",
+    "1 cms",
+    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "1 JS/Utils.md",
     "1 JS",
     "archive/backends/GraphQL/GraphQL Notes.md",
     "GraphX/GraphQL.md",
     "1 Go/Ardan Labs Bill Kennedy.md",
-    "2 Kubernetes/cdktf kubernetes.md",
     "1 HashiCorp/Nomad/Nomad.md",
     "1 HashiCorp/Nomad",
     "1 HashiCorp",
@@ -113,7 +131,6 @@
     "1 Go/Project Ideas.md",
     "1 Go/Links.md",
     "1 Go/Ardan Labs - Notes from Archive.md",
-    "2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "2 Kubernetes/CKA/Nigel Poulton Handy Kubernetes k8s commands.md",
     "2 Kubernetes/trucking.md",
     "cadabara.com.png.md",
@@ -124,19 +141,10 @@
     "2 Kubernetes/nats-leaf-node.png",
     "2 Kubernetes/wasmcloud-platform-infra-products.png",
     "archive/ai/Media.md",
-    "3 AWS Data/1 AWS Data Specialty.md",
-    "3 AWS Data/2 Collection.md",
-    "3 AWS Data/Cadabara.com.md",
-    "3 AWS Data/media/AWSCertifiedBigDataSlides.pdf",
     "1 AWS Data/images/cadabara.com.png",
     "3 AWS Data/media",
     "home/README.md",
-    "3 CDKTF/CDKTF.md",
     "3 CDKTF",
-    "3 AWS Data",
-    "1 Kubernetes/Kubernetes 06054ff4f63d4c9b820aba45dd222869.md",
-    "2 Kubernetes",
-    "Deno/Notes.md",
-    "Deno/Deno Notes.md"
+    "3 AWS Data"
   ]
 }
