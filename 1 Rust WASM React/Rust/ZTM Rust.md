@@ -1,1 +1,3 @@
 - dependency is 1 line in a config file (1 line and version number)
+	- auto downloaded and linked on next compilation
+- built-in documentation tools, linter, style formatting
