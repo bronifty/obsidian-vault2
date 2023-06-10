@@ -1,0 +1,1 @@
+- dependency is 1 line in a config file (1 line and version number)
