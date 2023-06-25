@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Rust WASM React/Rust/ZTM Rust.md",
+                "file": "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cargo build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -105,11 +106,13 @@
   },
   "active": "ba9d61ee32291676",
   "lastOpenFiles": [
+    "1 Rust WASM React/Rust/ZTM Rust.md",
+    "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
+    "1 OAUTH2",
     "1 Rust WASM React/bookmarks_6_11_23.html",
     "1 Rust WASM React/bookmarks_6_10_23.html",
     "1 Rust WASM React/bookmarks_6_10_23 1.html",
     "1 Rust WASM React/react-and-rust-bookmarks.html",
-    "1 Rust WASM React/Rust/ZTM Rust.md",
     "1 Rust WASM React/WASM",
     "1 Rust WASM React/React",
     "1 Rust WASM React/Rust",
@@ -124,10 +127,8 @@
     "4 Supabase",
     "3 AWS Data/Cadabara.com.md",
     "3 AWS Data/1 AWS Data Specialty.md",
-    "3 AWS Data/media/AWSCertifiedBigDataSlides.pdf",
     "WASM/wasmcloud.md",
     "3 ArdanLabs/2 Kubernetes/cdktf kubernetes.md",
-    "5 cms",
     "3 ArdanLabs/2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "archive/backends/GraphQL/GraphQL Notes.md",
     "GraphX/GraphQL.md",
