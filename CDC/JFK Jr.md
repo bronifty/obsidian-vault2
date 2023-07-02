@@ -1,0 +1,3 @@
+Dr William Thompson, Sr CDC Vaccine Scientist, handed 100k pgs of incriminating docs to Congress & under oath testified to being ordered by CDC for past decade to prevaricate (lie) about the link between autism & vaccines, specifically w/r/t mercury and its association (causal or non-causal link). 
+
+He was 1 of 4 authors including Frank DeStefano branch chief at CDC of a study looking at the MMR vaccine side effects on children which found that children who received the vaccine on time (age < 36mo) had a 240% increase in autism. This was 15 years ago.
