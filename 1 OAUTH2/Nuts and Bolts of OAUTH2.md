@@ -366,4 +366,9 @@ curl -X POST https://dev-bz-14ku3.us.auth0.com/oauth/token \
 - Low risk calls can be handled with local validation
 - High risk calls can be proxied to the auth server to do remote token validation
 - Alternatively, middleware could perform local validation and api could make a call to remote auth server for extra validation in the high risk cases (eg charging a credit card or otherwise processing an order)
-- 
+
+
+
+
+SSO Notes
+-JWT can be encrypted with JW Encryption

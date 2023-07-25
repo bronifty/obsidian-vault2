@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
+                "file": "6 State Management/State Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed96c2e39645ebb9",
@@ -104,10 +103,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f01d92c40f62a",
+  "active": "ba9d61ee32291676",
   "lastOpenFiles": [
-    "CDC/JFK Jr.md",
+    "1 Rust WASM React/React/RSC.md",
+    "6 State Management/State Management.md",
+    "6 State Management",
+    "Web/Chrome/Capabilities - Project Fugu.md",
     "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
+    "1 OAUTH2/Okta Auth0 Impl.md",
+    "3 AWS Data/2 Collection.md",
+    "3 AWS Data/Cadabara.com.md",
+    "3 AWS Data/1 AWS Data Specialty.md",
+    "CDC/JFK Jr.md",
     "CDC",
     "1 Rust WASM React/Rust/ZTM Rust.md",
     "1 OAUTH2",
@@ -118,16 +125,12 @@
     "1 Rust WASM React/WASM",
     "1 Rust WASM React/React",
     "1 Rust WASM React/Rust",
-    "1 Rust WASM React",
     "5 JS/Utils.md",
     "5 cms/sanity.md",
     "4 Supabase/Supabase Functions.md",
     "WASM/Cosmonic.md",
     "Weeks-of-2023/03.md",
     "archive/web/Capabilities.md",
-    "3 AWS Data/2 Collection.md",
-    "3 AWS Data/Cadabara.com.md",
-    "3 AWS Data/1 AWS Data Specialty.md",
     "WASM/wasmcloud.md",
     "3 ArdanLabs/2 Kubernetes/cdktf kubernetes.md",
     "3 ArdanLabs/2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
@@ -138,10 +141,6 @@
     "Realtime/Links.md",
     "archive/other/Theo.md",
     "3 ArdanLabs/1.excalidraw.md",
-    "3 ArdanLabs/Project Ideas.md",
-    "3 ArdanLabs/Links.md",
-    "3 ArdanLabs/Ardan Labs - Notes from Archive.md",
-    "3 ArdanLabs/2 Kubernetes/CKA/Nigel Poulton Handy Kubernetes k8s commands.md",
     "3 ArdanLabs/2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
     "3 ArdanLabs/2 Kubernetes/clean-code-wasm-kubernetes.png",
     "3 ArdanLabs/2 Kubernetes/nats-leaf-node.png",

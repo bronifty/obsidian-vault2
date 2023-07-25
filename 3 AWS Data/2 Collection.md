@@ -28,4 +28,6 @@
 - can replay (reprocess) data
 - immutable (once data inserted can't be deleted)
 - same partition same shard (ordering)
-- 
+
+### Duplicates
+- app PUTs record into Stream as sequence # with Data  
