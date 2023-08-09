@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 State Management/State Management.md",
+                "file": "1 Wing/Winglang and Wing Cloud.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,10 +103,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba9d61ee32291676",
+  "active": "ea4f01d92c40f62a",
   "lastOpenFiles": [
-    "1 Rust WASM React/React/RSC.md",
+    "3 ArdanLabs/Ardan Labs Bill Kennedy.md",
+    "1 Wing/Winglang and Wing Cloud.md",
     "6 State Management/State Management.md",
+    "1 Wing",
+    "1 Rust WASM React/React/RSC.md",
     "6 State Management",
     "Web/Chrome/Capabilities - Project Fugu.md",
     "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
@@ -124,7 +127,6 @@
     "1 Rust WASM React/react-and-rust-bookmarks.html",
     "1 Rust WASM React/WASM",
     "1 Rust WASM React/React",
-    "1 Rust WASM React/Rust",
     "5 JS/Utils.md",
     "5 cms/sanity.md",
     "4 Supabase/Supabase Functions.md",
@@ -136,11 +138,9 @@
     "3 ArdanLabs/2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "archive/backends/GraphQL/GraphQL Notes.md",
     "GraphX/GraphQL.md",
-    "3 ArdanLabs/Ardan Labs Bill Kennedy.md",
     "4 HashiCorp/Nomad/Nomad.md",
     "Realtime/Links.md",
     "archive/other/Theo.md",
-    "3 ArdanLabs/1.excalidraw.md",
     "3 ArdanLabs/2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
     "3 ArdanLabs/2 Kubernetes/clean-code-wasm-kubernetes.png",
     "3 ArdanLabs/2 Kubernetes/nats-leaf-node.png",
