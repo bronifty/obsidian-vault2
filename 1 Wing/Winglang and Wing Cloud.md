@@ -68,7 +68,47 @@ let rq = new ReplayableQueue();
 ```
 
 
-## Phase-independent code[​](https://www.winglang.io/docs/concepts/inflights#phase-independent-code "Direct link to heading")
+### Inflight Class Context
+- inflight class can only contain inflight members (properties and methods); it is safe to create in inflight context
+```ts
+inflight () => {
+  class Person {
+    name: str;
+    age: num;
 
-The global functions `log`, `assert`, `throw`, and `panic` can all be used in both preflight and inflight code.
+    init(name: str, age: num) {
+      this.name = name;
+      this.age = age;
+    }
+
+    inflight greet() {
+      log("Hello, ${this.name}!");
+    }
+  }
+
+  let p = new Person("John", 30);
+  p.greet();
+};
+```
+
+## Phase-independent code[​](https://www.winglang.io/docs/concepts/inflights#phase-independent-code "Direct link to heading")
+- inflight and preflight are mutual exclusive except for the phase independent codes
+- The global functions `log`, `assert`, `throw`, and `panic` can all be used in both preflight and inflight code.
+
+### Immutable cross-phase references
+
+- Inflight code can reference data like global variables and class fields from preflight, but the data cannot be mutated.
+```ts
+let var count = 3;
+let names = MutArray<str>["John", "Jane", "Joe"];
+
+count = count + 1; // OK
+names.push("Jack"); // OK
+
+inflight () => {
+  count = count + 1; // error: Variable cannot be reassigned from inflight
+  names.push("Jill"); // error: variable "names" cannot be mutated in inflight - error message not 
+                      // implemented yet, see https://github.com/winglang/wing/issues/3069
+};
+```
 
