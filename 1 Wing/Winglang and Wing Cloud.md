@@ -112,3 +112,31 @@ inflight () => {
 };
 ```
 
+### Aliasing
+- provisioning engine (terraform) resource provider (aws) default names can be overriden
+- The default name of a resource is the name of the class. The name can be overridden using the `as` syntax:
+
+```ts
+let bucket1 = new cloud.Bucket(); // default name is "cloud.Bucket"
+let bucket2 = new cloud.Bucket() as "my-bucket";
+```
+
+- resource names must be unique within lexical scope
+```ts
+class Group1 {
+  init() {
+    new cloud.Bucket() as "Store";
+  }
+}
+
+class Group2 {
+  init() {
+    new cloud.Bucket() as "Store";
+  }
+}
+
+// The following is valid
+new Group1();
+new Group2();
+```
+
