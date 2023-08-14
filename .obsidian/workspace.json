@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce04f6503c8f7f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Supabase/Qwik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a27296b61d6ce56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1 Supabase/SaaS Supabase Qwik.md",
                 "mode": "source",
                 "backlinks": false,
@@ -20,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,10 +130,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba9d61ee32291676",
+  "active": "0a27296b61d6ce56",
   "lastOpenFiles": [
-    "1 Clean Code/Dependency Injection the Best Pattern by Code Aesthetic.md",
+    "1 Supabase/Qwik.md",
     "1 Supabase/SaaS Supabase Qwik.md",
+    "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
+    "1 OAUTH2/Okta Auth0 Impl.md",
+    "1 Clean Code/Dependency Injection the Best Pattern by Code Aesthetic.md",
     "1 Supabase",
     "3 ArdanLabs/Ardan Labs - Notes from Archive.md",
     "3 ArdanLabs/Ardan Labs Bill Kennedy.md",
@@ -117,8 +147,6 @@
     "1 Rust WASM React/React/RSC.md",
     "6 State Management",
     "Web/Chrome/Capabilities - Project Fugu.md",
-    "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
-    "1 OAUTH2/Okta Auth0 Impl.md",
     "3 AWS Data/2 Collection.md",
     "3 AWS Data/Cadabara.com.md",
     "3 AWS Data/1 AWS Data Specialty.md",
@@ -140,7 +168,6 @@
     "3 ArdanLabs/2 Kubernetes/cdktf kubernetes.md",
     "3 ArdanLabs/2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "archive/backends/GraphQL/GraphQL Notes.md",
-    "GraphX/GraphQL.md",
     "3 ArdanLabs/2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
     "3 ArdanLabs/2 Kubernetes/clean-code-wasm-kubernetes.png",
     "3 ArdanLabs/2 Kubernetes/nats-leaf-node.png",
