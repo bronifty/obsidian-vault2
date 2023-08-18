@@ -12,7 +12,7 @@ Structure (composition)
 2. Bridge garbage for inheritance; use strategy
 3. Composite same as strat but immutable methods in task class (see image 2)
 4. Decorator a multistep form of dependency injection
-5. **Facade**: A single class that represents an entire subsystem.
+5. Facade combines multiple concrete implementations and composes (a) method(s) comprising extracted class methods
 6. **Flyweight**: A fine-grained instance used for efficient sharing of information that is contained elsewhere.
 7. **Proxy**: An object representing another object.
 
