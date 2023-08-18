@@ -253,4 +253,36 @@ Each request handler, such as `onRequest`, `onGet`, `onPost`, etc., are passe
 - `text`: Convenience method to send an text body response. The response will be automatically set the `Content-Type` header to`text/plain; charset=utf-8`. An `text()` response can only be called once.
 - `url`: HTTP request [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL).
 
-abs
+## Concepts
+
+### Reactivity
+
+- Misko is using Proxy for his in-built reactivity in Qwik & it's very fundamental js; it's like straight out of eloquent javascript book. the Proxy acts like a middleware which takes a request, does processing in relation to that request, then passes it on... so the question of how do we get reactive values (updates based on changes) is a question of how do we construct these Proxies for the state to be updated? useStore wraps your state value (eg count:0) in a proxy. so that when you say count++ (or rather, when you inc the variable wrapping count), only the component containing that state updates (the [en]closure).
+
+- the reactivity graph is serialized to HTML so the browser can use the info sans being forced to do a single pass through all components to rebuild the graph.
+
+- Reactivity can be done in a few ways:
+
+1. Using explicit registration of listeners using `.subscribe()` (for example, RxJS)
+2. Using implicit registration using a compiler (for example, Svelte)
+3. Using implicit registration using proxies.
+
+Qwik uses proxies for a few reasons:
+
+1. Using explicit registration such as `.subscribe()` would require the system to serialize all of the subscribed listeners to avoid hydration. Serializing subscribed closures would not be possible as all the subscribe functions would have to be lazy-loaded and asynchronous (too expensive).
+2. Using the compiler to create graphs implicitly would work, but only for components. Intra component communications would still require `.subscribe()` methods and hence suffer the issues described above.
+
+Because of the above constraints, Qwik uses proxies to keep track of the reactivity graph.
+
+- Use [`useStore()`](https://qwik.builder.io/docs/components/state/#usestore) to create a store proxy.
+- The proxy notices the reads and creates subscriptions that are serializable.
+- The proxy notices the writes and uses the subscription information to invalidate the relevant components.
+
+```ts
+export const Counter = component$(() => { 
+	const store = useStore({ count: 0 }); 
+	return <button onClick$={() => store.count++}>{store.count}</button>;
+});
+```
+
+
