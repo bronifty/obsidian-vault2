@@ -138,8 +138,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f01d92c40f62a",
+  "active": "ff8f86535b5ad9cb",
   "lastOpenFiles": [
+    "1 Clean Code/singleton.jpeg",
+    "1 Clean Code/composite v strategy.png",
+    "1 Clean Code/flyweight.png",
     "1 Clean Code/Gang of 4 TL;DR.md",
     "1 Supabase/Qwik.md",
     "1 Supabase/SaaS Supabase Qwik.md",
@@ -175,7 +178,6 @@
     "archive/web/Capabilities.md",
     "WASM/wasmcloud.md",
     "3 ArdanLabs/2 Kubernetes/cdktf kubernetes.md",
-    "3 ArdanLabs/2 Kubernetes/Kubernetes Certified Admin (KCA) Exam.md",
     "3 ArdanLabs/2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
     "3 ArdanLabs/2 Kubernetes/clean-code-wasm-kubernetes.png",
     "3 ArdanLabs/2 Kubernetes/nats-leaf-node.png",
