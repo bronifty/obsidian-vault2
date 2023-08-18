@@ -11,7 +11,7 @@ Structure (composition)
 1. Adapter inject dependency of one class implementation of an interface into another class which implements another interface 
 2. Bridge garbage for inheritance; use strategy
 3. Composite same as strat but immutable methods in task class (see image 2)
-4. **Decorator**: Adds responsibilities to objects dynamically.
+4. Decorator a multistep form of dependency injection
 5. **Facade**: A single class that represents an entire subsystem.
 6. **Flyweight**: A fine-grained instance used for efficient sharing of information that is contained elsewhere.
 7. **Proxy**: An object representing another object.
