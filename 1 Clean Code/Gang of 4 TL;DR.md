@@ -1,3 +1,4 @@
+summary: construction is the construction of objects from classes. structure is the composition of those constructed objects from classes. behavior is the behavior mechanisms of those composed classes in a program.
 
 Creation
 1. Abstract Factory what
@@ -7,22 +8,18 @@ Creation
 5. Singleton makes the constructor private with a public method to access the unique instance (see image 1)
 
 Structure (composition)
-
 1. Adapter inject dependency of one class implementation of an interface into another class which implements another interface 
 2. Bridge garbage for inheritance; use strategy
 3. Composite same as strat but immutable methods in task class (see image 2)
 4. Decorator a multistep form of dependency injection
 5. Facade combines multiple concrete implementations and composes (a) method(s) comprising extracted class methods
-6. **Flyweight**: A fine-grained instance used for efficient sharing of information that is contained elsewhere.
-7. **Proxy**: An object representing another object.
+6. Flyweight a garbage version of strategy (see image 3)
+7. Proxy proxy is a wrapper around the class which adds members (properties and methods)
 
 ### Behavioral Patterns:
-
-These are specifically concerned with communication between objects.
-
-1. **Chain of Responsibility**: A way of passing a request between a chain of objects.
-2. **Command**: Encapsulates a command request as an object.
-3. **Interpreter**: A way to include language elements in a program.
+1. Chain of Responsibility strategy with extra steps that works less efficiently to do the same thing as the actor model (comms between objects)
+2. Command strategy with extra steps
+3. Interpreter another strategy pattern
 4. **Iterator**: Sequentially access the elements of a collection.
 5. **Mediator**: Defines simplified communication between classes.
 6. **Memento**: Capture and restore an object's internal state.
