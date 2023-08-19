@@ -1,2 +1,0 @@
-- [flipt.io embedding react in go](https://www.flipt.io/blog/embedding-react-in-go)
-- [async streams in wasm with go](https://dev.to/jsoverson/async-streams-in-webassembly-with-wasmrs-jem)

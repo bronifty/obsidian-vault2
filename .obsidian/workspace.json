@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d990a72cb070f432",
+        "id": "7fe9c7420f91e4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9d61ee32291676",
+            "id": "307624428dd34226",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce04f6503c8f7f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Supabase/Qwik.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,11 +98,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce04f6503c8f7f65",
+  "active": "307624428dd34226",
   "lastOpenFiles": [
-    "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
-    "1 Supabase/Qwik.md",
+    "1 Qwik/Qwik Reactivity.md",
+    "1 Qwik",
+    "1 Qwik/Qwik.md",
     "1 Clean Code/Gang of 4 TL;DR.md",
+    "1 OAUTH2/Nuts and Bolts of OAUTH2.md",
     "1 Clean Code/singleton.jpeg",
     "1 Clean Code/composite v strategy.png",
     "1 Clean Code/flyweight.png",
@@ -148,7 +131,6 @@
     "1 Rust WASM React/bookmarks_6_11_23.html",
     "1 Rust WASM React/bookmarks_6_10_23.html",
     "1 Rust WASM React/bookmarks_6_10_23 1.html",
-    "1 Rust WASM React/react-and-rust-bookmarks.html",
     "5 JS/Utils.md",
     "5 cms/sanity.md",
     "4 Supabase/Supabase Functions.md",
@@ -156,7 +138,6 @@
     "Weeks-of-2023/03.md",
     "archive/web/Capabilities.md",
     "WASM/wasmcloud.md",
-    "3 ArdanLabs/2 Kubernetes/cdktf kubernetes.md",
     "3 ArdanLabs/2 Kubernetes/wasmcloud-cosmonic-kubernetes-topology.png",
     "3 ArdanLabs/2 Kubernetes/clean-code-wasm-kubernetes.png",
     "3 ArdanLabs/2 Kubernetes/nats-leaf-node.png",

@@ -1,4 +1,0 @@
-- [golangweekly.com/issues/443](https://golangweekly.com/issues/443)
-- [go.dev/tour](https://go.dev/tour/welcome/1)
-- [go.dev/learn](https://go.dev/learn/)
-- [wails](https://github.com/wailsapp/wails)
